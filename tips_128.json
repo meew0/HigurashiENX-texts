@@ -3,84 +3,84 @@
 		"type": "SAVEINFO",
 		"category": 1,
 		"JPN": "面白いヤツ",
-		"ENG": "面白いヤツ"
+		"ENG": "A Funny Guy"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16112,
 		"TextJPN": "……初めは、いかにも『都会っ子』なイメージだった。",
-		"TextENG": ""
+		"TextENG": "...At first, we all just thought of him as the ``city kid``."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16113,
 		"TextJPN": "勉強ができそうだけど、急なトラブルに巻き込まれるとパニックになってしまうような、……一言で言えば『模範的』な男の子。",
-		"TextENG": ""
+		"TextENG": "He seemed to be the kind of guy who's good at studying, but starts panicking whenever something goes wrong. ...In one word, he seemed like an ``exemplary`` boy."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16114,
 		"TextJPN": "レナのときは、気安く話しかけるだけでよかった。だけど、この年頃の男の子はあまり女の子に近づきたがらないと聞いている。",
-		"TextENG": ""
+		"TextENG": "When Rena came here, all I had to do was talk to her casually. But I heard that boys our age don't really like to be friends with girls."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16115,
 		"TextJPN": "だから、いざ転校して教室に入ってきたときは、正直どう接したらいいか、どうやったらクラスの輪にうまく溶け込むことができるだろうか、……なんて色々と考えて、ちょっとだけ気が重かったのも、確かだ。",
-		"TextENG": ""
+		"TextENG": "So I was a bit unsure about how to talk to him when he first comes into the classroom, and how to best integrate him into the class. ...It's definitely true that I was feeling a bit down while thinking about all that."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16116,
 		"TextJPN": "でも、…………本当に『案ずるより産むが易し』とでもいうのだろうか。見かけによらず彼はとても話しやすくて、ユーモアもあって、……面白い男の子だった。",
-		"TextENG": ""
+		"TextENG": "But as they say, ``don't worry about it, it'll be fine``. In contrast to how he looked, he was actually super easy to talk to and had a great sense of humor... just a really funny boy."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16117,
 		"TextJPN": "なにより、都会らしさを表に見せないところがいい。高慢でもないし、かといって卑屈でもない。とても自然体で、……ちょっと話しただけでもこの子とは絶対に気が合う、と確信が持てるくらいだった。",
-		"TextENG": ""
+		"TextENG": "Above all, I liked that he didn't appear like a city kid at all. He wasn't arrogant, but he wasn't a pushover, either. He always seemed relaxed... even by just talking to him for a bit, I already felt confident that I'd get along great with him."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16118,
 		"TextJPN": "私たちの仲良しグループは女の子ばかりだったけど、……どうかなと思って誘ってみたら、意外にもすんなりと入ってきた。",
-		"TextENG": ""
+		"TextENG": "Our friend group consisted only of girls, but I thought that I might as well try inviting him in, and he fit in with the group much more easily than I expected."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16119,
 		"TextJPN": "それに部活のゲームにもノリ良くついて来て、しかも一矢報いるどころか、完全にカウンターパンチを繰り出してくる高い順応力は、正直言って予想以上だ。",
-		"TextENG": ""
+		"TextENG": "And he easily got into the mood when we played games in the club, and not only was he able to retaliate, I was really surprised by his ability to adapt and return our blows."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16120,
 		"TextJPN": "なんだか、わくわくする。",
-		"TextENG": ""
+		"TextENG": "Somehow, I'm getting a bit excited."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16121,
 		"TextJPN": "今までも結構楽しかったけど、明日からはもっと愉快でにぎやかになりそうだ。",
-		"TextENG": ""
+		"TextENG": "It's been really fun so far, but I feel like it's going to get even happier and livelier tomorrow."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16122,
 		"TextJPN": "……ああ、早く明日にならないかな。",
-		"TextENG": ""
+		"TextENG": "...Ah, I want tomorrow to come quickly."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16123,
 		"TextJPN": "明日はどんなゲームで、どんな罰ゲームにしようか……？",
-		"TextENG": ""
+		"TextENG": "What game are we going to play tomorrow, and what punishment will there be...?"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16124,
 		"TextJPN": "悔しがったり、喜んだり、文字通り一喜一憂する今日の彼の顔を思い浮かべながら、私はまどろむ意識の中、眠りの海へと漕ぎ出していった……。",
-		"TextENG": ""
+		"TextENG": "I was thinking about his face today that was almost literally swinging between joy and sorrow, while I slowly started rowing out onto the sea of sleep within my fading consciousness."
 	}
 ]

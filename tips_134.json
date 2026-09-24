@@ -3,7 +3,7 @@
 		"type": "SAVEINFO",
 		"category": 1,
 		"JPN": "クロークにて",
-		"ENG": "クロークにて"
+		"ENG": "In the Changing Room"
 	},
 	{
 		"type": "MSGSET",
@@ -12,7 +12,7 @@
 		"PreTextTags": "@vS20/00/waitA44001.",
 		"TextJPN": "「おつかれさま～」",
 		"NamesENG": "Waitress",
-		"TextENG": ""
+		"TextENG": "``See you!``"
 	},
 	{
 		"type": "MSGSET",
@@ -21,7 +21,7 @@
 		"PreTextTags": "@vS20/06/440600044.",
 		"TextJPN": "「お疲れさまで～す。……あ、今日はすみませんでした。友達と話し込んじゃって……」",
 		"NamesENG": "Shion",
-		"TextENG": ""
+		"TextENG": "``See you~! ...Oh, by the way, sorry for today. I got lost in conversation with a friend...``"
 	},
 	{
 		"type": "MSGSET",
@@ -30,7 +30,7 @@
 		"PreTextTags": "@vS20/00/waitA44002.",
 		"TextJPN": "「あははは、別にいいわよ。彼氏が来たんだから、話したいと思うのは当然よね」",
 		"NamesENG": "Waitress",
-		"TextENG": ""
+		"TextENG": "``Hahaha, don't worry about it. Of course you'd get lost in conversation if your boyfriend comes to visit.``"
 	},
 	{
 		"type": "MSGSET",
@@ -39,7 +39,7 @@
 		"PreTextTags": "@vS20/06/440600045.",
 		"TextJPN": "「え……あ、いや……、か、彼氏ってわけじゃ……」",
 		"NamesENG": "Shion",
-		"TextENG": ""
+		"TextENG": "``Uh... no... he's... it's not like...``"
 	},
 	{
 		"type": "MSGSET",
@@ -48,7 +48,7 @@
 		"PreTextTags": "@vS20/00/waitA44003.",
 		"TextJPN": "「それにしても、話で聞く以上にいい子よね。危ないところに駆けつけて、不良たちを追い払ってくれたんでしょう？」",
 		"NamesENG": "Waitress",
-		"TextENG": ""
+		"TextENG": "``Besides, he's a good guy beyond just talking with him. He came to your help when you were in danger and drove away those thugs, didn't he?``"
 	},
 	{
 		"type": "MSGSET",
@@ -57,7 +57,7 @@
 		"PreTextTags": "@vS20/06/440600046.",
 		"TextJPN": "「…………あ、はい。おかげさまで……助かりました」",
 		"NamesENG": "Shion",
-		"TextENG": ""
+		"TextENG": "``...Ah, yeah. Everything was fine in the end, thanks to his help.``"
 	},
 	{
 		"type": "MSGSET",
@@ -66,7 +66,7 @@
 		"PreTextTags": "@vS20/00/waitB44001.",
 		"TextJPN": "「きゃ～、かっこいい～♪　悪人に囲まれているところに颯爽と現れて、助け出してもらえるなんて……女性にとって究極の夢よ～？」",
 		"NamesENG": "Waitress",
-		"TextENG": ""
+		"TextENG": "``Kya~ so cool~♪ Having someone gallantly rush in and rescue you when you're cornered by evildoers... that must be a woman's ultimate dream~?``"
 	},
 	{
 		"type": "MSGSET",
@@ -75,7 +75,7 @@
 		"PreTextTags": "@vS20/06/440600047.",
 		"TextJPN": "「あ、あははは……。圭ちゃん、腕っぷしだけは強いから……」",
 		"NamesENG": "Shion",
-		"TextENG": ""
+		"TextENG": "``Ah, ahahaha... Kei-chan is only strong physically, so...``"
 	},
 	{
 		"type": "MSGSET",
@@ -84,7 +84,7 @@
 		"PreTextTags": "@vS20/00/waitA44004.",
 		"TextJPN": "「でも、二人とも怪我がなくて、本当に良かったわね。それにしても、どうして不良たちに因縁をつけられたりしたの？」",
 		"NamesENG": "Waitress",
-		"TextENG": ""
+		"TextENG": "``I'm glad that neither of you got injured, though. Besides, why did those thugs end up picking a fight with you in the first place?``"
 	},
 	{
 		"type": "MSGSET",
@@ -93,7 +93,7 @@
 		"PreTextTags": "@vS20/06/440600048.",
 		"TextJPN": "「いや……。ふつうに道を歩いてたら、声をかけられちゃって……たはは」",
 		"NamesENG": "Shion",
-		"TextENG": ""
+		"TextENG": "``Well... I was just walking along the road normally, when they suddenly called out to me... hahaha!``"
 	},
 	{
 		"type": "MSGSET",
@@ -102,7 +102,7 @@
 		"PreTextTags": "@vS20/00/waitB44002.",
 		"TextJPN": "「へぇ、それじゃナンパ？　最近そんな人たちが興宮にも増えたのねぇ。私たちも気をつけないと……」",
 		"NamesENG": "Waitress",
-		"TextENG": ""
+		"TextENG": "``Really... were they catcalling you? Lately, these kinds of people have been appearing in Okinomiya more and more. We have to be careful...``"
 	},
 	{
 		"type": "MSGSET",
@@ -111,7 +111,7 @@
 		"PreTextTags": "@vS20/06/440600049.",
 		"TextJPN": "「そうですね。私も、これから気をつけるようにします。次に会ったら、特殊警棒か何かで思いっきり殴りつけてやりますよ。あっはははは～」",
 		"NamesENG": "Shion",
-		"TextENG": ""
+		"TextENG": "``That's true. I'll make sure to be careful as well from now on. When I meet them again, I'll make sure to use my special baton to hit them with full force. Ahahaha~``"
 	},
 	{
 		"type": "MSGSET",
@@ -120,7 +120,7 @@
 		"PreTextTags": "@vS20/00/waitA44005.",
 		"TextJPN": "「……刃物はダメだからね。万能ナイフでも、携行していたら捕まるご時勢なんだから」",
 		"NamesENG": "Waitress",
-		"TextENG": ""
+		"TextENG": "``...Sharp things are forbidden, after all. These days, you'll be arrested if they find you carrying even just a Swiss army knife.``"
 	},
 	{
 		"type": "MSGSET",
@@ -129,7 +129,7 @@
 		"PreTextTags": "@vS20/06/440600050.",
 		"TextJPN": "「は～い、了解です。……それじゃ、先に上がります。お疲れさまでした～」",
 		"NamesENG": "Shion",
-		"TextENG": ""
+		"TextENG": "``Yeah. I know. ...Well then, I'll be heading out. See you~``"
 	},
 	{
 		"type": "MSGSET",
@@ -138,7 +138,7 @@
 		"PreTextTags": "@vS20/00/waitA44006.",
 		"TextJPN": "「……なんだか、園崎さんご機嫌いっぱいだったわね。よっぽど嬉しかったのかしら？」",
 		"NamesENG": "Waitress",
-		"TextENG": ""
+		"TextENG": "``...Somehow, Sonozaki-san seemed to be in a great mood. She was probably really happy.``"
 	},
 	{
 		"type": "MSGSET",
@@ -147,7 +147,7 @@
 		"PreTextTags": "@vS20/00/waitB44003.",
 		"TextJPN": "「あ～あ、私もいい人見つけようかなぁ。ピンチのときに駆けつけてくれるような、素敵な王子様がどこかにいないかしら～？」",
 		"NamesENG": "Waitress",
-		"TextENG": ""
+		"TextENG": "``Ah, ah, I want to find somebody good as well. Can't there be a charming prince out there who will come running to save me when I'm in a tough spot?``"
 	},
 	{
 		"type": "MSGSET",
@@ -156,7 +156,7 @@
 		"PreTextTags": "@vS20/00/waitA44007.",
 		"TextJPN": "「……間違っても、デザートフェスタのあの人たちはごめんですけどね」",
 		"NamesENG": "Waitress",
-		"TextENG": ""
+		"TextENG": "``Well, it's definitely not any of those people who always come to the Dessert Festa.``"
 	},
 	{
 		"type": "MSGSET",
@@ -165,6 +165,6 @@
 		"PreTextTags": "@vS20/00/waitA44008.",
 		"TextJPN": "「あっはっはっはっはっ！！」",
 		"NamesENG": "Waitress",
-		"TextENG": ""
+		"TextENG": "``Ahahahaha!!``"
 	}
 ]

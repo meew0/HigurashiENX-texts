@@ -222,7 +222,7 @@
 		"type": "MSGSET",
 		"MessageID": 15998,
 		"TextJPN": "しかし、沙都子はそれでも抵抗する。@kさすがに鉄平もこれ以上はやめた方がいいと思った。",
-		"TextENG": ""
+		"TextENG": "But Satoko still resisted.@k Given this, even Teppei thought it might be better to back off."
 	},
 	{
 		"type": "MSGSET",
@@ -246,7 +246,7 @@
 		"type": "MSGSET",
 		"MessageID": 16001,
 		"TextJPN": "沙都子の反応を見て、鉄平は確信した。@kきっとこの部屋に通帳がある。",
-		"TextENG": ""
+		"TextENG": "From Satoko's reaction, Teppei became convinced.@k The bankbook was definitely in this room."
 	},
 	{
 		"type": "MSGSET",
@@ -258,7 +258,7 @@
 		"type": "MSGSET",
 		"MessageID": 16003,
 		"TextJPN": "そうだな、…よく考えれば沙都子は学校に行かせた方がいい。",
-		"TextENG": ""
+		"TextENG": "Thinking about it, maybe it would be better to have Satoko go to school after all."
 	},
 	{
 		"type": "MSGSET",

@@ -3,7 +3,7 @@
 		"type": "SAVEINFO",
 		"category": 1,
 		"JPN": "欲しいものは…",
-		"ENG": "欲しいものは…"
+		"ENG": "What I Want Is..."
 	},
 	{
 		"type": "MSGSET",
@@ -12,7 +12,7 @@
 		"PreTextTags": "@vS20/01/440100141.",
 		"TextJPN": "「なぁ、沙都子。そういえば沙都子の誕生日って、もうすぐだよな」",
 		"NamesENG": "Keiichi",
-		"TextENG": ""
+		"TextENG": "``Hey, Satoko. Your birthday is coming up pretty soon, right?``"
 	},
 	{
 		"type": "MSGSET",
@@ -21,25 +21,25 @@
 		"PreTextTags": "@vS20/04/440400104.",
 		"TextJPN": "「え？　あ、そう……でございますわね……」",
 		"NamesENG": "Satoko",
-		"TextENG": ""
+		"TextENG": "``Huh? Ah, that's... true, isn't it...``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16127,
 		"TextJPN": "……なんだろう。",
-		"TextENG": ""
+		"TextENG": "...What's up with her?"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16128,
 		"TextJPN": "いつも元気いっぱいに明るく、陽気な沙都子には珍しく沈んだ声で、言葉を濁している。自分の誕生日の話なら、もう少し照れるか、喜んでもいいはずなんだけど……。",
-		"TextENG": ""
+		"TextENG": "Satoko is always so cheerful and full of energy, but now she's evading the question with a weirdly melancholic expression. I would have expected her to feel a bit embarrassed, or even just happy, when talking about her birthday..."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16129,
 		"TextJPN": "それとも、…………さっきのショックがまだ、尾を引いているのだろうか……？",
-		"TextENG": ""
+		"TextENG": "Even so... did the shock from before leave a lasting effect on her?"
 	},
 	{
 		"type": "MSGSET",
@@ -48,7 +48,7 @@
 		"PreTextTags": "@vS20/01/440100142.",
 		"TextJPN": "「せっかくだから、何かプレゼントしてやるよ。何がいい？　それとも、ケーキのほうがいいかなぁ？」",
 		"NamesENG": "Keiichi",
-		"TextENG": ""
+		"TextENG": "``Since your birthday is coming up, I want to give you a present. What would you like? Or maybe you want a cake instead?``"
 	},
 	{
 		"type": "MSGSET",
@@ -57,7 +57,7 @@
 		"PreTextTags": "@vS20/04/440400105.",
 		"TextJPN": "「そ、そんな……お気遣いいただかなくても、別に結構ですわ。誕生日なんて、毎年やってくるものでございますし……」",
 		"NamesENG": "Satoko",
-		"TextENG": ""
+		"TextENG": "``Th-that's... I appreciate your concern, but I'm fine. After all, birthdays simply come and go every year.``"
 	},
 	{
 		"type": "MSGSET",
@@ -66,7 +66,7 @@
 		"PreTextTags": "@vS20/01/440100143.",
 		"TextJPN": "「何言ってるんだ。ひとつ大人になったことのお祝いなんだから、めでたいに決まってるだろ？　遠慮せず、喜んで受け取れ。その代わり、来年は俺のときにもよろしくな」",
 		"NamesENG": "Keiichi",
-		"TextENG": ""
+		"TextENG": "``What are you talking about? You're getting a bit closer to being an adult, of course that's worth celebrating! Don't worry about it too much, you can just enjoy it. In return, feel free to get something for me next year!``"
 	},
 	{
 		"type": "MSGSET",
@@ -75,7 +75,7 @@
 		"PreTextTags": "@vS20/04/440400106.",
 		"TextJPN": "「え？　圭一さんは、もう誕生日を過ぎていらっしゃるのでございますか？」",
 		"NamesENG": "Satoko",
-		"TextENG": ""
+		"TextENG": "``Huh? Has your birthday already gone by, Keiichi-san?``"
 	},
 	{
 		"type": "MSGSET",
@@ -84,7 +84,7 @@
 		"PreTextTags": "@vS20/01/440100144.",
 		"TextJPN": "「おう。おそらくクラスの中でも最速だな。これだけは、誰にも負ける気がしない」",
 		"NamesENG": "Keiichi",
-		"TextENG": ""
+		"TextENG": "``Yep. I'm pretty sure it's the earliest out of everyone in the class. I don't think anyone can beat me on this!``"
 	},
 	{
 		"type": "MSGSET",
@@ -93,7 +93,7 @@
 		"PreTextTags": "@vS20/04/440400107.",
 		"TextJPN": "「……誰よりも一足早く老け込むことが、自慢になるとは思えませんわね。そんなに老いに向かって突き進んでいくことが、おめでたく思えるのでございますか？」",
 		"NamesENG": "Satoko",
-		"TextENG": ""
+		"TextENG": "``...I could not possibly be this prideful about getting old slightly earlier than everyone else. Is it really worthy of celebration to push towards old age like this?``"
 	},
 	{
 		"type": "MSGSET",
@@ -102,7 +102,7 @@
 		"PreTextTags": "@vS20/01/440100145.",
 		"TextJPN": "「ぬっ？　『老ける』んじゃねえ、『大人になる』だ！　日本語のニュアンスを正しく理解してから発言するように！」",
 		"NamesENG": "Keiichi",
-		"TextENG": ""
+		"TextENG": "``Ngh? It's not ``getting old``, it's ``becoming an adult``! You need to correctly understand the nuances of the Japanese language when saying something like this!``"
 	},
 	{
 		"type": "MSGSET",
@@ -111,13 +111,13 @@
 		"PreTextTags": "@vS20/04/440400109.",
 		"TextJPN": "「をっほっほっ！　敬老精神は誰よりも培ってきておりますわ！　ですから明日の圭一さんの昼食には、熱い番茶をプレゼントして差し上げますわよ！　あら、昆布茶のほうがよろしいかしら？」",
 		"NamesENG": "Satoko",
-		"TextENG": ""
+		"TextENG": "``Oh ho ho! I've cultivated an attitude of respect for the elderly more so than anyone else! That's why for tomorrow's lunch, I'll be giving you a present of hot coarse tea! Or might you prefer seaweed tea?``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16138,
 		"TextJPN": "そう言って、沙都子のいつもの高笑いが響き渡る。……うん、ようやく元気が戻ってきたみたいで、俺は心のうちで安堵していた。",
-		"TextENG": ""
+		"TextENG": "Saying this, Satoko's usual loud laughter echoes through the room. ...Honestly, I was pretty relieved that her energy finally came back."
 	},
 	{
 		"type": "MSGSET",
@@ -126,7 +126,7 @@
 		"PreTextTags": "@vS20/01/440100147.",
 		"TextJPN": "「んが～～！　もう許さん！　沙都子、そこになおれぇ～！！」",
 		"NamesENG": "Keiichi",
-		"TextENG": ""
+		"TextENG": "``Ngh! I won't forget this! Satoko, get back here!!``"
 	},
 	{
 		"type": "MSGSET",
@@ -135,12 +135,12 @@
 		"PreTextTags": "@vS20/04/440400110.",
 		"TextJPN": "「をーっほっほっほっ！　鬼さんこちら、追いつけるのなら捕まえて御覧なさいませぇ！」",
 		"NamesENG": "Satoko",
-		"TextENG": ""
+		"TextENG": "``Oh ho ho ho! Come and try to catch me if you can!``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16141,
 		"TextJPN": "そして、沙都子は立ち漕ぎで猛ダッシュする。俺も負けじと、ペダルに力を込めて駆け出した。",
-		"TextENG": ""
+		"TextENG": "With that, Satoko stood up on her bike and pedaled away at full speed. I wasn't going to lose to her, so I put my full strength into my pedals as well and went off."
 	}
 ]

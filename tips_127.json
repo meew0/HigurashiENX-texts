@@ -3,13 +3,13 @@
 		"type": "SAVEINFO",
 		"category": 1,
 		"JPN": "荷物もち",
-		"ENG": "荷物もち"
+		"ENG": "Luggage Carrier"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16085,
 		"TextJPN": "梨花ちゃんの先導で向かった先は、……さっき昼食会を開いた古手神社だった。",
-		"TextENG": ""
+		"TextENG": "The place Rika-chan led me to was... the Furude Shrine, where we had a lunch meeting earlier."
 	},
 	{
 		"type": "MSGSET",
@@ -18,7 +18,7 @@
 		"PreTextTags": "@vS20/05/440500064.",
 		"TextJPN": "「……ここでいいのです、圭一。運んでくれて、どうもありがとうなのですよ」",
 		"NamesENG": "Rika",
-		"TextENG": ""
+		"TextENG": "``...Here is perfect, Keiichi. Thank you very much for helping me carry all this home.``"
 	},
 	{
 		"type": "MSGSET",
@@ -27,25 +27,25 @@
 		"PreTextTags": "@vS20/01/440100134.",
 		"TextJPN": "「え、ここって……神社だけど？」",
 		"NamesENG": "Keiichi",
-		"TextENG": ""
+		"TextENG": "``Huh, but this is a... shrine, right?``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16088,
 		"TextJPN": "そう言いながら、石段の上にある鳥居を見上げる。",
-		"TextENG": ""
+		"TextENG": "While I said this, I looked up at the shrine gate at the end of the stone stairs."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16089,
 		"TextJPN": "いや、……待てよ？　この神社の名前は、『古手神社』。",
-		"TextENG": ""
+		"TextENG": "Wait... the name of this shrine is the ``Furude Shrine``."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16090,
 		"TextJPN": "そして、梨花ちゃんの苗字は……。",
-		"TextENG": ""
+		"TextENG": "And Rika's last name is..."
 	},
 	{
 		"type": "MSGSET",
@@ -54,7 +54,7 @@
 		"PreTextTags": "@vS20/01/440100135.",
 		"TextJPN": "「……そっか、ここが梨花ちゃんの家だったのか」",
 		"NamesENG": "Keiichi",
-		"TextENG": ""
+		"TextENG": "``Ah, I get it. This is where you live, Rika-chan?``"
 	},
 	{
 		"type": "MSGSET",
@@ -63,13 +63,13 @@
 		"PreTextTags": "@vS20/05/440500065.",
 		"TextJPN": "「そうなのですよ。ようやくわかるなんて、圭一も案外ヌケ作さんなのです。にぱ～☆」",
 		"NamesENG": "Rika",
-		"TextENG": ""
+		"TextENG": "``That's right. I'm surprised you're such a doofus that you only realize this now. Nipah☆``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16093,
 		"TextJPN": "そう言って、梨花ちゃんはにこやかに笑ってみせる。……そうは言っても、クラスのみんなも教えてくれなかったじゃないか。",
-		"TextENG": ""
+		"TextENG": "Rika-chan said this with a wide smile on her face. ...That said, it's not like anyone in the class has told me either."
 	},
 	{
 		"type": "MSGSET",
@@ -78,7 +78,7 @@
 		"PreTextTags": "@vS20/05/440500066.",
 		"TextJPN": "「別に内緒にしていたわけじゃないのです。この村では有名なことだから、かえって話す機会がなかっただけなのですよ」",
 		"NamesENG": "Rika",
-		"TextENG": ""
+		"TextENG": "``It's not like I was trying to keep it a secret or anything. It's well known in this village, actually, so it never comes up in conversation.``"
 	},
 	{
 		"type": "MSGSET",
@@ -87,7 +87,7 @@
 		"PreTextTags": "@vS20/01/440100136.",
 		"TextJPN": "「有名って……この神社が？」",
 		"NamesENG": "Keiichi",
-		"TextENG": ""
+		"TextENG": "``You mean, this shrine is well known?``"
 	},
 	{
 		"type": "MSGSET",
@@ -96,13 +96,13 @@
 		"PreTextTags": "@vS20/05/440500067.",
 		"TextJPN": "「はいなのです。そして、何を隠そうこのボクも、この村では有名人なのですよ」",
 		"NamesENG": "Rika",
-		"TextENG": ""
+		"TextENG": "``Yes. And honestly, I'm a well known person in this village as well.``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16097,
 		"TextJPN": "……まぁ、確かに狭い村とはいえさっきの買い物のときは、お年寄りのアイドルって感じだったしな。",
-		"TextENG": ""
+		"TextENG": "...True, when we went shopping, I got the feeling that she is kind of a celebrity for the elderly, even for such a small village."
 	},
 	{
 		"type": "MSGSET",
@@ -111,7 +111,7 @@
 		"PreTextTags": "@vS20/05/440500068.",
 		"TextJPN": "「よいしょ……と」",
 		"NamesENG": "Rika",
-		"TextENG": ""
+		"TextENG": "``Heave-ho...!``"
 	},
 	{
 		"type": "MSGSET",
@@ -120,7 +120,7 @@
 		"PreTextTags": "@vS20/01/440100137.",
 		"TextJPN": "「……ん？　その自転車――」",
 		"NamesENG": "Keiichi",
-		"TextENG": ""
+		"TextENG": "``Huh? This bike―``"
 	},
 	{
 		"type": "MSGSET",
@@ -129,13 +129,13 @@
 		"PreTextTags": "@vS20/05/440500069.",
 		"TextJPN": "「みぃ……？」",
 		"NamesENG": "Rika",
-		"TextENG": ""
+		"TextENG": "``Meep?``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16101,
 		"TextJPN": "俺は、石段のそばに自転車を止める梨花ちゃんのすぐ横に、もうひとつ自転車を見つけて声をあげる。前に一度見たきりだけど、確かその色と型は、……沙都子の自転車だったはずだ。",
-		"TextENG": ""
+		"TextENG": "While Rika-chan parked her bike, I saw another bike right next to her and couldn't help but say that. Even though I had only seen it once before, this color and model... I was sure that it was Satoko's bike."
 	},
 	{
 		"type": "MSGSET",
@@ -144,7 +144,7 @@
 		"PreTextTags": "@vS20/01/440100138.",
 		"TextJPN": "「沙都子、遊びに来てるのか？」",
 		"NamesENG": "Keiichi",
-		"TextENG": ""
+		"TextENG": "``Did Satoko come over to play?``"
 	},
 	{
 		"type": "MSGSET",
@@ -153,13 +153,13 @@
 		"PreTextTags": "@vS20/05/440500070.",
 		"TextJPN": "「沙都子は、ボクと一緒に暮らしているのです。かわいい居候さんなのですよ。にぱ～♪」",
 		"NamesENG": "Rika",
-		"TextENG": ""
+		"TextENG": "``Satoko lives together with me. She is a cute freeloader. Nipah♪``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16104,
 		"TextJPN": "一緒に……？　それじゃ、沙都子の両親って――――。",
-		"TextENG": ""
+		"TextENG": "Together...? So, Satoko's parents are―"
 	},
 	{
 		"type": "MSGSET",
@@ -168,7 +168,7 @@
 		"PreTextTags": "@vS20/05/440500071.",
 		"TextJPN": "「圭一、ここまでご苦労様なのです。これはお駄賃なのですよ。はい」",
 		"NamesENG": "Rika",
-		"TextENG": ""
+		"TextENG": "``Keiichi, thank you for the help. Here's a little something for you. Here you go.``"
 	},
 	{
 		"type": "MSGSET",
@@ -177,13 +177,13 @@
 		"PreTextTags": "@vS20/01/440100139.",
 		"TextJPN": "「ん？　あ、ああ……さんきゅ」",
 		"NamesENG": "Keiichi",
-		"TextENG": ""
+		"TextENG": "``Huh? Ah, ah... thanks!``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16107,
 		"TextJPN": "俺の手から買い物袋を受け取った梨花ちゃんは、その中からみかんをひとつ取り出して俺に手渡してくれる。そして、いつもの朗らかな笑顔で小首を可愛らしく傾げると、手を振りながら石段をあがっていった。",
-		"TextENG": ""
+		"TextENG": "After taking the shopping bags from my hands, Rika-chan took a mandarin out of one of the bags and handed it to me. Then, with her usual cheerful smile, she cutely tilted her head and waved to me while going up the stone stairs."
 	},
 	{
 		"type": "MSGSET",
@@ -192,24 +192,24 @@
 		"PreTextTags": "@vS20/01/440100140.",
 		"TextJPN": "「………………まぁ、いいか」",
 		"NamesENG": "Keiichi",
-		"TextENG": ""
+		"TextENG": "``Well, whatever.``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16109,
 		"TextJPN": "まだ聞きたいことがあったけど、いつでも聞けるか。",
-		"TextENG": ""
+		"TextENG": "I still want to ask her about it, but I can do that whenever."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16110,
 		"TextJPN": "そう思って俺は、自転車のスタンドを上げてサドルにまたがり、今来た道を戻ってペダルをこぎ始める。",
-		"TextENG": ""
+		"TextENG": "With that thought, I took my bike out of the stand, sat down on the saddle, and started pedaling back on the way we came."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16111,
 		"TextJPN": "夕暮れは、もうまもなくだった。",
-		"TextENG": ""
+		"TextENG": "It was just before dusk."
 	}
 ]

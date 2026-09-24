@@ -3,7 +3,7 @@
 		"type": "SAVEINFO",
 		"category": 1,
 		"JPN": "楽しい部活",
-		"ENG": "楽しい部活"
+		"ENG": "Fun in the Club"
 	},
 	{
 		"type": "MSGSET",
@@ -12,7 +12,7 @@
 		"PreTextTags": "@vS20/02/440200094.",
 		"TextJPN": "「梨花ちゃん、沙都子ちゃん、お待たせ～！　さぁ、帰ろ帰ろ～！」",
 		"NamesENG": "Rena",
-		"TextENG": ""
+		"TextENG": "``Rika-chan, Satoko-chan, sorry for the wait~! Let's go, let's go!``"
 	},
 	{
 		"type": "MSGSET",
@@ -21,7 +21,7 @@
 		"PreTextTags": "@vS20/05/440500072.",
 		"TextJPN": "「……レナ、とてもご機嫌なのです。何かいいことがありましたか？」",
 		"NamesENG": "Rika",
-		"TextENG": ""
+		"TextENG": "``...You're in a great mood, Rena. Did something good happen?``"
 	},
 	{
 		"type": "MSGSET",
@@ -30,7 +30,7 @@
 		"PreTextTags": "@vS20/02/440200095.",
 		"TextJPN": "「え？　そ、そうかな？　いつもとおんなじだけど……なんで？」",
 		"NamesENG": "Rena",
-		"TextENG": ""
+		"TextENG": "``Huh? Is- is that so? I'm feeling the same as always... why?``"
 	},
 	{
 		"type": "MSGSET",
@@ -39,7 +39,7 @@
 		"PreTextTags": "@vS20/04/440400111.",
 		"TextJPN": "「なんだか、いつも以上にハイテンションでございますわ。おトイレからここまでの廊下、ずっとスキップしておられましたわよ？」",
 		"NamesENG": "Satoko",
-		"TextENG": ""
+		"TextENG": "``Somehow, you seem more excited than usual. You've been skipping all the way here through the corridors, right?``"
 	},
 	{
 		"type": "MSGSET",
@@ -48,7 +48,7 @@
 		"PreTextTags": "@vS20/05/440500073.",
 		"TextJPN": "「……おまけに入ってきた瞬間、ボードもないのにカットバックドロップターンを見事に決めていたのですよ」",
 		"NamesENG": "Rika",
-		"TextENG": ""
+		"TextENG": "``And above that, when you came in, you did a splendid cut-back drop turn without even being on a board.``"
 	},
 	{
 		"type": "MSGSET",
@@ -57,13 +57,13 @@
 		"PreTextTags": "@vS20/02/440200096.",
 		"TextJPN": "「あれ……あれあれぇ？　レナ、普通に歩いて普通に入ってきたつもりだったんだけど～？」",
 		"NamesENG": "Rena",
-		"TextENG": ""
+		"TextENG": "``Huh... wait, what? But I was just walking normally, and coming in like usual~?``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16168,
 		"TextJPN": "気づいていない時点ですでに重症だ、と梨花と沙都子は顔を見合わせて同時に呟いた。",
-		"TextENG": ""
+		"TextENG": "Rika and Satoko exchanged a glance, and both muttered that whatever is affecting her must already have become pretty severe, if she doesn't even notice it herself."
 	},
 	{
 		"type": "MSGSET",
@@ -72,7 +72,7 @@
 		"PreTextTags": "@vS20/04/440400112.",
 		"TextJPN": "「それにしても、レナさんのかぁいいモードを封印できる人がいたとは思いませんでしたわ。圭一さんもなかなか侮れないですわねぇ～」",
 		"NamesENG": "Satoko",
-		"TextENG": ""
+		"TextENG": "``Besides, I didn't think there could be anyone capable of sealing off your kyute mode. Keiichi-san is not to be underestimated~!``"
 	},
 	{
 		"type": "MSGSET",
@@ -81,7 +81,7 @@
 		"PreTextTags": "@vS20/05/440500074.",
 		"TextJPN": "「……レナキラー襲名なのです」",
 		"NamesENG": "Rika",
-		"TextENG": ""
+		"TextENG": "``...He's going to be the next Rena Killer.``"
 	},
 	{
 		"type": "MSGSET",
@@ -90,7 +90,7 @@
 		"PreTextTags": "@vS20/02/440200097.",
 		"TextJPN": "「は、はぅ～。なんだか圭一くん、殺虫剤みたいだよ～」",
 		"NamesENG": "Rena",
-		"TextENG": ""
+		"TextENG": "``Ha- hau~. Maybe Keiichi-kun is like a bug spray~``"
 	},
 	{
 		"type": "MSGSET",
@@ -99,7 +99,7 @@
 		"PreTextTags": "@vS20/04/440400113.",
 		"TextJPN": "「……でもレナさん、お負けになられたのにあまり、悔しそうじゃありませんわねぇ？」",
 		"NamesENG": "Satoko",
-		"TextENG": ""
+		"TextENG": "``...But, Rena-san, you don't look all that disappointed in your defeat, do you?``"
 	},
 	{
 		"type": "MSGSET",
@@ -108,7 +108,7 @@
 		"PreTextTags": "@vS20/02/440200098.",
 		"TextJPN": "「そりゃそうだよ～♪　だって梨花ちゃんと沙都子ちゃんをお持ち帰りできるんだもんっ☆　はうはぅっ～！」",
 		"NamesENG": "Rena",
-		"TextENG": ""
+		"TextENG": "``Well, that's true~♪ After all, I get to take both of you home with me☆ Hau hau~!``"
 	},
 	{
 		"type": "MSGSET",
@@ -117,7 +117,7 @@
 		"PreTextTags": "@vS20/04/440400114.",
 		"TextJPN": "「わ、私までご一緒するとは聞いておりませんですわよ～？！」",
 		"NamesENG": "Satoko",
-		"TextENG": ""
+		"TextENG": "``I- I never heard anything about being included in this~?!``"
 	},
 	{
 		"type": "MSGSET",
@@ -126,7 +126,7 @@
 		"PreTextTags": "@vS20/02/440200099.",
 		"TextJPN": "「大丈夫だよ～？　レナが、優しくしてあげるからぁぁ～っ……！」",
 		"NamesENG": "Rena",
-		"TextENG": ""
+		"TextENG": "``Don't worry about it~ I'll make sure to be gentle with you~...!``"
 	},
 	{
 		"type": "MSGSET",
@@ -135,7 +135,7 @@
 		"PreTextTags": "@vS20/04/440400115.",
 		"TextJPN": "「そ、そんなカメレオンみたいに長い舌伸ばして巻きつけてくるような人のお言葉の、どこを信用しろとおっしゃるのでございますかぁぁあぁッ？！」",
 		"NamesENG": "Satoko",
-		"TextENG": ""
+		"TextENG": "``How- how am I supposed to believe any of your words when you say them like a chameleon would stretch out its long tongue and wrap someone up in iiiiiitttt?!``"
 	},
 	{
 		"type": "MSGSET",
@@ -144,19 +144,19 @@
 		"PreTextTags": "@vS20/05/440500075.",
 		"TextJPN": "「……すでに人間じゃないのです。地球外の生物なのです――って、み、みぃ～っ？！」",
 		"NamesENG": "Rika",
-		"TextENG": ""
+		"TextENG": "``...She has already given up her humanity. She's now an extraterrestrial being― mee- meep?!``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16178,
 		"TextJPN": "梨花と沙都子は、貞操どころか生命の危機を感じて震え上がると、その場から猛ダッシュで逃げ出そうとする。",
-		"TextENG": ""
+		"TextENG": "Rika and Satoko started shaking violently, no longer worried about only their chastity, but their lives as well. They start to make a run for it at full speed."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16179,
 		"TextJPN": "が、それよりも早く入り口前に回りこんだレナにつかまり、舌なめずりを受けながらがっちりとその腕の中に閉じ込められた。",
-		"TextENG": ""
+		"TextENG": "But, Rena was able to cut them off at the entrance. She starts licking her lips with the two of them tightly locked in her arms."
 	},
 	{
 		"type": "MSGSET",
@@ -165,7 +165,7 @@
 		"PreTextTags": "@vS20/02/440200100.",
 		"TextJPN": "「さぁて二人とも、お持ち帰りだよぉぉおぉぉおぉ～～～～！！」",
 		"NamesENG": "Rena",
-		"TextENG": ""
+		"TextENG": "``Well then, I'll be taking both of you home with meeeeeeee~~~!!``"
 	},
 	{
 		"type": "MSGSET",
@@ -174,12 +174,12 @@
 		"PreTextTags": "@o75.@vS20/04/440400116|S20/05/440500076.",
 		"TextJPN": "「「ひ、ひぃぃぃいぃぃ～～～っっ？？！！」」",
 		"NamesENG": "Satoko & Rika",
-		"TextENG": ""
+		"TextENG": "````Ee- eeeeeeeekkk??!!````"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16182,
 		"TextJPN": "……かぁいいも、行き過ぎればまさにホラーである。",
-		"TextENG": ""
+		"TextENG": "...By overdoing it, ``kyute`` can easily become ``horror``."
 	}
 ]

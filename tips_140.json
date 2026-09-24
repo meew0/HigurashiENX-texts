@@ -3,7 +3,7 @@
 		"type": "SAVEINFO",
 		"category": 1,
 		"JPN": "レナの過去",
-		"ENG": "レナの過去"
+		"ENG": "Rena's Past"
 	},
 	{
 		"type": "MSGSET",
@@ -12,7 +12,7 @@
 		"PreTextTags": "@vS20/11/440700257.",
 		"TextJPN": "「…とりあえず、聞かせていただけませんか。@k@vS20/11/440700258.どんな小さなことだっていいんです」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``...Please tell me.@k@vS20/11/440700258. Any detail is fine, no matter how small.``"
 	},
 	{
 		"type": "MSGSET",
@@ -21,19 +21,19 @@
 		"PreTextTags": "@vS20/00/nurseD44001.",
 		"TextJPN": "「はぁ、…いい加減にしてください、刑事さん。@k@vS20/00/nurseD44002.先生からも申し上げましたとおり、お話できることは何もございません。@k@vS20/00/nurseD44003.…失礼します」",
 		"NamesENG": "Nurse",
-		"TextENG": ""
+		"TextENG": "``Sigh... Please give it up, detective.@k@vS20/00/nurseD44002.As the doctor has informed you before, there is nothing we can tell you.@k@vS20/00/nurseD44003. Please excuse me.``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16441,
 		"TextJPN": "そう言って、うんざりした表情で看護師はおざなりに頭を下げると、ぷいと踵を返して立ち去ろうとする。",
-		"TextENG": ""
+		"TextENG": "Saying this, the nurse gives him the requisite bow with a fed-up expression, then abruptly turns around and begins to leave."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16442,
 		"TextJPN": "――が、その前にすばやく回りこむと、大石はできるだけにこやかに愛嬌を振りまきながら、『ま、ま、ま』とその行く手をさえぎった。",
-		"TextENG": ""
+		"TextENG": "―But before she can do that, Ooishi quickly cuts in, puts on his best smile, and trying to be as pleasant as possible, he cuts off her path with a ``Well, well, well``."
 	},
 	{
 		"type": "MSGSET",
@@ -42,7 +42,7 @@
 		"PreTextTags": "@vS20/00/nurseD44004.",
 		"TextJPN": "「ちょっと、…刑事さん」",
 		"NamesENG": "Nurse",
-		"TextENG": ""
+		"TextENG": "``Hey! ...Detective!``"
 	},
 	{
 		"type": "MSGSET",
@@ -51,7 +51,7 @@
 		"PreTextTags": "@vS20/11/440700259.",
 		"TextJPN": "「いやいや、おっしゃることはよ～くわかります。@k@vS20/11/440700260.患者さんの個人的な情報を、たとえ警察相手とはいえおいそれと公開させないという職務精神は、本当に立派だと思いますよぉ？　…ですが、ね」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``No, no, don't get me wrong, I am well aware of what we discussed before.@k@vS20/11/440700260. I deeply respect the professional ethos that a patient's private information cannot be readily shared, not even to a police officer. ...However.``"
 	},
 	{
 		"type": "MSGSET",
@@ -60,19 +60,19 @@
 		"PreTextTags": "@vS20/00/nurseD44005.",
 		"TextJPN": "「え…？！」",
 		"NamesENG": "Nurse",
-		"TextENG": ""
+		"TextENG": "``Huh...?!``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16446,
 		"TextJPN": "そこで大石は、表情を一変させて険しい顔で看護師をずい、と覗き込む。",
-		"TextENG": ""
+		"TextENG": "At that moment, Ooishi completely changed his expression to a grim one, and looked deep into the nurse's eyes."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16447,
 		"TextJPN": "…さすがに老獪な迫力を間近に寄せられて、若い彼女は一瞬、息を呑んで固まった。",
-		"TextENG": ""
+		"TextENG": "...As expected, the young woman caught her breath and froze for a moment, forcibly taken in by the impact of his veteran technique."
 	},
 	{
 		"type": "MSGSET",
@@ -81,7 +81,7 @@
 		"PreTextTags": "@vS20/11/440700261.",
 		"TextJPN": "「この事件は、単なる傷害事件では収まらない危険性をはらんでいます。@k@vS20/11/440700262.日常生活、あるいは学校生活でストレスを抱えた少女が、思い余って学校内で起こした凶行」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``This incident has an element of danger to it that goes beyond a simple personal injury case.@k@vS20/11/440700262. A girl, filled with stress from her daily life or perhaps her school life, commits a violent crime on school grounds, out of desperation.``"
 	},
 	{
 		"type": "MSGSET",
@@ -90,7 +90,7 @@
 		"PreTextTags": "@vS20/11/440700263.",
 		"TextJPN": "「それだけなら彼女自身の問題だし、どんなに環境のせいだと主張しても、責められるのは彼女と、彼女の両親だ」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``If that's all there is to it, then this is a problem caused entirely by herself, and however much anyone may claim it was caused by her environment, the ones to blame would be her and her parents.``"
 	},
 	{
 		"type": "MSGSET",
@@ -99,7 +99,7 @@
 		"PreTextTags": "@vS20/11/440700264.",
 		"TextJPN": "「…でもね、もしもそのストレスが、学校内での外的な要因によって突発的に引き起こされたものだとしたら、話は違ってくるんです」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``...However. If, perhaps, this stress has primarily been induced by unforeseen external factors within the school, then it would be a different matter entirely.``"
 	},
 	{
 		"type": "MSGSET",
@@ -108,7 +108,7 @@
 		"PreTextTags": "@vS20/00/nurseD44006.",
 		"TextJPN": "「が、外的な要因…？」",
 		"NamesENG": "Nurse",
-		"TextENG": ""
+		"TextENG": "``E- external factors...?``"
 	},
 	{
 		"type": "MSGSET",
@@ -117,7 +117,7 @@
 		"PreTextTags": "@vS20/11/440700265.",
 		"TextJPN": "「あなたも女性です、…なら、おわかりでしょう？@k@vS20/11/440700266.　それまでは普通の女の子だった彼女があれだけ急激に変貌したのは、家庭の事情だけが要因と考えるには説得力が弱すぎる」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``You're a woman as well. ...So, you can see how it is, right?@k@vS20/11/440700266. This girl, who has behaved completely normally up to that point, abruptly changes her entire personality. It's hard to explain this as something caused entirely by her family situation.``"
 	},
 	{
 		"type": "MSGSET",
@@ -126,7 +126,7 @@
 		"PreTextTags": "@vS20/11/440700267.",
 		"TextJPN": "「ひょっとしたら、…彼女の被害者だと思っていた人間が、実は裏では加害者だった、なんて可能性もゼロとは言い切れない。@k@vS20/11/440700268.だから、下劣だと蔑まれるのを覚悟で捜査に当たってるんです」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``What if her friends, who are thought to be the victims, are actually the secret perpetrators? I cannot say for sure that the probability for this is zero.@k@vS20/11/440700268. Therefore, I want to conduct this investigation, fully expecting to be despised for it.``"
 	},
 	{
 		"type": "MSGSET",
@@ -135,7 +135,7 @@
 		"PreTextTags": "@vS20/00/nurseD44007.",
 		"TextJPN": "「………」",
 		"NamesENG": "Nurse",
-		"TextENG": ""
+		"TextENG": "``......``"
 	},
 	{
 		"type": "MSGSET",
@@ -144,7 +144,7 @@
 		"PreTextTags": "@vS20/11/440700269.",
 		"TextJPN": "「…私はね、これでも刑事なんです。@k@vS20/11/440700270.面白半分に記事を書きたてるやつらとは違う」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``...I am a detective first and foremost.@k@vS20/11/440700270. I'm not like any of those people who would turn this case into a half-baked news story.``"
 	},
 	{
 		"type": "MSGSET",
@@ -153,7 +153,7 @@
 		"PreTextTags": "@vS20/11/440700271.",
 		"TextJPN": "「普通に生活していたはずのあの竜宮レナさんが、どうしてあれほどの事件を起こしてしまったのか、…それを確かめなければ、この事件の本当の闇を知ることができないかもしれない」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``Why did Rena Ryuugu-san, who should have been living her life normally, cause such an incident? ...If we cannot find out the reason with certainty, the truth behind this case may never fully come to light.``"
 	},
 	{
 		"type": "MSGSET",
@@ -162,7 +162,7 @@
 		"PreTextTags": "@vS20/11/440700272.",
 		"TextJPN": "「そして本当の意味で、彼女が救われる道を見つけ出せないままになってしまうことだってありうる」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``And in a very real sense, it's quite possible that we might never find the way to save her.``"
 	},
 	{
 		"type": "MSGSET",
@@ -171,7 +171,7 @@
 		"PreTextTags": "@vS20/11/440700273.",
 		"TextJPN": "「…お願いします、看護師さん。@k@vS20/11/440700274.どんな小さなことでも結構ですから、話していただけませんか」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``...Please, nurse.@k@vS20/11/440700274. Whatever tiny detail you may have, please share it with me.``"
 	},
 	{
 		"type": "MSGSET",
@@ -180,19 +180,19 @@
 		"PreTextTags": "@vS20/00/nurseD44008.",
 		"TextJPN": "「………」",
 		"NamesENG": "Nurse",
-		"TextENG": ""
+		"TextENG": "``......``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16460,
 		"TextJPN": "看護師は何度も息をついたり手を拱いたりして、どうすべきか思い悩むように視線をさまよわせる。",
-		"TextENG": ""
+		"TextENG": "The nurse, unable to decide what she should do, repeatedly takes deep breaths and folds her hands, and lets her gaze wander around the room."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16461,
 		"TextJPN": "…それを大石は辛抱強く見守りながら、…彼女の心が傾くのをじっと待ち続けた。",
-		"TextENG": ""
+		"TextENG": "...And Ooishi patiently watches over her, waiting for the moment when she changes her mind."
 	},
 	{
 		"type": "MSGSET",
@@ -201,7 +201,7 @@
 		"PreTextTags": "@vS20/00/nurseD44009.",
 		"TextJPN": "「………」",
 		"NamesENG": "Nurse",
-		"TextENG": ""
+		"TextENG": "``......``"
 	},
 	{
 		"type": "MSGSET",
@@ -210,7 +210,7 @@
 		"PreTextTags": "@vS20/11/440700275.",
 		"TextJPN": "「………」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``......``"
 	},
 	{
 		"type": "MSGSET",
@@ -219,7 +219,7 @@
 		"PreTextTags": "@vS20/00/nurseD44010.",
 		"TextJPN": "「……わかりました。@k@vS20/00/nurseD44011.ここでは何ですから、…こちらへ。@k@vS20/00/nurseD44012.絶対に他言無用でお願いします」",
 		"NamesENG": "Nurse",
-		"TextENG": ""
+		"TextENG": "``I understand.@k@vS20/00/nurseD44011. We cannot talk here, so please follow me.@k@vS20/00/nurseD44012. And of course, do not tell a word of this to anyone else.``"
 	},
 	{
 		"type": "MSGSET",
@@ -228,43 +228,43 @@
 		"PreTextTags": "@vS20/11/440700276.",
 		"TextJPN": "「……『オヤシロさま』、か…」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``... ``Oyashiro-sama``, huh...``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16466,
 		"TextJPN": "病院を出て３本目のタバコに火をつけてくわえながら、大石は空を見上げてふと、呟く。",
-		"TextENG": ""
+		"TextENG": "While starting to smoke his third cigarette after leaving the hospital, Ooishi looks up at the sky and suddenly mutters."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16467,
 		"TextJPN": "看護師が重い口を開いて話してくれたのは、竜宮レナのカウンセリングに対する、奇妙な回答の一部だった。",
-		"TextENG": ""
+		"TextENG": "What the nurse told him after opening her tight lips were some of the strange responses they got from Rena Ryuugu in her therapy sessions."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16468,
 		"TextJPN": "竜宮レナの話だと、生まれ故郷である雛見沢村を引っ越してからというもの、その村の守り神である『オヤシロさま』の祟りが彼女と両親に降りかかってきたのだ、という。",
-		"TextENG": ""
+		"TextENG": "Rena Ryuugu said that after she and her parents left the village of Hinamizawa, where she was born, the curse of ``Oyashiro-sama``, the guardian deity of the village, fell upon them."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16469,
 		"TextJPN": "そのせいで一家は不幸になってしまったから、自分たちは雛見沢に帰らなければいけない――そう叫んで暴れまわったそうだ。",
-		"TextENG": ""
+		"TextENG": "That's why her family ended up falling apart, and they absolutely have to move back to Hinamizawa ― apparently this is what she screamed during her rampage."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16470,
 		"TextJPN": "その主張は支離滅裂で、傷害事件の理由としてはかけ離れたものであったが、その祟りに対する彼女の怯えようは尋常ではなかったらしい。",
-		"TextENG": ""
+		"TextENG": "Her claims seemed incoherent and unrelated to what might have caused her to commit the incident, but her fear of the curse was apparently unusual."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16471,
 		"TextJPN": "そして、妄執にしてはあまりにも切実でリアルと感じたため、担当の医師も何人かの権威的な専門医に問い合わせを行い、結果として父親と医師の相談の結果、彼女は雛見沢に戻ることになった――。",
-		"TextENG": ""
+		"TextENG": "And because the doctor in charge felt that all this was too concrete and realistic to just be explained as a delusion, she consulted several specialists who are authorities on this subject, and after additional discussion with Rena's father, they decided that Rena would return to Hinamizawa."
 	},
 	{
 		"type": "MSGSET",
@@ -273,67 +273,67 @@
 		"PreTextTags": "@vS20/11/440700277.",
 		"TextJPN": "「…しかし、なんだか厄介になってきましたねぇ。@k@vS20/11/440700278.藪をつついたら、大蛇が出てきてしまった心境ですか…」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``...This has become kind of awkward, though.@k@vS20/11/440700278. Am I prepared for the giant snake that might come out when I poke around in the bushes...?``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16473,
 		"TextJPN": "そういって思わず、苦笑する。",
-		"TextENG": ""
+		"TextENG": "As he said this, he reflexively put on a bitter smile."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16474,
 		"TextJPN": "…元々、竜宮レナに対する調査はそれほど深いものにする予定ではなかった。",
-		"TextENG": ""
+		"TextENG": "...When he first started investigating Rena Ryuugu, he didn't expect to have to go so far down the rabbit hole."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16475,
 		"TextJPN": "今年の綿流しを数ヵ月後に控え、園崎家の周辺を一度整理するつもりで資料とにらめっこしていた際、行き着いたのがその次期頭首と目される園崎魅音の調査報告のページ。",
-		"TextENG": ""
+		"TextENG": "A few months before this year's Watanagashi Festival, he was staring at some documents with the intent of finally sorting out everything surrounding the Sonozaki family, and stumbled upon a page in the report of an investigation into the next family head, Sonozaki Mion."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16476,
 		"TextJPN": "そして、親友のひとりとして竜宮レナのページをぼんやりと見た際、『精神科に通院歴あり』という文言に目が止まって、その裏を取るだけの軽い気持ちだったのだ。",
-		"TextENG": ""
+		"TextENG": "While he was absent-mindedly reading the page on Rena Ryuugu, one of her best friends, his eyes fixated on the phrase ``has regularly attended a psychiatry clinic``, and he just casually wanted to find out what was behind that."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16477,
 		"TextJPN": "ところがいざ調べてみると、…外からの転入組だと思っていた彼女が実は、雛見沢に在住していた過去、そしてかわいらしい外見に似合わず傷害事件を引き起こしていた事実が次々と浮かび上がってきた。",
-		"TextENG": ""
+		"TextENG": "But when he started looking into it, he found out that she had actually lived in Hinamizawa in the past rather than only moving here recently, and the reality of the violent incident she caused, not at all befitting her cute appearance, gradually came to light."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16478,
 		"TextJPN": "そのため、まもなく５年目を迎えようとしていながらも、全く有効な手がかりがつかみきれていない連続殺人事件を、少し発想を変えて見つめなおすきっかけになるかも、",
-		"TextENG": ""
+		"TextENG": "And this might be an opportunity to revisit the series of deaths, which will soon enter its fifth year without any relevant leads having been found at all, with a somewhat different approach."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16479,
 		"TextJPN": "…と冗談半分で考えていたら、今度は『オヤシロさま』だ。",
-		"TextENG": ""
+		"TextENG": "...And as he was half-jokingly thinking about that, now it all has turned into ``Oyashiro-sama``."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16480,
 		"TextJPN": "村内における『オヤシロさま』信仰の根深さは理解していたつもりだったが、竜宮レナのように外へ引っ越していった人間に対してまで干渉するとは、存在を認める、認めないと議論する以前に、うそ寒ささえ覚える。",
-		"TextENG": ""
+		"TextENG": "He thought he understood the deep-rooted belief in ``Oyashiro-sama`` within the village, but thinking about the fact that even people who moved out of the village like Rena Ryuugu are influenced by it gives him the chills even before considering whether it exists at all."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16481,
 		"TextJPN": "…まさか、オヤシロさま信仰は古の邪教で、村人たちはその信者たち？",
-		"TextENG": ""
+		"TextENG": "...Could the belief in Oyashiro-sama be an ancient pagan religion, and the villagers its adherents?"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16482,
 		"TextJPN": "そして数ヵ月後に行われる綿流しの祭は、文字通りに村の結束を高めるための生贄をささげる祭事？！",
-		"TextENG": ""
+		"TextENG": "And could the Watanagashi festival that will be held in a few months literally be a ritual where a sacrifice is made in order to deepen the solidarity within the village?"
 	},
 	{
 		"type": "MSGSET",
@@ -342,25 +342,25 @@
 		"PreTextTags": "@vS20/11/440700279.",
 		"TextJPN": "「…やれやれ、まさかね。@k@vS20/11/440700280.刑事がオカルトを信じるようになったらおしまいだっての、――ん？」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``...Well, well, this is certainly something.@k@vS20/11/440700280. If a detective starts believing in the occult, that would really be the end, wouldn't it. ―Hmm?``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16484,
 		"TextJPN": "そのとき、歩道を歩いていた大石は突然のクラクションに振り返る。",
-		"TextENG": ""
+		"TextENG": "At that point, while walking on the sidewalk, Ooishi suddenly hears a car horn and turns around."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16485,
 		"TextJPN": "目を向けた先には、見慣れた白い車がこちらに向かってきていて、大石の横を走り抜けてゆく。",
-		"TextENG": ""
+		"TextENG": "His gaze turned towards a familiar white car that headed towards him, and then ran past him."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16486,
 		"TextJPN": "そして数メートル進んだあたりで止まって運転席のドアが開き、中からスーツ姿の女性が姿を見せた。",
-		"TextENG": ""
+		"TextENG": "After a few more meters, the car stopped, the door on the driver's side opened, and a woman wearing a suit exited from the car."
 	},
 	{
 		"type": "MSGSET",
@@ -369,7 +369,7 @@
 		"PreTextTags": "@vS20/11/440700281.",
 		"TextJPN": "「おぉぉっ、@bともえ.@<巴@>ちゃん！@k@vS20/11/440700282.こんなとこで会うとは偶然ですね～」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``Ooooh, Tomoe-chan!@k@vS20/11/440700282. What a coincidence to meet you here!``"
 	},
 	{
 		"type": "MSGSET",
@@ -378,7 +378,7 @@
 		"PreTextTags": "@vS20/28/442800001.",
 		"TextJPN": "「偶然じゃないですよ。@k@vS20/28/442800002.大石さんが病院に向かったとお聞きしましたから、追いかけてきたんです。@k@vS20/28/442800003.よかった、すれ違いにならなくて」",
 		"NamesENG": "Tomoe",
-		"TextENG": ""
+		"TextENG": "``It's not a coincidence.@k@vS20/28/442800002. I heard that you were headed to a hospital, so I went after you.@k@vS20/28/442800003. I'm glad we didn't miss each other.``"
 	},
 	{
 		"type": "MSGSET",
@@ -387,7 +387,7 @@
 		"PreTextTags": "@vS20/11/440700283.",
 		"TextJPN": "「んっふっふっ！　それはわざわざすみませんねぇ～。@k@vS20/11/440700284.県警のエリート警部補さんみずからお迎えいただけるとは、もったいなくて腰が引けちゃいそうですよ～」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``Nfu fu fu! Sorry to make you come out all this way~.@k@vS20/11/440700284. I'm almost embarrassed to have an elite deputy inspector of the prefectural police come to meet me out here all by herself, it's such a waste!``"
 	},
 	{
 		"type": "MSGSET",
@@ -396,7 +396,7 @@
 		"PreTextTags": "@vS20/28/442800004.",
 		"TextJPN": "「…そのわりに私の名前、『ちゃん』付けのままなんですよね。@k@|@y@vS20/28/442800005.あ、あと私来月から『補』が取れて、『警部』ですから」",
 		"NamesENG": "Tomoe",
-		"TextENG": ""
+		"TextENG": "``...You say that, yet you still call me ``Tomoe-chan``.@k@|@y@vS20/28/442800005. Also, starting next month, the ``deputy`` will come off and I will simply be called ``inspector``.``"
 	},
 	{
 		"type": "MSGSET",
@@ -405,7 +405,7 @@
 		"PreTextTags": "@vS20/11/440700285.",
 		"TextJPN": "「ん？　おおぉっ、それじゃ昇進試験、合格したんですねっ？@k@vS20/11/440700286.　それはそれは、おめでとうございます。@k@vS20/11/440700287.これからは私の上役さんですかぁ～、んっふっふっ！」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``Hmm? Oooh, then you passed the promotion exam?@k@vS20/11/440700286. That's certainly worth being celebrated.@k@vS20/11/440700287. You'll start being my senior then, nfu fu fu!``"
 	},
 	{
 		"type": "MSGSET",
@@ -414,7 +414,7 @@
 		"PreTextTags": "@vS20/28/442800006.",
 		"TextJPN": "「ですから、大石さん。@k@vS20/28/442800007.これからはきっちり『南井警部』って呼んでくださいね？@k@vS20/28/442800008.　周りにも示しがつきませんので」",
 		"NamesENG": "Tomoe",
-		"TextENG": ""
+		"TextENG": "``That's why, Ooishi-san,@k@vS20/28/442800007. you should call me ``Inspector Minai`` from here on out, okay?@k@vS20/28/442800008. Otherwise, other people will get the wrong idea.``"
 	},
 	{
 		"type": "MSGSET",
@@ -423,7 +423,7 @@
 		"PreTextTags": "@vS20/11/440700288.",
 		"TextJPN": "「了解しましたよぉ～、――『巴ちゃん』？」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``Got it~, ―<i>Tomoe-chan</i>!``"
 	},
 	{
 		"type": "MSGSET",
@@ -432,7 +432,7 @@
 		"PreTextTags": "@vS20/28/442800009.",
 		"TextJPN": "「はぁ、…そう言うと思いましたよ。@k@|@y@vS20/28/442800010.とりあえず、乗ってください」",
 		"NamesENG": "Tomoe",
-		"TextENG": ""
+		"TextENG": "``Sigh. ...I knew you'd say that.@k@|@y@vS20/28/442800010.Anyway, for now, please get in.``"
 	},
 	{
 		"type": "MSGSET",
@@ -441,25 +441,25 @@
 		"PreTextTags": "@vS20/11/440700289.",
 		"TextJPN": "「なっはっはっはっ！」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``Na ha ha ha!``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16496,
 		"TextJPN": "大石を助手席に乗せて、車はゆっくりと走り出す。",
-		"TextENG": ""
+		"TextENG": "Ooishi got into the passenger seat, and the car slowly started moving."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16497,
 		"TextJPN": "ちょっとした高級車らしく、車内は静かで揺れも少ない。",
-		"TextENG": ""
+		"TextENG": "The car felt a bit like a luxury car. The inside was silent and there was almost no shaking to be felt."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16498,
 		"TextJPN": "…とはいえ、やはり持ち主が女性だけに可愛い人形やぬいぐるみがさりげなく飾られていて、大石はその違和感になんとなく落ち着かない気分だった。",
-		"TextENG": ""
+		"TextENG": "...That said, it was obvious that the owner was a woman, given all the cute dolls and plushies the inside was casually decorated with. The disparity made Ooishi feel a bit uncomfortable."
 	},
 	{
 		"type": "MSGSET",
@@ -468,7 +468,7 @@
 		"PreTextTags": "@vS20/28/442800011.",
 		"TextJPN": "「おタバコは吸われますか？」",
 		"NamesENG": "Tomoe",
-		"TextENG": ""
+		"TextENG": "``Would you like to smoke?``"
 	},
 	{
 		"type": "MSGSET",
@@ -477,7 +477,7 @@
 		"PreTextTags": "@vS20/11/440700290.",
 		"TextJPN": "「よろしいですかな？@k@vS20/11/440700291.　…いや、やっぱり止めておきましょう。@k@vS20/11/440700292.せっかくのポプリの香りが、台無しになっちゃいますからね」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``Would that really be okay?@k@vS20/11/440700291. ...No, I'll pass on that after all.@k@vS20/11/440700292. It would ruin the fragrance of the potpourri.``"
 	},
 	{
 		"type": "MSGSET",
@@ -486,43 +486,43 @@
 		"PreTextTags": "@vS20/28/442800012.",
 		"TextJPN": "「うふふっ、お気になさらないでください。@k@vS20/28/442800013.この前部長がその席で、強烈な葉巻タバコをスッパスッパやってたんですから。@k@vS20/28/442800014.それと比べたら、たいしたことありませんよー」",
 		"NamesENG": "Tomoe",
-		"TextENG": ""
+		"TextENG": "``Ehehe, please do as you like.@k@vS20/28/442800013. The other day, the department chief smoked an intense cigar in that seat, taking huge puffs.@k@vS20/28/442800014. Compared to that, this would be nothing."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16502,
 		"TextJPN": "そういって巴はにこやかに笑いながら、きれいに掃除された灰皿を引き出す。",
-		"TextENG": ""
+		"TextENG": "After saying that, Tomoe smiled widely and pulled out the neatly cleaned ashtray."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16503,
 		"TextJPN": "その好意に甘えて、大石は手刀を切って一本、口にくわえて火をつけた。",
-		"TextENG": ""
+		"TextENG": "Taking advantage of that favor, Ooishi swiftly put a cigarette in his mouth and lit it."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16504,
 		"TextJPN": "運転する巴は、大石の知人…というよりも、彼女の妹のまどかが大石の知人で、その伝で知り合いになった。",
-		"TextENG": ""
+		"TextENG": "The driver, Tomoe, is Ooishi's acquaintance... or rather, an acquaintance of her sister Madoka, and that's how they know each other."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16505,
 		"TextJPN": "いわゆる準エリートで最初はとっつきにくい印象だったが、階級を鼻にかけたり偉そうに振舞ったりせず、現場へ足を積極的に運ぶところが好感を持てる。",
-		"TextENG": ""
+		"TextENG": "At first, he had the impression that she was difficult to approach, given her status as a member of the so-called quasi-elite, but she never boasted about her status or seemed self-important, and even though she was always assertive when it came to crime scenes, he eventually came to view her favorably."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16506,
 		"TextJPN": "…ちょっと気弱なところがあるが、真面目な責任感の強さが数年前に一緒に仕事をした、あの若い警視庁の公安刑事にちょっと似ているかもしれない。",
-		"TextENG": ""
+		"TextENG": "...She can be a bit timid sometimes, but her earnest sense of responsibility reminds me of that young detective from the Metropolitan Police Public Safety Bureau I worked with a few years ago."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16507,
 		"TextJPN": "ウチの県警本部にいるバカエリートもどきにも爪の垢を煎じて飲ませてやりたいくらいだ、…などと、大石は内心ほほえましく思っていた。",
-		"TextENG": ""
+		"TextENG": "Those characters at our prefectural police headquarters that are more like the ``idiot elite`` could learn a few lessons from her, Ooishi chuckled to himself."
 	},
 	{
 		"type": "MSGSET",
@@ -531,7 +531,7 @@
 		"PreTextTags": "@vS20/11/440700293.",
 		"TextJPN": "「しかし、助かりましたよ。巴ちゃんが捜査一課にいてくれて。@k@vS20/11/440700294.私ひとりだったら越境捜査だって、県警のお偉方にどやされているところでしたよ」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``But I'm really glad you came, as a member of the First Inspection Bureau and all.@k@vS20/11/440700294. If it was just me, I'd definitely get yelled at by the big shots for illegally investigating across police boundaries.``"
 	},
 	{
 		"type": "MSGSET",
@@ -540,7 +540,7 @@
 		"PreTextTags": "@vS20/28/442800015.",
 		"TextJPN": "「警察って、セクショナリズムの典型ですよね。@k@vS20/28/442800016.それがいい場合も確かにあるんですが。@k@vS20/28/442800017.…といっても来月、私は昇進と同時に別の県警に異動だったから、ギリギリのタイミングでしたよ」",
 		"NamesENG": "Tomoe",
-		"TextENG": ""
+		"TextENG": "``The police is really the epitome of sectionalism.@k@vS20/28/442800016. That certainly has some advantages as well, though.@k@vS20/28/442800017. ...Speaking of that, next month I'll be transferred to another prefecture concurrently with my promotion, so we're cutting it pretty close here.``"
 	},
 	{
 		"type": "MSGSET",
@@ -549,7 +549,7 @@
 		"PreTextTags": "@vS20/11/440700295.",
 		"TextJPN": "「ほう？　ちなみに、どちらの県警に？」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``Oh? Which prefecture is that?``"
 	},
 	{
 		"type": "MSGSET",
@@ -558,7 +558,7 @@
 		"PreTextTags": "@vS20/28/442800018.",
 		"TextJPN": "「……正直行きたくはないんですけど、大石さんのよぉぉくご存じのところです。@k@vS20/28/442800019.あのバカ妹と、…おっさん署長のいる『あそこ』、ですよ」",
 		"NamesENG": "Tomoe",
-		"TextENG": ""
+		"TextENG": "``...Honestly, I don't really want to go there, but it's a place you know really well, Ooishi-san.@k@vS20/28/442800019. You know, <i>there</i>, with my dumb sister and that senile chief.``"
 	},
 	{
 		"type": "MSGSET",
@@ -567,7 +567,7 @@
 		"PreTextTags": "@vS20/11/440700296.",
 		"TextJPN": "「…ありゃま。@k@vS20/11/440700297.偶然というか、…まぁ、ご愁傷様です」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``...I'll be damned.@k@vS20/11/440700297. What a coincidence... well, you have my condolences.``"
 	},
 	{
 		"type": "MSGSET",
@@ -576,31 +576,31 @@
 		"PreTextTags": "@vS20/28/442800020.",
 		"TextJPN": "「……どうも」",
 		"NamesENG": "Tomoe",
-		"TextENG": ""
+		"TextENG": "``...Thank you.``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16514,
 		"TextJPN": "巴があまりにも苦虫を噛み潰したような顔で、しかもものすごく大きなため息をするので、大石もそれ以上は聞かなかった。",
-		"TextENG": ""
+		"TextENG": "Tomoe put on an expression as if she had chewed on an excessively sour lemon, and heaved a gigantic sigh. With that, Ooishi didn't ask any more questions."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16515,
 		"TextJPN": "…まぁ、父親ほど歳の離れた、しかも職場のボスたる署長が妹の婚約者なんて笑えない冗談どころか、…むしろ泣きたい悪夢だろう。",
-		"TextENG": ""
+		"TextENG": "...Well, nobody would laugh about their boss, at the age that he could be their father, also being their sister's fiance. It seems more like a nightmare that would make you cry."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16516,
 		"TextJPN": "それにしても、…妹の南井まどかは姉の巴と違い、エリートどころか警察とはまったく縁のない、むしろお水の花道を飾ってきた子だった。",
-		"TextENG": ""
+		"TextENG": "And furthermore, unlike Tomoe, her sister Madoka Minai was far from being an elite member of the police. Rather, she was a shining star in the world of nightlife."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16517,
 		"TextJPN": "そもそも大石でさえ、公務ではなくそっち系の店で知り合ったのがまどかとの馴れ初めだったが、…その伴侶として選んだのが姉のこれからの上司とは、皮肉といおうかなんといおうか。",
-		"TextENG": ""
+		"TextENG": "Ooishi himself first met Madoka not through his police duties, but at one of those establishments, and at one point they were even on the verge of dating. ...But the fact that the person she ultimately chose as her partner later ends up being her sister's boss must be the peak of irony."
 	},
 	{
 		"type": "MSGSET",
@@ -609,7 +609,7 @@
 		"PreTextTags": "@vS20/28/442800021.",
 		"TextJPN": "「…それはともかく。@k@vS20/28/442800022.頼まれていた例の件、調べてきました。@k@vS20/28/442800023.資料がダッシュボードに入ってます」",
 		"NamesENG": "Tomoe",
-		"TextENG": ""
+		"TextENG": "``...Setting that aside.@k@vS20/28/442800022. I looked into that case you asked me about.@k@vS20/28/442800023. The documents I found are on the dashboard.``"
 	},
 	{
 		"type": "MSGSET",
@@ -618,7 +618,7 @@
 		"PreTextTags": "@vS20/11/440700298.",
 		"TextJPN": "「なにか、…面白いことはわかりましたか？」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``Did you find out anything interesting?``"
 	},
 	{
 		"type": "MSGSET",
@@ -627,37 +627,37 @@
 		"PreTextTags": "@vS20/28/442800024.",
 		"TextJPN": "「大石さんのお話にもありました通り、生徒も、学校も被害届を出していないので、おおっぴらには調べられませんでしたが。@k@vS20/28/442800025.いくつか気になる話がありましたよ」",
 		"NamesENG": "Tomoe",
-		"TextENG": ""
+		"TextENG": "``As you mentioned before, none of the students or teachers ever filed a criminal complaint, so I was unable to investigate openly.@k@vS20/28/442800025. But there did end up being a few things that caught my eye.``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16521,
 		"TextJPN": "竜宮レナが、雛見沢分校に転校してくる前の学校で起こした、傷害事件。",
-		"TextENG": ""
+		"TextENG": "The personal injury case Rena Ryuugu caused at her previous school, before she transferred to the Hinamizawa Branch School."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16522,
 		"TextJPN": "…いや、『事件』とは呼べないかもしれない。",
-		"TextENG": ""
+		"TextENG": "...Actually, you can't really call it a ``case``."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16523,
 		"TextJPN": "この件に関しては、関係者が事の次第について一切口を閉ざしてしまったので警察の介入は認められず、それゆえに実態すらも闇に葬り去られてしまっている。",
-		"TextENG": ""
+		"TextENG": "All parties involved in the matter kept their mouths shut about any details, and none of them requested any police intervention, and therefore the true course of events is destined to remain in the dark."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16524,
 		"TextJPN": "ただ、…実際に被害にあって怪我を負い、それが重傷にまで至った生徒も、確かにいたのだ。",
-		"TextENG": ""
+		"TextENG": "There certainly were students that got injured, some of them quite severely, even."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16525,
 		"TextJPN": "その事実だけは厳然と存在し、凶行が決して夢物語ではなかったことを雄弁に物語っている…！",
-		"TextENG": ""
+		"TextENG": "This is the undeniable reality, which speaks volumes about the fact that the violent crime didn't merely occur in someone's imagination."
 	},
 	{
 		"type": "MSGSET",
@@ -666,7 +666,7 @@
 		"PreTextTags": "@vS20/11/440700299.",
 		"TextJPN": "「相変わらず、学校の皆さんは『貝』でしたか」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``As usual, everyone in the school is ``clamming up``.``"
 	},
 	{
 		"type": "MSGSET",
@@ -675,7 +675,7 @@
 		"PreTextTags": "@vS20/28/442800026.",
 		"TextJPN": "「生徒の父兄にまで、緘口令が敷かれているようですからね。@k@vS20/28/442800027.…ま、無理もないことだと思います」",
 		"NamesENG": "Tomoe",
-		"TextENG": ""
+		"TextENG": "``It's almost like there's a gag order in place that affects even the students' parents.@k@vS20/28/442800027. Well, I don't think that's something that can be ruled out.``"
 	},
 	{
 		"type": "MSGSET",
@@ -684,7 +684,7 @@
 		"PreTextTags": "@vS20/28/442800028.",
 		"TextJPN": "「学校内での傷害事件が公になれば、そこに通う生徒たちにとっては進学する時のマイナスイメージとなります」",
 		"NamesENG": "Tomoe",
-		"TextENG": ""
+		"TextENG": "``If a violent incident at the school became public, it might give the school a negative reputation and affect the students' chances of getting into other good schools in the future.``"
 	},
 	{
 		"type": "MSGSET",
@@ -693,55 +693,55 @@
 		"PreTextTags": "@vS20/28/442800029.",
 		"TextJPN": "「父母たちも、子供がそこに通っていると知られただけで、いらぬ陰口を叩かれる。@k@vS20/28/442800030.…県下でも評判の学校ですから、周囲の妬みも入って総スカンになるでしょう」",
 		"NamesENG": "Tomoe",
-		"TextENG": ""
+		"TextENG": "``The parents would also be subject to unwanted gossip if it becomes known that their children attend such a school.@k@vS20/28/442800030. The school has an excellent reputation in the prefecture, so other people's envy might turn into scorn.``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16530,
 		"TextJPN": "…誰だって自分が、そして自分の身内が一番可愛いのだから、相手を褒めるよりも、褒められることを望む。",
-		"TextENG": ""
+		"TextENG": "...Everybody thinks that they and their own family are the most important, and rather than praising others, they want to be praised themselves."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16531,
 		"TextJPN": "ただそれは、とても当たり前で、そしてとても健全な姿。",
-		"TextENG": ""
+		"TextENG": "But that is just the way things are. It's not wrong to think like this."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16532,
 		"TextJPN": "褒められたいから努力もするし、自身が褒められる存在であることの認識は精神的な充足となる。",
-		"TextENG": ""
+		"TextENG": "People work hard so that they are praised, and recognizing that one is worthy of praise is important for one's spiritual fulfillment."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16533,
 		"TextJPN": "その心理的な余裕が、他者の価値観と存在を認めて受け入れる、社会的な思考を構成してゆくのだ。",
-		"TextENG": ""
+		"TextENG": "This mental flexibility is what forms the basis for social thinking, where the existence and the values of others are acknowledged and accepted."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16534,
 		"TextJPN": "しかし、…褒められることができない、あるいはその努力を放棄した人間は、何を選ぶか。",
-		"TextENG": ""
+		"TextENG": "But, what do those do who have nothing to be praised for, or those who stop working hard for their goals?"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16535,
 		"TextJPN": "それはとても簡単で、自身が優れていることを主張するため、比較対象である他者をけなし、おとしめるのだ。",
-		"TextENG": ""
+		"TextENG": "That is simple: they start disparaging others and looking down on them, in order to claim that they themselves are the best."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16536,
 		"TextJPN": "だから、羨望は簡単に、…嫉妬へと変わる。",
-		"TextENG": ""
+		"TextENG": "In this way, envy can easily become hostile."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16537,
 		"TextJPN": "今まで自分たちにとって雲の上だと思っていた存在が同等か、あるいは目下に変わった時の暗い痛快は、もっとも安易で無責任な娯楽だから…。",
-		"TextENG": ""
+		"TextENG": "The dark thrill of starting to see people who you previously thought to be way out of your reach as equals, or even as inferior to you, is one of the most simple and irresponsible of pleasures."
 	},
 	{
 		"type": "MSGSET",
@@ -750,7 +750,7 @@
 		"PreTextTags": "@vS20/11/440700300.",
 		"TextJPN": "「確かに、気持ちは理解できますねぇ。@k@vS20/11/440700301.今まで努力して積み上げてきたものが、自分以外の誰かのせいでパァ、にされてはたまったもんじゃない。@k@vS20/11/440700302.共通の利害があれば、結束も固くなるでしょう」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``Yeah, I can definitely understand what they're thinking.@k@vS20/11/440700301. Anyone would hate to have all their hard work over the years go ``poof`` because of what someone else did.@k@vS20/11/440700302. Common interests like this tend to unite people.``"
 	},
 	{
 		"type": "MSGSET",
@@ -759,7 +759,7 @@
 		"PreTextTags": "@vS20/28/442800031.",
 		"TextJPN": "「それに同じクラスメイトだった竜宮礼奈が受験勉強や、人間関係のストレスでそうなった、と認めてしまうと、」",
 		"NamesENG": "Tomoe",
-		"TextENG": ""
+		"TextENG": "``And if their classmate Reina Ryuugu admits that it was because of her stress with studying for entrance exams, or due to her relations with others,``"
 	},
 	{
 		"type": "MSGSET",
@@ -768,7 +768,7 @@
 		"PreTextTags": "@vS20/28/442800032.",
 		"TextJPN": "「次に事件を起こすのは自分かもしれない、という未来の可能性も裏付けてしまいますからね」",
 		"NamesENG": "Tomoe",
-		"TextENG": ""
+		"TextENG": "``it will end up giving support to the idea that they themselves might be the ones to cause an incident in the future.``"
 	},
 	{
 		"type": "MSGSET",
@@ -777,7 +777,7 @@
 		"PreTextTags": "@vS20/28/442800033.",
 		"TextJPN": "「…だから、きれいに消去しようと考えるんでしょう。@k@vS20/28/442800034.存在も、事実も」",
 		"NamesENG": "Tomoe",
-		"TextENG": ""
+		"TextENG": "``...Therefore, they want to have everything neatly erased.@k@vS20/28/442800034. The existence, and the facts.``"
 	},
 	{
 		"type": "MSGSET",
@@ -786,19 +786,19 @@
 		"PreTextTags": "@vS20/28/442800035.",
 		"TextJPN": "「……もっとも、竜宮礼奈の引き起こした事件があまりにも常軌を逸したものだったから、それも『なかった』ことにしたい理由なんだとも思いますが」",
 		"NamesENG": "Tomoe",
-		"TextENG": ""
+		"TextENG": "``...And also, the fact that the incident Reina Ryuugu committed was so much out of the ordinary is another reason to make it so that it ``never happened``.``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16543,
 		"TextJPN": "赤信号に行く手をふさがれて、巴はブレーキを踏む。",
-		"TextENG": ""
+		"TextENG": "The next traffic light is red, so Tomoe steps on the brake."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16544,
 		"TextJPN": "停止線の少し前で車は止まり、その目の前の横断歩道を、楽しげにはしゃぎながら３人の女子学生たちが軽い足取りで渡っていった。",
-		"TextENG": ""
+		"TextENG": "The car comes to a stop just before the line, and at the crosswalk in front of them, three female students cross the street at a light pace, happily chatting."
 	},
 	{
 		"type": "MSGSET",
@@ -807,7 +807,7 @@
 		"PreTextTags": "@vS20/11/440700303.",
 		"TextJPN": "「それにしても、そこまで知らぬ、存ぜぬとはずいぶん冷たいもんですねぇ。@k@vS20/11/440700304.…竜宮レナに友達とかは、いなかったんですかね？」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``But even so, it's pretty cold of them to just say that they don't know and don't care, right?@k@vS20/11/440700304. Didn't Rena Ryuugu have any friends?``"
 	},
 	{
 		"type": "MSGSET",
@@ -816,7 +816,7 @@
 		"PreTextTags": "@vS20/28/442800036.",
 		"TextJPN": "「いえ、いました。それもたくさん。@k@vS20/28/442800037.事件前は明るくやさしい女の子だったようで、男女ともに人気があったみたいです」",
 		"NamesENG": "Tomoe",
-		"TextENG": ""
+		"TextENG": "``Oh no, she did. Lots of them, in fact.@k@vS20/28/442800037. Before the incident she was known as a cheerful and kind girl, and apparently she was popular with girls and boys all the same.``"
 	},
 	{
 		"type": "MSGSET",
@@ -825,7 +825,7 @@
 		"PreTextTags": "@vS20/28/442800038.",
 		"TextJPN": "「特に、そこに記載した男子生徒３名とはかなりの仲良しで、放課後はいつも一緒に行動して、下校時間ぎりぎりまで遊んでいたそうですよ」",
 		"NamesENG": "Tomoe",
-		"TextENG": ""
+		"TextENG": "``In particular, she was quite close to the three male students mentioned in that document, and apparently, they always had some activities they did together after school, and they played together right up until the time they had to go home.``"
 	},
 	{
 		"type": "MSGSET",
@@ -834,19 +834,19 @@
 		"PreTextTags": "@vS20/11/440700305.",
 		"TextJPN": "「…ほう？」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``...Oh?``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16549,
 		"TextJPN": "そう言われて、大石は書類の束をぱらぱらとめくる。",
-		"TextENG": ""
+		"TextENG": "Hearing that, Ooishi starts flipping through the documents."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16550,
 		"TextJPN": "その真ん中あたりに、男子生徒の写真が３枚、ホチキスでしっかりと留められていた。",
-		"TextENG": ""
+		"TextENG": "Right in the middle, there was a page with three pictures of male students firmly stapled on."
 	},
 	{
 		"type": "MSGSET",
@@ -855,7 +855,7 @@
 		"PreTextTags": "@vS20/11/440700306.",
 		"TextJPN": "「なんで、この子たちに相談しなかったんですかねぇ。@k@vS20/11/440700307.孤立していたのならともかく、そこまで仲のいい友達なら悩みとかの打ち明けがあってもおかしくないでしょうに」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``I wonder why she didn't end up asking them for advice before.@k@vS20/11/440700307. It would be one thing if she was isolated at school, but if she had friends she was this close with, I would have expected her to talk to them about her problems.``"
 	},
 	{
 		"type": "MSGSET",
@@ -864,73 +864,73 @@
 		"PreTextTags": "@vS20/28/442800039.",
 		"TextJPN": "「……その３人が、今回の被害者です」",
 		"NamesENG": "Tomoe",
-		"TextENG": ""
+		"TextENG": "``...Those three are the victims of this incident.``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16553,
 		"TextJPN": "やがて信号が青へと変わり、手馴れた操作でサイドブレーキを倒してから、巴はアクセルをふかせて発進する。",
-		"TextENG": ""
+		"TextENG": "The traffic light finally turned green, and after releasing the parking brake with a skillful motion, Tomoe hits the accelerator and the car starts moving."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16554,
 		"TextJPN": "再び、窓の外の景色はゆっくりと流れるものへと変わっていった。",
-		"TextENG": ""
+		"TextENG": "Once again, the scenery outside the window starts slowly drifting by."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16555,
 		"TextJPN": "…ある日の放課後。",
-		"TextENG": ""
+		"TextENG": "...One day, after school."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16556,
 		"TextJPN": "レナは男子生徒３人と一緒にプール倉庫脇で話をしていた。",
-		"TextENG": ""
+		"TextENG": "Rena was talking with three male students next to the pool storehouse."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16557,
 		"TextJPN": "それは何かの相談ではなく、いつもそうするようにたむろって、話に花を咲かせていただけらしい。",
-		"TextENG": ""
+		"TextENG": "It wasn't like she was asking them for advice, they just hung out like they always did, chatting in a lively manner."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16558,
 		"TextJPN": "その時、レナに“変化”が起きた。",
-		"TextENG": ""
+		"TextENG": "At that time, something <i>changed</i> within Rena."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16559,
 		"TextJPN": "その変化はあまりに突然で、３人は何が起こったのか理解できなかったらしい。",
-		"TextENG": ""
+		"TextENG": "That change occurred so abruptly that apparently, the other three couldn't understand what happened either."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16560,
 		"TextJPN": "いきなり金属バットを手に、仲間たちを次々に殴り倒した。",
-		"TextENG": ""
+		"TextENG": "She suddenly grabbed a metal bat and started knocking down her friends, one after another."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16561,
 		"TextJPN": "額を割られ、血まみれになって倒れる仲間たちを残し、レナは校舎へ向かった。",
-		"TextENG": ""
+		"TextENG": "She left her friends behind, covered in blood and with their foreheads cut open, and headed towards the school building."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16562,
 		"TextJPN": "そして教室の窓ガラスを次々に割っていったのだ。",
-		"TextENG": ""
+		"TextENG": "Then, one after another, she smashed all the windowpanes in the classrooms."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16563,
 		"TextJPN": "何分もしないうちに教師たちがやってきて…レナを取り押さえた。――",
-		"TextENG": ""
+		"TextENG": "Within a few minutes, some teachers turned up... who managed to subdue her. ―"
 	},
 	{
 		"type": "MSGSET",
@@ -939,7 +939,7 @@
 		"PreTextTags": "@vS20/11/440700308.",
 		"TextJPN": "「………」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``......``"
 	},
 	{
 		"type": "MSGSET",
@@ -948,7 +948,7 @@
 		"PreTextTags": "@vS20/28/442800040.",
 		"TextJPN": "「聞き込みを行った生徒の何人かは又聞きだったため、それが正確かどうかは保証できませんが。@k@vS20/28/442800041.話を総合してみると、だいたいそんな感じです」",
 		"NamesENG": "Tomoe",
-		"TextENG": ""
+		"TextENG": "``This is all hearsay, from people who overheard other students ask them about it, so we don't know for sure whether any of this is true or not.@k@vS20/28/442800041. But by putting together the various statements, that's roughly the idea we get.``"
 	},
 	{
 		"type": "MSGSET",
@@ -957,7 +957,7 @@
 		"PreTextTags": "@vS20/28/442800042.",
 		"TextJPN": "「共通していたのは、竜宮礼奈の変貌ぶりが信じられないということでした。@k@vS20/28/442800043.まるで、何か悪霊に取り憑かれたようで…それが、恐ろしかったそうです」",
 		"NamesENG": "Tomoe",
-		"TextENG": ""
+		"TextENG": "``But one thing that all the accounts share is that Reina Ryuugu's change in appearance was almost unbelievable. @k@vS20/28/442800043.It was as if she had been possessed by an evil spirit. That's how terrifying it must have felt.``"
 	},
 	{
 		"type": "MSGSET",
@@ -966,7 +966,7 @@
 		"PreTextTags": "@vS20/11/440700309.",
 		"TextJPN": "「ふぅむ…。@k@vS20/11/440700310.それで、怪我をした３人から証言は？」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``Hmm.@k@vS20/11/440700310. And is there a statement from any of the three injured students?``"
 	},
 	{
 		"type": "MSGSET",
@@ -975,7 +975,7 @@
 		"PreTextTags": "@vS20/28/442800044.",
 		"TextJPN": "「色々手を尽くしてみましたが、…だめでした。@k@vS20/28/442800045.重傷を負った子はもちろん、他の二人も今回の件を訊ねた途端、一切の協力を拒否」",
 		"NamesENG": "Tomoe",
-		"TextENG": ""
+		"TextENG": "``Our team tried everything they could think of, but it was hopeless.@k@vS20/28/442800045. The severely injured boy most of all, but even when they inquired with the other two about this case, they refused all collaboration.``"
 	},
 	{
 		"type": "MSGSET",
@@ -984,7 +984,7 @@
 		"PreTextTags": "@vS20/28/442800046.",
 		"TextJPN": "「口が重いというより、…なにか語ることを恐れている感じですね」",
 		"NamesENG": "Tomoe",
-		"TextENG": ""
+		"TextENG": "``Rather than just refusing to answer, ...it almost felt like they were afraid to say anything.``"
 	},
 	{
 		"type": "MSGSET",
@@ -993,25 +993,25 @@
 		"PreTextTags": "@vS20/11/440700311.",
 		"TextJPN": "「…恐れている？」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``...They were afraid?``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16571,
 		"TextJPN": "ふと、大石の頭にいやな想像が駆け巡る。",
-		"TextENG": ""
+		"TextENG": "Suddenly, an unpleasant image runs through Ooishi's head."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16572,
 		"TextJPN": "…さっき看護師に言ったのは、証言を聞きだすためのはったりだった。",
-		"TextENG": ""
+		"TextENG": "...What he said to that nurse earlier was a bluff to get information out of her."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16573,
 		"TextJPN": "しかし、もしも本当に被害者たちが竜宮レナになんらかの犯罪行為をしでかして、それが露見することを恐れていたとしたら…？！",
-		"TextENG": ""
+		"TextENG": "But, what if the victims really committed some crime against Rena Ryuugu, and were afraid that this would come out...?!"
 	},
 	{
 		"type": "MSGSET",
@@ -1020,13 +1020,13 @@
 		"PreTextTags": "@vS20/28/442800047.",
 		"TextJPN": "「――大石さん。おそらく『それ』は、ないでしょう」",
 		"NamesENG": "Tomoe",
-		"TextENG": ""
+		"TextENG": "``―Ooishi-san. <i>That</i> is probably not what happened.``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16575,
 		"TextJPN": "が、巴は大石のその推理を察知し、先んじて否定した。",
-		"TextENG": ""
+		"TextENG": "Tomoe had an idea what Ooishi's line of reasoning might be, and preemptively denied that."
 	},
 	{
 		"type": "MSGSET",
@@ -1035,7 +1035,7 @@
 		"PreTextTags": "@vS20/28/442800048.",
 		"TextJPN": "「竜宮礼奈を含めた４人組の様子を、遠くから何人もの生徒が目撃しています」",
 		"NamesENG": "Tomoe",
-		"TextENG": ""
+		"TextENG": "``There are other students that were able to witness the four of them at various points.``"
 	},
 	{
 		"type": "MSGSET",
@@ -1044,7 +1044,7 @@
 		"PreTextTags": "@vS20/28/442800049.",
 		"TextJPN": "「実際に、彼女が暴れだす直前にもクラブ活動中の生徒が、話し声が聞こえるほど近い距離を通りがかっているそうです」",
 		"NamesENG": "Tomoe",
-		"TextENG": ""
+		"TextENG": "``In fact, there was a student who passed by close to them during his club activities, right before she went on her rampage. He was even able to catch some of their conversation.``"
 	},
 	{
 		"type": "MSGSET",
@@ -1053,7 +1053,7 @@
 		"PreTextTags": "@vS20/28/442800050.",
 		"TextJPN": "「万一やましい計画を立てていたのだとしたら、そんな人目のつく場所にいつまでも居続けたりするでしょうか？」",
 		"NamesENG": "Tomoe",
-		"TextENG": ""
+		"TextENG": "``If they truly had made some sinister plans in advance, would they really stay at such an exposed place the entire time?``"
 	},
 	{
 		"type": "MSGSET",
@@ -1062,7 +1062,7 @@
 		"PreTextTags": "@vS20/11/440700312.",
 		"TextJPN": "「……むむ、…確かに…」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``...Hmm, ...that's true...``"
 	},
 	{
 		"type": "MSGSET",
@@ -1071,7 +1071,7 @@
 		"PreTextTags": "@vS20/28/442800051.",
 		"TextJPN": "「あと、その通りがかった子の話だと。@k@vS20/28/442800052.４人のうちひとりがどうやら誰かと付き合っていたようで、それに対して竜宮礼奈を含めた残りの３人がはやしたてながら、盛り上がっていたとのことです」",
 		"NamesENG": "Tomoe",
-		"TextENG": ""
+		"TextENG": "``And, from what the passerby kid said,@k@vS20/28/442800052. one of the four was apparently dating someone, and the other three, including Reina Ryuugu, were cheering on him and celebrating him for that.``"
 	},
 	{
 		"type": "MSGSET",
@@ -1080,7 +1080,7 @@
 		"PreTextTags": "@vS20/28/442800053.",
 		"TextJPN": "「…その交際はクラス内でも有名だったみたいで、少なくとも彼女が急に激昂する話題ではなかったそうですが」",
 		"NamesENG": "Tomoe",
-		"TextENG": ""
+		"TextENG": "``...Apparently, this relationship was already well known within the class, and at the very least, it wouldn't have been a topic that would suddenly send her into a rage.``"
 	},
 	{
 		"type": "MSGSET",
@@ -1089,7 +1089,7 @@
 		"PreTextTags": "@vS20/11/440700313.",
 		"TextJPN": "「……ふぅむ。@k@vS20/11/440700314.ならばますます、竜宮レナの凶行の動機がよくわかりませんね」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``...Hmm.@k@vS20/11/440700314. If that's the case, then we understand the motive for her violent outburst even less now.``"
 	},
 	{
 		"type": "MSGSET",
@@ -1098,7 +1098,7 @@
 		"PreTextTags": "@vS20/11/440700315.",
 		"TextJPN": "「たとえ『オヤシロさま』の祟りがもとで精神が不安定だったとしても、それに至るための着火剤というか、きっかけのような言葉があったはずなんですが。@k@vS20/11/440700316.ひょっとして、…なにか嫉妬とか？」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``Even if the curse of ``Oyashiro-sama`` represents some kind of underlying mental instability, there would need to be something to light the fuse, like a thing someone said that provoked her.@k@vS20/11/440700316. Perhaps... she was jealous of someone?``"
 	},
 	{
 		"type": "MSGSET",
@@ -1107,7 +1107,7 @@
 		"PreTextTags": "@vS20/28/442800054.",
 		"TextJPN": "「さぁ、…どうなんでしょう？@k@vS20/28/442800055.　重傷を負ったのは確かにその、クラスの女子と付き合っていた生徒なんですが」",
 		"NamesENG": "Tomoe",
-		"TextENG": ""
+		"TextENG": "``Who knows... I'm wondering too.@k@vS20/28/442800055. Indeed, the most seriously wounded boy was the one who was dating another girl in the class.``"
 	},
 	{
 		"type": "MSGSET",
@@ -1116,7 +1116,7 @@
 		"PreTextTags": "@vS20/28/442800056.",
 		"TextJPN": "「横恋慕していたのならともかく、その交際のはじまりは竜宮礼奈が仲介したとの話でしたので、…それも違うような気がします」",
 		"NamesENG": "Tomoe",
-		"TextENG": ""
+		"TextENG": "``Well, a side relationship would be one thing, but I heard that their relationship only even started through Reina Ryuugu's mediation, so that doesn't feel very plausible either.``"
 	},
 	{
 		"type": "MSGSET",
@@ -1125,31 +1125,31 @@
 		"PreTextTags": "@vS20/11/440700317.",
 		"TextJPN": "「むむむ…」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``Hmmmm...``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16587,
 		"TextJPN": "巴の指摘に、大石ももっともだと頭を抱え込む。",
-		"TextENG": ""
+		"TextENG": "When Tomoe pointed that out, Ooishi naturally reached his wit's end as well."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16588,
 		"TextJPN": "思春期の少年少女が突然凶行に走った時、その理由としては色恋沙汰がもっとも説明がつけやすい。",
-		"TextENG": ""
+		"TextENG": "When adolescent boys and girls suddenly start acting violently, by far the most natural explanation would be a romantic matter."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16589,
 		"TextJPN": "…比較的、男よりも精神的に早く成長する女の子に至っては、その確率はほぼ１００％だ。",
-		"TextENG": ""
+		"TextENG": "...And for girls, who reach mental maturity faster compared to boys, the probability for that approaches 100%."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16590,
 		"TextJPN": "しかしそれが違うとなれば、まさに『オヤシロさまの祟り』という超常現象が事件の発端だということなのか…？",
-		"TextENG": ""
+		"TextENG": "But if that's not the case, could it really mean that a supernatural phenomenon like ``Oyashiro-sama's curse`` could have caused the incident...?"
 	},
 	{
 		"type": "MSGSET",
@@ -1158,7 +1158,7 @@
 		"PreTextTags": "@vS20/28/442800057.",
 		"TextJPN": "「あ、…そういえば大石さん。@k@vS20/28/442800058.その『オヤシロさま』って単語ですが、気になることがひとつ」",
 		"NamesENG": "Tomoe",
-		"TextENG": ""
+		"TextENG": "``Ah, by the way, Ooishi-san.@k@vS20/28/442800058. There's something about the word ``Oyashiro-sama`` that made me curious.``"
 	},
 	{
 		"type": "MSGSET",
@@ -1167,7 +1167,7 @@
 		"PreTextTags": "@vS20/11/440700318.",
 		"TextJPN": "「え？　どうかしましたか？」",
 		"NamesENG": "Ooishi",
-		"TextENG": ""
+		"TextENG": "``Oh? What is that?``"
 	},
 	{
 		"type": "MSGSET",
@@ -1176,7 +1176,7 @@
 		"PreTextTags": "@vS20/28/442800059.",
 		"TextJPN": "「その、重傷を負った被害者と付き合っていた女子生徒の話だと、最初の見舞いのときに彼が寝言で『オヤシロさま』とさかんに呟いていたそうです」",
 		"NamesENG": "Tomoe",
-		"TextENG": ""
+		"TextENG": "``Supposedly, the girlfriend of the severely injured boy said that when she first visited him at the hospital, he was repeatedly mumbling the word ``Oyashiro-sama`` in his sleep.``"
 	},
 	{
 		"type": "MSGSET",
@@ -1185,6 +1185,6 @@
 		"PreTextTags": "@vS20/28/442800060.",
 		"TextJPN": "「ただ、その後起きたときに尋ねても彼は覚えていなかったようで、それに『オヤシロさま』というものが何なのか、そもそも知らなかったとのことですが」",
 		"NamesENG": "Tomoe",
-		"TextENG": ""
+		"TextENG": "``But when she asked him about it afterwards, he apparently couldn't remember any of that, and he didn't even have any idea what ``Oyashiro-sama`` might be in the first place.``"
 	}
 ]

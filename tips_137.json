@@ -3,7 +3,7 @@
 		"type": "SAVEINFO",
 		"category": 1,
 		"JPN": "決意",
-		"ENG": "決意"
+		"ENG": "Resolve"
 	},
 	{
 		"type": "MSGSET",
@@ -552,7 +552,7 @@
 		"PreTextTags": "@vS20/12/441100031.",
 		"TextJPN": "「……それでもきっと大きな奇跡。@k@vS20/12/441100032.…もっとも、その奇跡を、あなたはきっと気付かないだろうけれど」",
 		"NamesENG": "Voice",
-		"TextENG": "That's a big miracle itself.@k@vS20/12/441100032. Although, you probably won't even notice it.``"
+		"TextENG": "That's a big miracle itself.@k@vS20/12/441100032. Although, you probably won't even notice it."
 	},
 	{
 		"type": "MSGSET",
@@ -561,7 +561,7 @@
 		"PreTextTags": "@vS20/12/441100033.",
 		"TextJPN": "「その、小さなちいさな意志の力が」",
 		"NamesENG": "Voice",
-		"TextENG": ""
+		"TextENG": "This tiny, tiny piece of willpower"
 	},
 	{
 		"type": "MSGSET",
@@ -570,7 +570,7 @@
 		"PreTextTags": "@vS20/12/441100034.",
 		"TextJPN": "「ばらばらに散らばった『カケラ』を『カタマリ』へと変えて、運命の歯車のひとつを回す大きな力となる」",
 		"NamesENG": "Voice",
-		"TextENG": ""
+		"TextENG": "will turn all the scattered Fragments into a Cluster, and become the great power that will turn one of the gears of fate."
 	},
 	{
 		"type": "MSGSET",
@@ -579,7 +579,7 @@
 		"PreTextTags": "@vS20/12/441100035.",
 		"TextJPN": "「それは、今まで誰も気がつかなかった、世界の片隅にぽつんと置かれたちいさな歯車」",
 		"NamesENG": "Voice",
-		"TextENG": ""
+		"TextENG": "That is, a tiny gear hidden somewhere in a corner of this world, that nobody has ever noticed before."
 	},
 	{
 		"type": "MSGSET",
@@ -588,7 +588,7 @@
 		"PreTextTags": "@vS20/12/441100036.",
 		"TextJPN": "「でも」",
 		"NamesENG": "Voice",
-		"TextENG": ""
+		"TextENG": "However."
 	},
 	{
 		"type": "MSGSET",
@@ -597,7 +597,7 @@
 		"PreTextTags": "@vS20/12/441100037.",
 		"TextJPN": "「それが回ることで、強固に組み合わさった歯車たちは向きを変えて、違う大きな動きを生み出してゆく」",
 		"NamesENG": "Voice",
-		"TextENG": ""
+		"TextENG": "By turning this gear, the other gears that are set firmly in place will change direction, and bring forth a different great movement."
 	},
 	{
 		"type": "MSGSET",
@@ -606,7 +606,7 @@
 		"PreTextTags": "@vS20/12/441100038.",
 		"TextJPN": "「閉ざされた扉をこじ開けるように、力強く」",
 		"NamesENG": "Voice",
-		"TextENG": ""
+		"TextENG": "One that will pry open a door with great force. A door that has been closed previously."
 	},
 	{
 		"type": "MSGSET",
@@ -615,7 +615,7 @@
 		"PreTextTags": "@vS20/12/441100039.",
 		"TextJPN": "「立ち塞がった壁を打ち破るように、猛々しく」",
 		"NamesENG": "Voice",
-		"TextENG": ""
+		"TextENG": "One that will ferociously smash apart the wall standing in your way."
 	},
 	{
 		"type": "MSGSET",
@@ -624,7 +624,7 @@
 		"PreTextTags": "@vS20/12/441100040.",
 		"TextJPN": "「だから、赤坂」",
 		"NamesENG": "Voice",
-		"TextENG": ""
+		"TextENG": "So, Akasaka,"
 	},
 	{
 		"type": "MSGSET",
@@ -633,6 +633,6 @@
 		"PreTextTags": "@vS20/12/441100041.",
 		"TextJPN": "「その想いを、……どうか、私『たち』に――」",
 		"NamesENG": "Voice",
-		"TextENG": ""
+		"TextENG": "please, keep this in mind, for <i>us</i>―``"
 	}
 ]

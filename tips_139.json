@@ -3,7 +3,7 @@
 		"type": "SAVEINFO",
 		"category": 1,
 		"JPN": "悟史って誰？",
-		"ENG": "悟史って誰？"
+		"ENG": "Who is Satoshi?"
 	},
 	{
 		"type": "MSGSET",
@@ -12,7 +12,7 @@
 		"PreTextTags": "@vS20/01/440100166.",
 		"TextJPN": "「魅音、ちょっと聞いてもいいか？」",
 		"NamesENG": "Keiichi",
-		"TextENG": ""
+		"TextENG": "``Hey, Mion, can I ask you something real quick?``"
 	},
 	{
 		"type": "MSGSET",
@@ -21,7 +21,7 @@
 		"PreTextTags": "@vS20/03/440300154.",
 		"TextJPN": "「ん？　なぁに圭ちゃん、改まってさ。@k@vS20/03/440300155.どったの？」",
 		"NamesENG": "Mion",
-		"TextENG": ""
+		"TextENG": "``Hm? Hah, Kei-chan, you've reformed.@k@vS20/03/440300155. What's up?``"
 	},
 	{
 		"type": "MSGSET",
@@ -30,19 +30,19 @@
 		"PreTextTags": "@vS20/01/440100167.",
 		"TextJPN": "「あのさ。実は、@k@vS20/01/440100168.……悟史ってヤツのことなんだけど」",
 		"NamesENG": "Keiichi",
-		"TextENG": ""
+		"TextENG": "``So, well.@k@vS20/01/440100168. It's about someone named Satoshi.``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16386,
 		"TextJPN": "それの名前を聞いた途端、おちゃらけた表情で笑っていた魅音がはっ、とこちらが驚くほど顔色を変えて息を飲む。",
-		"TextENG": ""
+		"TextENG": "To my surprise, the moment she heard that name, her joking expression changed completely. I had to catch my breath."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16387,
 		"TextJPN": "そして次の瞬間弾かれたように振り返ると、背後でぺちゃくちゃとお喋りしている沙都子たちに顔を向けた。",
-		"TextENG": ""
+		"TextENG": "And the next moment, she quickly turned around to take a look at Satoko and the others, who were chatting away in the back."
 	},
 	{
 		"type": "MSGSET",
@@ -51,7 +51,7 @@
 		"PreTextTags": "@vS20/04/440400117.",
 		"TextJPN": "「？　魅音さん、どうかなさいましたか？」",
 		"NamesENG": "Satoko",
-		"TextENG": ""
+		"TextENG": "``? Mion-san, what is going on?``"
 	},
 	{
 		"type": "MSGSET",
@@ -60,7 +60,7 @@
 		"PreTextTags": "@vS20/03/440300156.",
 		"TextJPN": "「いや～、なんか背後にみょーな気配を感じてさ。@k@vS20/03/440300157.ひょっとしたら沙都子が何か悪巧みしてるかも、なんてねー」",
 		"NamesENG": "Mion",
-		"TextENG": ""
+		"TextENG": "``Ah~, I kind of felt something weird behind me.@k@vS20/03/440300157. I guess you're playing some tricks again, Satoko! Just kidding!``"
 	},
 	{
 		"type": "MSGSET",
@@ -69,7 +69,7 @@
 		"PreTextTags": "@vS20/04/440400118.",
 		"TextJPN": "「……なんだか不本意な言われようですわねぇ。@k@vS20/04/440400119.私は別に毎日毎時間、誰かを陥れることばかり考えてるほどお暇ではございませんのよ？」",
 		"NamesENG": "Satoko",
-		"TextENG": ""
+		"TextENG": "``...Well, that's an unpleasant thing to hear.@k@vS20/04/440400119. I don't have the time to spare to spend every hour of every day thinking about how to make people fall for my traps, you know?``"
 	},
 	{
 		"type": "MSGSET",
@@ -78,13 +78,13 @@
 		"PreTextTags": "@vS20/05/440500077.",
 		"TextJPN": "「そうなのです。@k@vS20/05/440500078.ボクたちは明日の朝、どんなトラップで圭一をお出迎えしてやろうかと相談していたのですよ。@k@vS20/05/440500079.にぱー♪」",
 		"NamesENG": "Rika",
-		"TextENG": ""
+		"TextENG": "``That's right.@k@vS20/05/440500078. We were just discussing what kind of trap we would make Keiichi face tomorrow morning.@k@vS20/05/440500079. Nipah♪``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16392,
 		"TextJPN": "ちょっと待て、……二人かしましく、そんな穏やかじゃない話をしていたのか？！　それを聞いて俺は、よからぬ企みを中止させるべく沙都子に制裁を加えようと一歩前に踏み出しかけたが、",
-		"TextENG": ""
+		"TextENG": "Hey, wait. The two of them were talking loudly about something so unsettling?! Hearing this, I was about to head over to Satoko to put an end to her evil scheming and deal out some punishment, but..."
 	},
 	{
 		"type": "MSGSET",
@@ -93,7 +93,7 @@
 		"PreTextTags": "@vS20/03/440300158.",
 		"TextJPN": "「まーまー。@k@vS20/03/440300159.――それはそうと圭ちゃん、今暇でしょ？@k@vS20/03/440300160.　ちょっと職員室まで付き合ってよ。@k@vS20/03/440300161.放課後に配るプリント、結構多いんだよね～」",
 		"NamesENG": "Mion",
-		"TextENG": ""
+		"TextENG": "``Well, well.@k@vS20/03/440300159. ―Anyway, Kei-chan, are you free right now?@k@vS20/03/440300160. Come with me to the teacher's lounge for a bit.@k@vS20/03/440300161. There's a lot of prints to be handed out after school today~``"
 	},
 	{
 		"type": "MSGSET",
@@ -102,19 +102,19 @@
 		"PreTextTags": "@vS20/01/440100169.",
 		"TextJPN": "「ん？　あ、ああ……？」",
 		"NamesENG": "Keiichi",
-		"TextENG": ""
+		"TextENG": "``Huh? Ah, ah...?``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16395,
 		"TextJPN": "それを遮るように魅音はすばやく俺の前に割り込むと、気安い感じにそう言って肩をぽん、と叩く。",
-		"TextENG": ""
+		"TextENG": "As if to stop me, Mion cut in front of me and gave me a friendly tap on the shoulder while saying that."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16396,
 		"TextJPN": "それが、俺を教室の外に連れ出す口実ということはすぐにわかったが、……魅音は器用に沙都子たちの死角から、声とは裏腹の厳しい表情を俺に向けていた。",
-		"TextENG": ""
+		"TextENG": "I immediately understood that this was just a pretense for getting me out of the classroom, but... she skillfully stood in a spot where Satoko and the others couldn't see her and gave me a stern look."
 	},
 	{
 		"type": "MSGSET",
@@ -123,7 +123,7 @@
 		"PreTextTags": "@vS20/01/440100170.",
 		"TextJPN": "「……どうしたんだよ、魅音？」",
 		"NamesENG": "Keiichi",
-		"TextENG": ""
+		"TextENG": "``..What's going on, Mion?``"
 	},
 	{
 		"type": "MSGSET",
@@ -132,7 +132,7 @@
 		"PreTextTags": "@vS20/03/440300162.",
 		"TextJPN": "「あのさ、圭ちゃん。@k@vS20/03/440300163.……さっきの名前、誰から聞いたの？」",
 		"NamesENG": "Mion",
-		"TextENG": ""
+		"TextENG": "``Hey, Kei-chan.@k@vS20/03/440300163. That name from before. Who did you hear it from?``"
 	},
 	{
 		"type": "MSGSET",
@@ -141,13 +141,13 @@
 		"PreTextTags": "@vS20/01/440100171.",
 		"TextJPN": "「誰から、って……」",
 		"NamesENG": "Keiichi",
-		"TextENG": ""
+		"TextENG": "``Who? Well...``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16400,
 		"TextJPN": "廊下に出るなり、魅音はまるで詰問するかのように俺に迫りながら、硬い表情と口調で尋ねる。……その様子は、いつものそれとは明らかに違っていた。",
-		"TextENG": ""
+		"TextENG": "After we went out into the corridor, Mion started asking me this with a stiff expression and tone, as if she was cross-examining me. ...This was completely different from her usual behavior."
 	},
 	{
 		"type": "MSGSET",
@@ -156,7 +156,7 @@
 		"PreTextTags": "@vS20/03/440300164.",
 		"TextJPN": "「ね、正直に言って。怒らないから。@k@vS20/03/440300165.……誰から？」",
 		"NamesENG": "Mion",
-		"TextENG": ""
+		"TextENG": "``Please tell me honestly. I'm not going to get angry.@k@vS20/03/440300165. Who did you hear it from?``"
 	},
 	{
 		"type": "MSGSET",
@@ -165,7 +165,7 @@
 		"PreTextTags": "@vS20/01/440100172.",
 		"TextJPN": "「べ、別に誰からでもないって。@k@vS20/01/440100173.……ほら、部活でやった推理カードゲームだよ。@k@vS20/01/440100174.俺たち以外の知らない名前があったから、誰だろ、って思ってさ」",
 		"NamesENG": "Keiichi",
-		"TextENG": ""
+		"TextENG": "``I- I didn't hear it from anyone.@k@vS20/01/440100173. I saw it in that deduction card game we played in club before.@k@vS20/01/440100174. There was a name I didn't know, and I was wondering who that might be."
 	},
 	{
 		"type": "MSGSET",
@@ -174,19 +174,19 @@
 		"PreTextTags": "@vS20/03/440300166.",
 		"TextJPN": "「…………あ、そうか。@k@vS20/03/440300167.あれだけ、前のままだったんだ……」",
 		"NamesENG": "Mion",
-		"TextENG": ""
+		"TextENG": "``...Ah, I see.@k@vS20/03/440300167. I guess that one's still like it was before...``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16404,
 		"TextJPN": "それを聞いて魅音は、しまった……と本気で悔いるように頭を抱える。",
-		"TextENG": ""
+		"TextENG": "After hearing that, Mion seemed genuinely regretful, as if she had made a big mistake."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16405,
 		"TextJPN": "意味がわからない。……『悟史』という名前はそんなにも聞いてはいけないものなのか？",
-		"TextENG": ""
+		"TextENG": "I didn't understand why. ...Was the name ``Satoshi`` really such a big taboo?"
 	},
 	{
 		"type": "MSGSET",
@@ -195,7 +195,7 @@
 		"PreTextTags": "@vS20/03/440300168.",
 		"TextJPN": "「いや、そういうわけじゃないけどさ。@k@vS20/03/440300169.……実はここだけの話、悟史ってのは沙都子のお兄さんなんだよ」",
 		"NamesENG": "Mion",
-		"TextENG": ""
+		"TextENG": "``No, that's not how it is.@k@vS20/03/440300169. To tell you the truth... Please keep this between you and me, but Satoshi is Satoko's older brother."
 	},
 	{
 		"type": "MSGSET",
@@ -204,7 +204,7 @@
 		"PreTextTags": "@vS20/01/440100175.",
 		"TextJPN": "「え、……沙都子って、兄貴がいるのか？」",
 		"NamesENG": "Keiichi",
-		"TextENG": ""
+		"TextENG": "``Huh... Satoko has a brother?``"
 	},
 	{
 		"type": "MSGSET",
@@ -213,7 +213,7 @@
 		"PreTextTags": "@vS20/03/440300170.",
 		"TextJPN": "「うん。@k@vS20/03/440300171.…………というか、『いた』と言ったほうがいいのかな。@k@vS20/03/440300172.今はその、…………去年から行方不明なんだよ」",
 		"NamesENG": "Mion",
-		"TextENG": ""
+		"TextENG": "``Yep.@k@vS20/03/440300171. ...That said, it might be better to say that she ``had`` a brother.@k@vS20/03/440300172. Right now, well...... last year, he disappeared.``"
 	},
 	{
 		"type": "MSGSET",
@@ -222,7 +222,7 @@
 		"PreTextTags": "@vS20/01/440100176.",
 		"TextJPN": "「行方ふめっ――？！」",
 		"NamesENG": "Keiichi",
-		"TextENG": ""
+		"TextENG": "``He disappeared―?!``"
 	},
 	{
 		"type": "MSGSET",
@@ -231,13 +231,13 @@
 		"PreTextTags": "@vS20/03/440300173.",
 		"TextJPN": "「――しっ！」",
 		"NamesENG": "Mion",
-		"TextENG": ""
+		"TextENG": "``―Shh!``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16411,
 		"TextJPN": "思わず上ずった声をあげかけて、慌てて魅音が人差し指を立てる。@k……とりあえず、教室から少し離れていたこともあって、中には声は届いていなさそうだった。",
-		"TextENG": ""
+		"TextENG": "I raised my voice without thinking, and Mion quickly put her index finger to her mouth to warn me.@k ...Well, we're some ways away from the classroom, so I don't think anyone in there heard me."
 	},
 	{
 		"type": "MSGSET",
@@ -246,7 +246,7 @@
 		"PreTextTags": "@vS20/03/440300174.",
 		"TextJPN": "「……声が大きいよ、圭ちゃん。@k@vS20/03/440300175.ちょっとは沙都子のこと、考えてあげて」",
 		"NamesENG": "Mion",
-		"TextENG": ""
+		"TextENG": "``...Be quiet, Kei-chan.@k@vS20/03/440300175. Think about how Satoko might feel about all this.``"
 	},
 	{
 		"type": "MSGSET",
@@ -255,7 +255,7 @@
 		"PreTextTags": "@vS20/01/440100177.",
 		"TextJPN": "「ごめん……気をつける」",
 		"NamesENG": "Keiichi",
-		"TextENG": ""
+		"TextENG": "``Sorry... I'll keep that in mind.``"
 	},
 	{
 		"type": "MSGSET",
@@ -264,7 +264,7 @@
 		"PreTextTags": "@vS20/03/440300176.",
 		"TextJPN": "「家出なのか、それとも事件なのか、@k@vS20/03/440300177.……正直私たちもわからない。@k@vS20/03/440300178.でも、沙都子は口にこそ出さないけど、結構気にしてるんだよ。@k@vS20/03/440300179.悟史と沙都子って、すごく仲のいい兄妹だったから」",
 		"NamesENG": "Mion",
-		"TextENG": ""
+		"TextENG": "``Maybe he ran away from home, or maybe he got into an accident...@k@vS20/03/440300177. Honestly, we don't know what happened either.@k@vS20/03/440300178. But even if Satoko doesn't talk about it, she often thinks about him.@k@vS20/03/440300179. The two siblings were really close.``"
 	},
 	{
 		"type": "MSGSET",
@@ -273,7 +273,7 @@
 		"PreTextTags": "@vS20/01/440100178.",
 		"TextJPN": "「そうなのか……？」",
 		"NamesENG": "Keiichi",
-		"TextENG": ""
+		"TextENG": "``Huh, is that how it is...?``"
 	},
 	{
 		"type": "MSGSET",
@@ -282,7 +282,7 @@
 		"PreTextTags": "@vS20/03/440300180.",
 		"TextJPN": "「だからあの子の前では、その名前はなるべく出さないで。@k@vS20/03/440300181.それに本音を言えば、私たちもまだ整理ついてないから、……さ。@k@vS20/03/440300182.――お願い」",
 		"NamesENG": "Mion",
-		"TextENG": ""
+		"TextENG": "``So, please don't say that name in front of her, if you can avoid it.@k@vS20/03/440300181. And to be honest, the others of us haven't really come to terms with it, either, so...@k@vS20/03/440300182. That's what I'm asking from you.``"
 	},
 	{
 		"type": "MSGSET",
@@ -291,25 +291,25 @@
 		"PreTextTags": "@vS20/01/440100179.",
 		"TextJPN": "「あ、ああ……」",
 		"NamesENG": "Keiichi",
-		"TextENG": ""
+		"TextENG": "``Ah, sure...``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16418,
 		"TextJPN": "魅音の頼み、というよりも凄みにちかい物言いに、俺はともかく首を縦に振って、頷く。",
-		"TextENG": ""
+		"TextENG": "Mion's request sounded more like a threat, so for now I nodded in agreement."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16419,
 		"TextJPN": "……確かに、身内のよくない話題を挙げられて、嬉しく思えるやつはいない。沙都子は確かに悪戯好きで、俺もたまに酷い目に遭ったりしているが、だからといって仕返しのねたにするには重過ぎるし、卑怯だ。",
-		"TextENG": ""
+		"TextENG": "...That's true, nobody would be happy to have some bad topic related to their family come up in conversation. And while Satoko may give me a hard time sometimes with her mischievous nature, this topic is far too heavy to be used as payback for that. It would be dirty do to that."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16420,
 		"TextJPN": "それに話を聞く限り、……魅音たちともわりと親しかったようだ。だからまだ、思い出すだけでも辛さがこみ上げてくるのかもしれない。",
-		"TextENG": ""
+		"TextENG": "And from what I've heard, he seemed to be pretty close to Mion and the others as well. So even now, thinking about him might cause some bad feelings to well up for them."
 	},
 	{
 		"type": "MSGSET",
@@ -318,7 +318,7 @@
 		"PreTextTags": "@vS20/01/440100180.",
 		"TextJPN": "「あ。……だけどさ、魅音」",
 		"NamesENG": "Keiichi",
-		"TextENG": ""
+		"TextENG": "``Ah. ...But, Mion...``"
 	},
 	{
 		"type": "MSGSET",
@@ -327,13 +327,13 @@
 		"PreTextTags": "@vS20/03/440300183.",
 		"TextJPN": "「――なに？」",
 		"NamesENG": "Mion",
-		"TextENG": ""
+		"TextENG": "``―What?``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16423,
 		"TextJPN": "踵を返しかけていた魅音は、まだ何か、と少し不快そうに眉を寄せて顔を戻す。その表情に少し気後れも感じたが、それでもこれだけは聞いておきたくて、俺は口を開いた。",
-		"TextENG": ""
+		"TextENG": "She seemed like was about to turn back, but her face went back to an unpleasant frown, like ``you're still not satisfied?``. Her expression made me feel a bit nervous, but I still wanted to ask her this one thing, so I opened my mouth again."
 	},
 	{
 		"type": "MSGSET",
@@ -342,7 +342,7 @@
 		"PreTextTags": "@vS20/01/440100181.",
 		"TextJPN": "「レナに以前、悟史のことを訊いたら、……よく知らない、って。@k@vS20/01/440100182.魅音もそうだけど、なんでそんなにも隠そうとするんだ？@k@vS20/01/440100183.　別にそれを聞いたからって、俺はべらべら喋ったりしないし、それに――」",
 		"NamesENG": "Keiichi",
-		"TextENG": ""
+		"TextENG": "``When I asked Rena about Satoshi in the past, she told me that ``she doesn't really know``.@k@vS20/01/440100182. It's the same with you. Why do all of you try to hide it so much?@k@vS20/01/440100183. It's not like I'll start chatting about this non-stop after you tell me, and also―``"
 	},
 	{
 		"type": "MSGSET",
@@ -351,7 +351,7 @@
 		"PreTextTags": "@vS20/03/440300184.",
 		"TextJPN": "「………………そ・レ・ニ？」",
 		"NamesENG": "Mion",
-		"TextENG": ""
+		"TextENG": "``......And- al- so-?``"
 	},
 	{
 		"type": "MSGSET",
@@ -360,19 +360,19 @@
 		"PreTextTags": "@vS20/01/440100184.",
 		"TextJPN": "「――っ？！」",
 		"NamesENG": "Keiichi",
-		"TextENG": ""
+		"TextENG": "``―Ngh?!``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16427,
 		"TextJPN": "一瞬。",
-		"TextENG": ""
+		"TextENG": "For one instant."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16428,
 		"TextJPN": "魅音の瞳の奥に、ぎらりと鋭い光が宿ったように見えて、俺は息を飲む。……が、次の瞬間にはそれは消えうせて、魅音は明らかに不釣合いなほどの朗らかな笑みを浮かべていた。",
-		"TextENG": ""
+		"TextENG": "Deep in Mion's eyes, I could see a glaringly sharp light that made me gulp. ...But, the next moment, that disappeared, and she put on a bright smile that clearly didn't fit the situation."
 	},
 	{
 		"type": "MSGSET",
@@ -381,7 +381,7 @@
 		"PreTextTags": "@vS20/03/440300185.",
 		"TextJPN": "「たまたまだって、それは。@k@vS20/03/440300186.ちょっとしたタイミング違いだよ」",
 		"NamesENG": "Mion",
-		"TextENG": ""
+		"TextENG": "``Oh, it was just a coincidence.@k@vS20/03/440300186. Bad timing, that's all.``"
 	},
 	{
 		"type": "MSGSET",
@@ -390,7 +390,7 @@
 		"PreTextTags": "@vS20/01/440100185.",
 		"TextJPN": "「…………」",
 		"NamesENG": "Keiichi",
-		"TextENG": ""
+		"TextENG": "``......``"
 	},
 	{
 		"type": "MSGSET",
@@ -399,7 +399,7 @@
 		"PreTextTags": "@vS20/03/440300187.",
 		"TextJPN": "「…………そう、たまたま。@k@vS20/03/440300188.それ以外に、何もないから。――ね？」",
 		"NamesENG": "Mion",
-		"TextENG": ""
+		"TextENG": "``...Yeah. Bad timing.@k@vS20/03/440300188. Nothing other than that. ―Got it?``"
 	},
 	{
 		"type": "MSGSET",
@@ -408,7 +408,7 @@
 		"PreTextTags": "@vS20/01/440100186.",
 		"TextJPN": "「あ、ああ……」",
 		"NamesENG": "Keiichi",
-		"TextENG": ""
+		"TextENG": "``Ah, ahaha...``"
 	},
 	{
 		"type": "MSGSET",
@@ -417,7 +417,7 @@
 		"PreTextTags": "@vS20/03/440300189.",
 		"TextJPN": "「だからこの話は、これで終わり。@k@vS20/03/440300190.――いいね？」",
 		"NamesENG": "Mion",
-		"TextENG": ""
+		"TextENG": "``That's why this conversation is over now.@k@vS20/03/440300190. ―Are you happy?``"
 	},
 	{
 		"type": "MSGSET",
@@ -426,30 +426,30 @@
 		"PreTextTags": "@vS20/01/440100187.",
 		"TextJPN": "「――――」",
 		"NamesENG": "Keiichi",
-		"TextENG": ""
+		"TextENG": "``――``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16435,
 		"TextJPN": "笑顔なのに、目は少しも笑っていない。",
-		"TextENG": ""
+		"TextENG": "``Her mouth was smiling, but her eyes told a different story.``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16436,
 		"TextJPN": "優しげな響きなのに、その一つ一つが針のように、俺の全身に突き刺さる。",
-		"TextENG": ""
+		"TextENG": "She sounded cheerful, but it felt like one needle after another piercing every part of my body."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16437,
 		"TextJPN": "そして、魅音は。",
-		"TextENG": ""
+		"TextENG": "And then..."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16438,
 		"TextJPN": "最後は俺の返事を待つことなく、教室へと戻っていった。",
-		"TextENG": ""
+		"TextENG": "Without even waiting for a reply in the end, she went back into the classroom."
 	}
 ]

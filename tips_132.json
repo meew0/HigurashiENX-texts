@@ -3,30 +3,30 @@
 		"type": "SAVEINFO",
 		"category": 1,
 		"JPN": "後悔の日記",
-		"ENG": "後悔の日記"
+		"ENG": "Diary of my Regrets"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16183,
 		"TextJPN": "（前２ページほどが破り捨てられている）",
-		"TextENG": ""
+		"TextENG": "(The previous 2 or so pages have been ripped out)"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16184,
 		"TextJPN": "……うん、大丈夫。",
-		"TextENG": ""
+		"TextENG": "...It's alright."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16185,
 		"TextJPN": "明日は、笑顔ではじめよう。",
-		"TextENG": ""
+		"TextENG": "Let's start tomorrow with a smile."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16186,
 		"TextJPN": "私は私らしく、今までどおりでいいんだから。",
-		"TextENG": ""
+		"TextENG": "I can just do things like I always do."
 	}
 ]

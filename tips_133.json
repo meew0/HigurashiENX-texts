@@ -3,60 +3,60 @@
 		"type": "SAVEINFO",
 		"category": 1,
 		"JPN": "素直になれなくて",
-		"ENG": "素直になれなくて"
+		"ENG": "Can't Be Honest With Myself"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16187,
 		"TextJPN": "……嬉しかった。",
-		"TextENG": ""
+		"TextENG": "...It made me happy."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16188,
 		"TextJPN": "とっても、嬉しかった。",
-		"TextENG": ""
+		"TextENG": "It made me really happy."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16189,
 		"TextJPN": "なのに、……素直になれない自分に、あとから自己嫌悪になった。",
-		"TextENG": ""
+		"TextENG": "But still... I couldn't be honest with myself, so I started hating myself again afterwards."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16190,
 		"TextJPN": "……怒ってないかな。やっぱり、明日は謝ったほうがいいんだろうか。",
-		"TextENG": ""
+		"TextENG": "...I wonder if he's angry. Maybe I should apologize to him tomorrow."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16191,
 		"TextJPN": "でも、もし怒っていなかったら、……変に思われるだけかも。",
-		"TextENG": ""
+		"TextENG": "But, if he's not angry at all... he'll think I'm weird for apologizing."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16192,
 		"TextJPN": "……普通で、いいかな。",
-		"TextENG": ""
+		"TextENG": "...I should just act normally."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16193,
 		"TextJPN": "それにしても、こんなことをくよくよ考えるなんて、……いつもの私らしくない。",
-		"TextENG": ""
+		"TextENG": "Besides, it's not like me at all to worry about something like this."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16194,
 		"TextJPN": "最近、なんだか変な気持ちだ。",
-		"TextENG": ""
+		"TextENG": "I've been feeling kind of strange recently."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16195,
 		"TextJPN": "これって、……どうしてなのかな……？",
-		"TextENG": ""
+		"TextENG": "I wonder why...?"
 	}
 ]

@@ -264,18 +264,18 @@
 		"type": "MSGSET",
 		"MessageID": 15557,
 		"TextJPN": "………………。",
-		"TextENG": ""
+		"TextENG": "......"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 15558,
 		"TextJPN": "まだ、わかってない。",
-		"TextENG": ""
+		"TextENG": "She still doesn't understand."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 15559,
 		"TextJPN": "この子はまだ、……『わかって』くれていない……。",
-		"TextENG": ""
+		"TextENG": "This girl still doesn't <i>understand</i>..."
 	}
 ]

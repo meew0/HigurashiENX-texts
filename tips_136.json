@@ -3,7 +3,7 @@
 		"type": "SAVEINFO",
 		"category": 1,
 		"JPN": "雨どいは…",
-		"ENG": "雨どいは…"
+		"ENG": "The Drain Pipe..."
 	},
 	{
 		"type": "MSGSET",
@@ -11,8 +11,8 @@
 		"NamesJPN": "生徒",
 		"PreTextTags": "@vS20/00/stuA44001.",
 		"TextJPN": "「知恵先生、さよ～なら～」",
-		"NamesENG": "生徒",
-		"TextENG": ""
+		"NamesENG": "Student",
+		"TextENG": "``Chie-sensei, goodbye~``"
 	},
 	{
 		"type": "MSGSET",
@@ -21,13 +21,13 @@
 		"PreTextTags": "@vS20/22/441400014.",
 		"TextJPN": "「はい、さようなら。気をつけてね」",
 		"NamesENG": "Chie",
-		"TextENG": ""
+		"TextENG": "``Yes, goodbye, please be careful!``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16247,
 		"TextJPN": "授業も終わり、元気よく下級生たちは校庭を突っ切って駆け出してゆく。それを見送りながら、知恵先生は雨どいの出口のそばにしゃがみこんだ。",
-		"TextENG": ""
+		"TextENG": "Class was over, and the lower-grade students started running all over the schoolyard. While seeing them off, Chie-sensei squatted down next to the outlet of the rain gutter drain pipe."
 	},
 	{
 		"type": "MSGSET",
@@ -36,13 +36,13 @@
 		"PreTextTags": "@vS20/22/441400015.",
 		"TextJPN": "「うわぁ、これは思った以上かもねぇ……」",
 		"NamesENG": "Chie",
-		"TextENG": ""
+		"TextENG": "``Yikes, this is worse than I expected...``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16249,
 		"TextJPN": "中を覗きこんで、顔をしかめながら知恵先生はぼやき気味にため息をつく。手には柄つきの亀の子ダワシと、試験管を洗うようなブラシを持っていた。",
-		"TextENG": ""
+		"TextENG": "After looking inside, she frowned and sighed in a grumbling manner. She was holding a suitable-looking scrubbing brush shaped like a tortoise shell, as well as another brush looking like one used to clean a test tube."
 	},
 	{
 		"type": "MSGSET",
@@ -51,7 +51,7 @@
 		"PreTextTags": "@vS20/03/440300143.",
 		"TextJPN": "「……あれ先生、雨どいの掃除ですか？」",
 		"NamesENG": "Mion",
-		"TextENG": ""
+		"TextENG": "``...Hey, sensei, are you cleaning the drain pipe?``"
 	},
 	{
 		"type": "MSGSET",
@@ -60,7 +60,7 @@
 		"PreTextTags": "@vS20/22/441400016.",
 		"TextJPN": "「ええ。今朝の天気予報で、近いうちに大雨が来るって言ってましたから。今のうちに掃除しておこうって思ったんですけど、@k@vS20/22/441400017.……大分放置されてたみたいで、中がすごいことになってますねぇ～」",
 		"NamesENG": "Chie",
-		"TextENG": ""
+		"TextENG": "``Yes. The weather forecast this morning said that large amounts of rainfall are expected soon. I thought I might as well clean it now,@k@vS20/22/441400017. ...but it looks like it has been left alone for quite a while, and the inside is looking pretty bad.``"
 	},
 	{
 		"type": "MSGSET",
@@ -69,7 +69,7 @@
 		"PreTextTags": "@vS20/03/440300144.",
 		"TextJPN": "「どれどれ」",
 		"NamesENG": "Mion",
-		"TextENG": ""
+		"TextENG": "``Let me see!``"
 	},
 	{
 		"type": "MSGSET",
@@ -78,7 +78,7 @@
 		"PreTextTags": "@vS20/03/440300145.",
 		"TextJPN": "「……わっ、こりゃひどい。豪雨なんて降ったら、あっという間にあふれちゃいますよ」",
 		"NamesENG": "Mion",
-		"TextENG": ""
+		"TextENG": "``...Wow, that's terrible. If it's going to pour down in this state, the gutter will overflow immediately.``"
 	},
 	{
 		"type": "MSGSET",
@@ -87,7 +87,7 @@
 		"PreTextTags": "@vS20/22/441400018.",
 		"TextJPN": "「山間部だから、塵芥も屋根に積もりやすいですしね。一度業者さんに来てもらったほうがいいかしら」",
 		"NamesENG": "Chie",
-		"TextENG": ""
+		"TextENG": "``Given how mountainous this area is, there's going to be a lot of trash accumulating on the roof. Maybe it would be better to have someone come and deal with it for once.``"
 	},
 	{
 		"type": "MSGSET",
@@ -96,7 +96,7 @@
 		"PreTextTags": "@vS20/03/440300146.",
 		"TextJPN": "「あぁ、これくらいなら私たちで何とかしますよ。何人か連れてきて、屋根の上に登って……」",
 		"NamesENG": "Mion",
-		"TextENG": ""
+		"TextENG": "``Nah, we can deal with this ourselves. I'll get a few others and we'll climb onto the roof...``"
 	},
 	{
 		"type": "MSGSET",
@@ -105,7 +105,7 @@
 		"PreTextTags": "@vS20/22/441400019.",
 		"TextJPN": "「いけません。いくら高層建てでないとはいえ、万一落ちたら怪我をしますよ」",
 		"NamesENG": "Chie",
-		"TextENG": ""
+		"TextENG": "``No, you will not. This building may not be a skyscraper, but you will still get injured if you end up falling.``"
 	},
 	{
 		"type": "MSGSET",
@@ -114,13 +114,13 @@
 		"PreTextTags": "@vS20/03/440300147.",
 		"TextJPN": "「あっははは、そんなどじっ子さんには最初から頼みませんって！」",
 		"NamesENG": "Mion",
-		"TextENG": ""
+		"TextENG": "``Ahahaha, I wouldn't ask anyone that clumsy for help in the first place!``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16258,
 		"TextJPN": "そう言って、からからと笑う魅音。……まぁ確かに、この学校に関しては古参とも呼んでいい立場だから、手順も心得ているだろう。",
-		"TextENG": ""
+		"TextENG": "Saying that, Mion laughed loudly. ...Well, it's true that as a veteran of this school, she should be aware of the correct procedures."
 	},
 	{
 		"type": "MSGSET",
@@ -129,7 +129,7 @@
 		"PreTextTags": "@vS20/03/440300148.",
 		"TextJPN": "「それに業者さんを呼ぶなら、むしろ雨どいの出口を増やしてほしいですね。ここが詰まっただけで、全部の雨どいが役立たずになるんだから」",
 		"NamesENG": "Mion",
-		"TextENG": ""
+		"TextENG": "``By the way, if we're going to have someone come out, maybe we should have them put in some more drain pipes. If this outlet gets clogged, the entire gutter becomes useless.``"
 	},
 	{
 		"type": "MSGSET",
@@ -138,7 +138,7 @@
 		"PreTextTags": "@vS20/22/441400020.",
 		"TextJPN": "「そうですねぇ……」",
 		"NamesENG": "Chie",
-		"TextENG": ""
+		"TextENG": "``That's true...``"
 	},
 	{
 		"type": "MSGSET",
@@ -147,7 +147,7 @@
 		"PreTextTags": "@vS20/03/440300149.",
 		"TextJPN": "「それに、校舎全体にまんべんなく設置されてるのはいいけど、いくらなんでもこの管ひとつじゃ無理ですよ。この前の集中豪雨のときなんか、流しきれなくて窓際が水びたしになってましたしね」",
 		"NamesENG": "Mion",
-		"TextENG": ""
+		"TextENG": "``Having them be evenly distributed along the building is one thing, but no matter how you put it, one pipe is just not enough. The last time it rained heavily, it couldn't hold back the rain and the areas next to the windows ended up being flooded.``"
 	},
 	{
 		"type": "MSGSET",
@@ -156,7 +156,7 @@
 		"PreTextTags": "@vS20/22/441400021.",
 		"TextJPN": "「……確かに、このひとつで校舎屋根の雨水を流すのは、構造上で問題がありますね。わかりました、一度校長先生に掛け合ってみます」",
 		"NamesENG": "Chie",
-		"TextENG": ""
+		"TextENG": "``...Certainly, having all the rain from the roof flow through this one pipe is a structural problem. Alright, I'll talk this over with the principal when I get the chance.``"
 	},
 	{
 		"type": "MSGSET",
@@ -165,7 +165,7 @@
 		"PreTextTags": "@vS20/03/440300150.",
 		"TextJPN": "「でも、きっと予算出ないだろうなぁ。……あ、もし良かったら町会に寄贈させましょうか？　すぐにやってくれますよ、きっと」",
 		"NamesENG": "Mion",
-		"TextENG": ""
+		"TextENG": "``But surely this is not going to be part of the budget. ...Hey, if it's fine for you, we can have the town council make a donation for this? I'm sure they'll get to it right away.``"
 	},
 	{
 		"type": "MSGSET",
@@ -174,7 +174,7 @@
 		"PreTextTags": "@vS20/22/441400022.",
 		"TextJPN": "「ふふふっ。雨どいの寄贈なんて、聞いたこともありませんよ。せっかくですけど、学校の問題は学校内で解決しないと、ね」",
 		"NamesENG": "Chie",
-		"TextENG": ""
+		"TextENG": "``Hehehe. A gutter pipe donated to a school, I've never heard of that one. Thank you for the offer, but the school should be able to solve its own problems by itself.``"
 	},
 	{
 		"type": "MSGSET",
@@ -183,7 +183,7 @@
 		"PreTextTags": "@vS20/03/440300151.",
 		"TextJPN": "「あっはっはっは、先生はホント真面目だなぁ～！　……それじゃ、雨どいの掃除はいつにします？@k@vS20/03/440300152.　明日、それとも明後日？」",
 		"NamesENG": "Mion",
-		"TextENG": ""
+		"TextENG": "``Ahahaha, you're so earnest, sensei~! ...Well then, when are we going to clean the drain pipe?@k@vS20/03/440300152. Tomorrow, or the day after?``"
 	},
 	{
 		"type": "MSGSET",
@@ -192,7 +192,7 @@
 		"PreTextTags": "@vS20/22/441400023.",
 		"TextJPN": "「そうですね。明日、ホームルームで話し合いましょう。@k@vS20/22/441400024.よろしくお願いしますね、委員長」",
 		"NamesENG": "Chie",
-		"TextENG": ""
+		"TextENG": "``Right. Let's discuss this during homeroom tomorrow.@k@vS20/22/441400024. I appreciate your help, class representative.``"
 	},
 	{
 		"type": "MSGSET",
@@ -201,6 +201,6 @@
 		"PreTextTags": "@vS20/03/440300153.",
 		"TextJPN": "「了解しました～♪」",
 		"NamesENG": "Mion",
-		"TextENG": ""
+		"TextENG": "``Got it~♪``"
 	}
 ]

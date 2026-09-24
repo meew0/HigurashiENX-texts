@@ -3,7 +3,7 @@
 		"type": "SAVEINFO",
 		"category": 1,
 		"JPN": "可愛い子だったね",
-		"ENG": "可愛い子だったね"
+		"ENG": "She Was A Cute Girl"
 	},
 	{
 		"type": "MSGSET",
@@ -12,7 +12,7 @@
 		"PreTextTags": "@vS20/01/VTT_keiichi3001.",
 		"TextJPN": "「そういや魅音。@k@vS20/01/VTT_keiichi3002.さっきの夏美ちゃんと親しそうだったけど、仲良かったのか？」",
 		"NamesENG": "Keiichi",
-		"TextENG": ""
+		"TextENG": "``Oh, by the way, Mion.@k@vS20/01/VTT_keiichi3002. You seemed pretty friendly with that Natsumi-chan earlier, are the two of you close?``"
 	},
 	{
 		"type": "MSGSET",
@@ -21,7 +21,7 @@
 		"PreTextTags": "@vS20/03/VTT_mion3001.",
 		"TextJPN": "「ん？　まぁね。@k@vS20/03/VTT_mion3002.結構人見知りする子だったから、こっちから誘わないとなかなか輪に入ってこなくって。@k@vS20/03/VTT_mion3003.それで構っているうちに、自然にね」",
 		"NamesENG": "Mion",
-		"TextENG": ""
+		"TextENG": "``Huh? Well, kind of.@k@vS20/03/VTT_mion3002. She's pretty shy when it comes to strangers, so if I don't end up inviting her, she's not going to fit in anywhere.@k@vS20/03/VTT_mion3003. I think it's natural to be concerned about her like that.``"
 	},
 	{
 		"type": "MSGSET",
@@ -30,7 +30,7 @@
 		"PreTextTags": "@vS20/02/VTT_rena3001.",
 		"TextJPN": "「かぁいい女の子だったよねぇ？@k@vS20/02/VTT_rena3002.　並んでると魅ぃちゃん、夏美ちゃんのお姉さんみたいだったよ」",
 		"NamesENG": "Rena",
-		"TextENG": ""
+		"TextENG": "``She was so kyute, right?@k@vS20/02/VTT_rena3002. Looking at the two of you side by side, you looked like you're her big sis, Mii-chan!``"
 	},
 	{
 		"type": "MSGSET",
@@ -39,7 +39,7 @@
 		"PreTextTags": "@vS20/03/VTT_mion3004.",
 		"TextJPN": "「あっはっはっはっ！@k@vS20/03/VTT_mion3005.　…ちなみに言っとくけどレナ、夏美ちゃんは年上だよ？@k@vS20/03/VTT_mion3006.　実は私よりも」",
 		"NamesENG": "Mion",
-		"TextENG": ""
+		"TextENG": "``Ahahaha!@k@vS20/03/VTT_mion3005. ...By the way, Rena, Natsumi-chan is the old one, you know?@k@vS20/03/VTT_mion3006. She's even older than me.``"
 	},
 	{
 		"type": "MSGSET",
@@ -48,19 +48,19 @@
 		"PreTextTags": "@vS20/02/VTT_rena3003.",
 		"TextJPN": "「そうなの？@k@vS20/02/VTT_rena3004.　でも子猫さんみたいにかぁいかったよ～、はぅ♪」",
 		"NamesENG": "Rena",
-		"TextENG": ""
+		"TextENG": "``Oh, really?@k@vS20/02/VTT_rena3004. But she was so kyute, like a kitten~ hau♪``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 17124,
 		"TextJPN": "…早めにこの場を離れて正解だったな、夏美ちゃん。",
-		"TextENG": ""
+		"TextENG": "...You were right to leave ahead of us, Natsumi-chan."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 17125,
 		"TextJPN": "もう少し話し込んでいたら、レナに捕食されてお持ち帰りされているところだ。",
-		"TextENG": ""
+		"TextENG": "If we had talked for a little longer, you would have become Rena's prey, and she would have taken you home with her."
 	},
 	{
 		"type": "MSGSET",
@@ -69,7 +69,7 @@
 		"PreTextTags": "@vS20/03/VTT_mion3007.",
 		"TextJPN": "「でも、女の子って変わるもんだね～。@k@vS20/03/VTT_mion3008.知り合った頃は言っちゃぁ悪いけど、陰気なイメージだったからさ。@k@vS20/03/VTT_mion3009.気難しい上につかみどころがなくって、…なんか付き合いづらい雰囲気だったんだ」",
 		"NamesENG": "Mion",
-		"TextENG": ""
+		"TextENG": "``But honestly, girls can change so much~.@k@vS20/03/VTT_mion3008. I feel a bit bad for saying this, but when I first met her, she gave off kind of a gloomy vibe.@k@vS20/03/VTT_mion3009. She seemed a bit fussy and hard to get a hold of, and I got the feeling that it would be hard to hang out with her.``"
 	},
 	{
 		"type": "MSGSET",
@@ -78,7 +78,7 @@
 		"PreTextTags": "@vS20/01/VTT_keiichi3003.",
 		"TextJPN": "「へぇ…？@k@vS20/01/VTT_keiichi3004.　なんか、想像がつかないよな」",
 		"NamesENG": "Keiichi",
-		"TextENG": ""
+		"TextENG": "``Oh...?@k@vS20/01/VTT_keiichi3004. That feels hard to imagine for me.``"
 	},
 	{
 		"type": "MSGSET",
@@ -87,13 +87,13 @@
 		"PreTextTags": "@vS20/03/VTT_mion3010.",
 		"TextJPN": "「でも、中学を卒業してからは、すっごく明るくなってね。今みたいに。@k@vS20/03/VTT_mion3011.それを見て、ああ、成長するってこういうことなんだなぁ～、なんて、おじさんは思ったもんだよ」",
 		"NamesENG": "Mion",
-		"TextENG": ""
+		"TextENG": "``But after she graduated middle school, she became waaay more cheerful. Like she is now.@k@vS20/03/VTT_mion3011. When seeing that, this old guy was like, wow, this is what happens when people grow up, huh?``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 17129,
 		"TextJPN": "魅音はそう言って、しみじみと懐かしそうに遠い目をする。…ていうか魅音、そういうしぐさは『お姉さん』と言うよりも、むしろ『おばさん』と呼ぶ以上に年寄りじみて見えるんだが。",
-		"TextENG": ""
+		"TextENG": "While Mion was saying that, she was looking in the distance with a kind of nostalgic expression. ...Hey, Mion. That look you just gave makes you seem way older than calling yourself ``this old guy`` ever would. Not even ``this grandma`` would reach that level."
 	},
 	{
 		"type": "MSGSET",
@@ -102,7 +102,7 @@
 		"PreTextTags": "@vS20/02/VTT_rena3005.",
 		"TextJPN": "「ということは、…魅ぃちゃんもいずれ変わっちゃうってことだよね？@k@vS20/02/VTT_rena3006.　魅ぃちゃんが成長したらどうなるのかな？　かな？」",
 		"NamesENG": "Rena",
-		"TextENG": ""
+		"TextENG": "``Speaking of that, ...Mii-chan, maybe you'll change like that one day as well?@k@vS20/02/VTT_rena3006. I wonder what you'll be like after growing up? Growing up?``"
 	},
 	{
 		"type": "MSGSET",
@@ -111,7 +111,7 @@
 		"PreTextTags": "@vS20/03/VTT_mion3012.",
 		"TextJPN": "「あっはっはっはっ、決まってるじゃ～ん！@k@vS20/03/VTT_mion3013.　気品と知性にあふれた、男子学生からの羨望を一身に集めるアイドルか、マドンナって感じになっちゃうんだろうね～？」",
 		"NamesENG": "Mion",
-		"TextENG": ""
+		"TextENG": "``Ahahaha, that's obvious~!@k@vS20/03/VTT_mion3013. I'll become a woman like a madonna, an idol who draws the envious gazes of male students everywhere, full of class and intellect~``"
 	},
 	{
 		"type": "MSGSET",
@@ -120,7 +120,7 @@
 		"PreTextTags": "@vS20/01/VTT_keiichi3005.",
 		"TextJPN": "「……下品と痴性？」",
 		"NamesENG": "Keiichi",
-		"TextENG": ""
+		"TextENG": "``...Crass and indecent?``"
 	},
 	{
 		"type": "MSGSET",
@@ -129,7 +129,7 @@
 		"PreTextTags": "@vS20/03/VTT_mion3014.",
 		"TextJPN": "「圭ちゃん、…私になんか恨みでも？」",
 		"NamesENG": "Mion",
-		"TextENG": ""
+		"TextENG": "``Kei-chan, you got a grudge against me or what?``"
 	},
 	{
 		"type": "MSGSET",
@@ -138,7 +138,7 @@
 		"PreTextTags": "@vS20/01/VTT_keiichi3006.",
 		"TextJPN": "「い、いや、そんなことは…」",
 		"NamesENG": "Keiichi",
-		"TextENG": ""
+		"TextENG": "``Uh, no, that's...``"
 	},
 	{
 		"type": "MSGSET",
@@ -147,7 +147,7 @@
 		"PreTextTags": "@vS20/02/VTT_rena3007.",
 		"TextJPN": "「はぅ…、でもそんな魅ぃちゃん、レナも想像できないよ～」",
 		"NamesENG": "Rena",
-		"TextENG": ""
+		"TextENG": "``Hau... But I can't really imagine that kind of Mii-chan either~``"
 	},
 	{
 		"type": "MSGSET",
@@ -156,31 +156,31 @@
 		"PreTextTags": "@vS20/03/VTT_mion3015.",
 		"TextJPN": "「ちょっとぉ、レナまでそんなこと言うのぉ～？！」",
 		"NamesENG": "Mion",
-		"TextENG": ""
+		"TextENG": "``Heeey, Rena, why do you have to say that as well?!``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 17137,
 		"TextJPN": "確かに、…魅音はいつまでもこんな感じで、男勝りにぐいぐいとみんなを引っ張っていく姿が一番似合っているような気がする。",
-		"TextENG": ""
+		"TextENG": "Certainly, it feels like Mion's usual assertive and strong-minded personality, that pulls everybody along with her, would always fit her the best."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 17138,
 		"TextJPN": "清楚可憐な、お嬢様のように可愛らしい魅音も見てみたいけど、…俺としては仲間として思いっきり笑ったり、盛大にふざけあえるこの関係が結構、気に入っていた。",
-		"TextENG": ""
+		"TextENG": "I'd be curious to see what a prim and proper Mion would be like, a Mion like a cute princess, but... when it comes to being my friend, I enjoy how we can always laugh as much as we want, and joke around with each other."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 17139,
 		"TextJPN": "……あれ？",
-		"TextENG": ""
+		"TextENG": "``...Huh?``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 17140,
 		"TextJPN": "そういえば魅音のことばっかり話しているけど、レナこそどうなんだろう？　成長したら、やっぱり今とは変わってしまうんだろうか。",
-		"TextENG": ""
+		"TextENG": "We've only been talking about Mion, but how about you, Rena? When you grows up, will you be any different from how you are now?"
 	},
 	{
 		"type": "MSGSET",
@@ -189,7 +189,7 @@
 		"PreTextTags": "@vS20/02/VTT_rena3008.",
 		"TextJPN": "「え、…レナ？@k@vS20/02/VTT_rena3009.　レナはレナのまんまだよ。@k@vS20/02/VTT_rena3010.今もこれからも、ずーっと同じ。@k@vS20/02/VTT_rena3011.はぅ♪」",
 		"NamesENG": "Rena",
-		"TextENG": ""
+		"TextENG": "``Uh... me?@k@vS20/02/VTT_rena3009. I will always just be Rena, you know.@k@vS20/02/VTT_rena3010. I'll always be the same, now and in the future.@k@vS20/02/VTT_rena3011. Hau♪``"
 	},
 	{
 		"type": "MSGSET",
@@ -198,7 +198,7 @@
 		"PreTextTags": "@vS20/01/VTT_keiichi3007.",
 		"TextJPN": "「…ということは、今と同じかぁいいもの好きで、見境なくお持ち帰りする女性、おばさん、おばあさんって感じになるのか」",
 		"NamesENG": "Keiichi",
-		"TextENG": ""
+		"TextENG": "``...That means you'll eventually be a woman, then a lady, then a grandma who loves kyute things like you do now and takes them home with her indiscriminately?``"
 	},
 	{
 		"type": "MSGSET",
@@ -207,7 +207,7 @@
 		"PreTextTags": "@vS20/03/VTT_mion3016.",
 		"TextJPN": "「なんか嫌だね、それ。@k@vS20/03/VTT_mion3017.…一歩間違えたら、窃盗犯か誘拐犯だよ」",
 		"NamesENG": "Mion",
-		"TextENG": ""
+		"TextENG": "``That sounds kinda bad.@k@vS20/03/VTT_mion3017. ...If you mess up, you could end up as a thief or a kidnapper.``"
 	},
 	{
 		"type": "MSGSET",
@@ -216,7 +216,7 @@
 		"PreTextTags": "@vS20/02/VTT_rena3012.",
 		"TextJPN": "「そ、そんなことないよ～？@k@vS20/02/VTT_rena3013.　大人になったら、ちゃんと最低限の常識を守って行動するようになるから！@k@vS20/02/VTT_rena3014.　…きっと」",
 		"NamesENG": "Rena",
-		"TextENG": ""
+		"TextENG": "``Th- that's not going to happen~!@k@vS20/02/VTT_rena3013. Once I'm an adult, I'll definitely start behaving more normally!@k@vS20/02/VTT_rena3014. ...For sure!``"
 	},
 	{
 		"type": "MSGSET",
@@ -225,7 +225,7 @@
 		"PreTextTags": "@vS20/01/VTT_keiichi3008.",
 		"TextJPN": "「いや、それはもちろんそうかもしれないが。@k@vS20/01/VTT_keiichi3009.…むしろレナ。@k@vS20/01/VTT_keiichi3010.今の発言は自分の行動が『非常識』だと、まるで肯定しているようにも聞こえるぞ？」",
 		"NamesENG": "Keiichi",
-		"TextENG": ""
+		"TextENG": "``Well, yeah, that might be the case, of course.@k@vS20/01/VTT_keiichi3009. ...But, Rena.@k@vS20/01/VTT_keiichi3010. From what you're saying, what I'm getting is that you're admitting that your actions right now are actually abnormal, right?``"
 	},
 	{
 		"type": "MSGSET",
@@ -234,24 +234,24 @@
 		"PreTextTags": "@vS20/02/VTT_rena3015.",
 		"TextJPN": "「はぅっっ？！」",
 		"NamesENG": "Rena",
-		"TextENG": ""
+		"TextENG": "``Hauuu?!``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 17147,
 		"TextJPN": "…墓穴を掘ったな、レナ。",
-		"TextENG": ""
+		"TextENG": "...You've dug your own grave, Rena."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 17148,
 		"TextJPN": "それにしても、…レナと魅音の成長した姿か。実際にそれを見たとき、俺はどんなリアクションをするんだろうか？",
-		"TextENG": ""
+		"TextENG": "In any case, ...what is my reaction going to be when I actually find out what Rena and Mion are going to be like as grown-ups?"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 17149,
 		"TextJPN": "それはそれで、今から楽しみだ。",
-		"TextENG": ""
+		"TextENG": "I'm definitely looking forward to that."
 	}
 ]

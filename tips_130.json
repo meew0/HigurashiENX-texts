@@ -90,7 +90,7 @@
 		"type": "MSGSET",
 		"MessageID": 16152,
 		"TextJPN": "ポツリと呟くその口調に、どことなく固い響きを感じる。そういえば、レナの両親って共働きなんだろうか。それに、二人とも家にいないってのは――。",
-		"TextENG": "Her muttered reply felt somehow stiff to me. Now that I think of it, are both of her parents working? Given that neither of them are at home―"
+		"TextENG": "Her muttered reply felt somehow stiff to me. Now that I think of it, are both of her parents at work? Given that neither of them are at home―"
 	},
 	{
 		"type": "MSGSET",
@@ -126,7 +126,7 @@
 		"PreTextTags": "@vS20/02/440200091.",
 		"TextJPN": "「うん。ちょっと昨日買い物しすぎちゃったから、一人じゃ食べきれないかもなの。レナ、ご馳走作っちゃうから。ね？」",
 		"NamesENG": "Rena",
-		"TextENG": "``Sure. I went a little overboard at the store yesterday, and I don't think I can eat it all myself. I'll treat you to a meal. What do you think?``"
+		"TextENG": "``Sure. I went a little overboard at the store yesterday, and I don't think I can eat it all myself. I'll make something for you as well. What do you think?``"
 	},
 	{
 		"type": "MSGSET",

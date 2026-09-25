@@ -21,7 +21,7 @@
 		"PreTextTags": "@vS20/03/VTT_mion3001.",
 		"TextJPN": "「ん？　まぁね。@k@vS20/03/VTT_mion3002.結構人見知りする子だったから、こっちから誘わないとなかなか輪に入ってこなくって。@k@vS20/03/VTT_mion3003.それで構っているうちに、自然にね」",
 		"NamesENG": "Mion",
-		"TextENG": "``Huh? Well, kind of.@k@vS20/03/VTT_mion3002. She's pretty shy when it comes to strangers, so if I don't end up inviting her, she's not going to fit in anywhere.@k@vS20/03/VTT_mion3003. I think it's natural to be concerned about her like that.``"
+		"TextENG": "``Huh? Well, kind of.@k@vS20/03/VTT_mion3002. She's pretty shy when it comes to strangers, so if I don't end up taking her along, she's not going to fit in anywhere.@k@vS20/03/VTT_mion3003. That's what I was concerned about, and it all happened pretty naturally from that.``"
 	},
 	{
 		"type": "MSGSET",
@@ -39,7 +39,7 @@
 		"PreTextTags": "@vS20/03/VTT_mion3004.",
 		"TextJPN": "「あっはっはっはっ！@k@vS20/03/VTT_mion3005.　…ちなみに言っとくけどレナ、夏美ちゃんは年上だよ？@k@vS20/03/VTT_mion3006.　実は私よりも」",
 		"NamesENG": "Mion",
-		"TextENG": "``Ahahaha!@k@vS20/03/VTT_mion3005. ...By the way, Rena, Natsumi-chan is the old one, you know?@k@vS20/03/VTT_mion3006. She's even older than me.``"
+		"TextENG": "``Ahahaha!@k@vS20/03/VTT_mion3005. ...By the way, Rena, Natsumi-chan is older than you, you know?@k@vS20/03/VTT_mion3006. Actually, she's even older than me.``"
 	},
 	{
 		"type": "MSGSET",
@@ -54,7 +54,7 @@
 		"type": "MSGSET",
 		"MessageID": 17124,
 		"TextJPN": "…早めにこの場を離れて正解だったな、夏美ちゃん。",
-		"TextENG": "...You were right to leave ahead of us, Natsumi-chan."
+		"TextENG": "...You were right to leave before us, Natsumi-chan."
 	},
 	{
 		"type": "MSGSET",
@@ -69,7 +69,7 @@
 		"PreTextTags": "@vS20/03/VTT_mion3007.",
 		"TextJPN": "「でも、女の子って変わるもんだね～。@k@vS20/03/VTT_mion3008.知り合った頃は言っちゃぁ悪いけど、陰気なイメージだったからさ。@k@vS20/03/VTT_mion3009.気難しい上につかみどころがなくって、…なんか付き合いづらい雰囲気だったんだ」",
 		"NamesENG": "Mion",
-		"TextENG": "``But honestly, girls can change so much~.@k@vS20/03/VTT_mion3008. I feel a bit bad for saying this, but when I first met her, she gave off kind of a gloomy vibe.@k@vS20/03/VTT_mion3009. She seemed a bit fussy and hard to get a hold of, and I got the feeling that it would be hard to hang out with her.``"
+		"TextENG": "``But honestly, girls can change so much~.@k@vS20/03/VTT_mion3008. I feel a bit bad for saying this, but when I first met her, she gave off kind of a gloomy vibe.@k@vS20/03/VTT_mion3009. She seemed a bit fussy and hard to figure out, and I got the feeling that it wouldn't be that easy to hang out with her.``"
 	},
 	{
 		"type": "MSGSET",
@@ -168,7 +168,7 @@
 		"type": "MSGSET",
 		"MessageID": 17138,
 		"TextJPN": "清楚可憐な、お嬢様のように可愛らしい魅音も見てみたいけど、…俺としては仲間として思いっきり笑ったり、盛大にふざけあえるこの関係が結構、気に入っていた。",
-		"TextENG": "I'd be curious to see what a prim and proper Mion would be like, a Mion like a cute princess, but... when it comes to being my friend, I enjoy how we can always laugh as much as we want, and joke around with each other."
+		"TextENG": "I'd be curious to see what a prim and proper Mion would be like, a Mion like a cute princess, but... when it comes to her being my friend, I like how we can always laugh as much as we like, and joke around with each other."
 	},
 	{
 		"type": "MSGSET",
@@ -180,7 +180,7 @@
 		"type": "MSGSET",
 		"MessageID": 17140,
 		"TextJPN": "そういえば魅音のことばっかり話しているけど、レナこそどうなんだろう？　成長したら、やっぱり今とは変わってしまうんだろうか。",
-		"TextENG": "We've only been talking about Mion, but how about you, Rena? When you grows up, will you be any different from how you are now?"
+		"TextENG": "We've only been talking about Mion, but how about you, Rena? When you grow up, are you going to be any different from how you are now?"
 	},
 	{
 		"type": "MSGSET",
@@ -207,7 +207,7 @@
 		"PreTextTags": "@vS20/03/VTT_mion3016.",
 		"TextJPN": "「なんか嫌だね、それ。@k@vS20/03/VTT_mion3017.…一歩間違えたら、窃盗犯か誘拐犯だよ」",
 		"NamesENG": "Mion",
-		"TextENG": "``That sounds kinda bad.@k@vS20/03/VTT_mion3017. ...If you mess up, you could end up as a thief or a kidnapper.``"
+		"TextENG": "``That sounds kinda bad.@k@vS20/03/VTT_mion3017. ...If you take a step in the wrong direction, you could end up as a thief or a kidnapper.``"
 	},
 	{
 		"type": "MSGSET",

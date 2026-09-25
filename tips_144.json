@@ -66,7 +66,7 @@
 		"PreTextTags": "@vS20/03/440300214.",
 		"TextJPN": "……あのさ。@k@vS20/03/440300215.これからしばらく大変かもしれないけど、元気出して、ね！",
 		"NamesENG": "Mion",
-		"TextENG": "...Hey.@k@vS20/03/440300215. It might be tough for you for a while from now on, but keep up your strength, okay?"
+		"TextENG": "...Hey.@k@vS20/03/440300215. It might get tough for you for a while from now on, but keep up your spirits, okay?"
 	},
 	{
 		"type": "MSGSET",
@@ -84,7 +84,7 @@
 		"PreTextTags": "@vS20/03/440300217.",
 		"TextJPN": "そんなことよりも、レナが元の優しいレナに戻ってくれたことが、私たちは一番嬉しいよ。@k@vS20/03/440300218.圭ちゃんも、沙都子も、梨花ちゃんも。@k@vS20/03/440300219.……もちろん、私だって。",
 		"NamesENG": "Mion",
-		"TextENG": "Rather than worrying about us, if you went back to being the usual happy Rena, that's what would make us happiest of all.@k@vS20/03/440300218. That goes for Kei-chan, for Satoko, and for Rika-chan.@k@vS20/03/440300219. ...And of course, for me as well."
+		"TextENG": "Instead of worrying about us, if you go back to just being the usual happy Rena, that's what would make us happiest of all.@k@vS20/03/440300218. That goes for Kei-chan, for Satoko, and for Rika-chan.@k@vS20/03/440300219. ...And of course, for me as well."
 	},
 	{
 		"type": "MSGSET",
@@ -111,7 +111,7 @@
 		"PreTextTags": "@vS20/03/440300224.",
 		"TextJPN": "そんな時は、私たちを、……信じて、ね？",
 		"NamesENG": "Mion",
-		"TextENG": "At those times, please... believe in us, okay?"
+		"TextENG": "When you feel like that, please... believe in us, okay?"
 	},
 	{
 		"type": "MSGSET",
@@ -120,7 +120,7 @@
 		"PreTextTags": "@vS20/03/440300225.",
 		"TextJPN": "レナのぶち当たった問題が、どんなに大変なことでも。@k@vS20/03/440300226.それがたとえ、私たちが団結しただけじゃ、どうにもならないことでも。",
 		"NamesENG": "Mion",
-		"TextENG": "No matter how enormous the problem you face might seem to you.@k@vS20/03/440300226. And even if it's something we can't do anything about on our own."
+		"TextENG": "No matter how enormous your problems might seem to you.@k@vS20/03/440300226. And even if it's something we can't do anything about on our own."
 	},
 	{
 		"type": "MSGSET",
@@ -156,7 +156,7 @@
 		"PreTextTags": "@vS20/03/440300234.",
 		"TextJPN": "仲間の辛さに気づけなくて、何にもできなかったときに味わう後悔に比べたら、それ以上に辛いことなんてあるわけないんだからさ……。",
 		"NamesENG": "Mion",
-		"TextENG": "Compared to finding out that you didn't notice the pain your friend is dealing with, and that you weren't able to do anything for them. Nothing in this world is more painful than that."
+		"TextENG": "Nothing in this world is more painful than finding out you didn't notice the pain your friend is dealing with, and you weren't able to do anything for them. "
 	},
 	{
 		"type": "MSGSET",
@@ -165,7 +165,7 @@
 		"PreTextTags": "@vS20/03/440300235.",
 		"TextJPN": "……そうそう、差し入れのおにぎり、どうだった？@k@vS20/03/440300236.　もう全部、食べちゃったかな？",
 		"NamesENG": "Mion",
-		"TextENG": "...Ah, right, did you like the onigiri we sent you?@k@vS20/03/440300236. Did you already eat all of them?"
+		"TextENG": "...Ah, by the way, did you like the onigiri we sent you?@k@vS20/03/440300236. Did you already eat all of them?"
 	},
 	{
 		"type": "MSGSET",
@@ -174,7 +174,7 @@
 		"PreTextTags": "@vS20/03/440300237.",
 		"TextJPN": "もうわかってると思うけど、そのおにぎりは部活メンバー全員で握ったんだよ。@k@vS20/03/440300238.あの不器用な圭ちゃんも！",
 		"NamesENG": "Mion",
-		"TextENG": "Maybe you realized it already, but all of us club members made those onigiri together.@k@vS20/03/440300238. Even the clumsy Kei-chan helped out!"
+		"TextENG": "Maybe you noticed it already, but all of us club members made those onigiri together.@k@vS20/03/440300238. Even the clumsy Kei-chan helped out!"
 	},
 	{
 		"type": "MSGSET",
@@ -183,7 +183,7 @@
 		"PreTextTags": "@vS20/03/440300239.",
 		"TextJPN": "だから今度会った時までの、レナへの宿題。@k@vS20/03/440300240.誰がどのおにぎりを握ったか、ちゃんと答えを考えておいてね。@k@vS20/03/440300241.全部当てられなかったら、当然罰ゲーム！@k@vS20/03/440300242.　……まぁ、圭ちゃんがどれを握ったかは、一目で丸わかりだろうけどね～。",
 		"NamesENG": "Mion",
-		"TextENG": "So here's some homework for you, until we meet the next time.@k@vS20/03/440300240. Which of those onigiri was made by whom? Make sure to tell us once you know!@k@vS20/03/440300241. If you don't get all of them right, there'll be a punishment, of course!@k@vS20/03/440300242. Well, I'm sure you can tell immediately which one Kei-chan made~"
+		"TextENG": "So here's some homework for you, until we meet the next time.@k@vS20/03/440300240. Which of those onigiri was made by who? Make sure to tell us once you find out!@k@vS20/03/440300241. If you don't get all of them right, there'll be a punishment, of course!@k@vS20/03/440300242. Well, I'm sure you can tell immediately which one Kei-chan made~"
 	},
 	{
 		"type": "MSGSET",
@@ -201,6 +201,6 @@
 		"PreTextTags": "@vS20/03/440300246.",
 		"TextJPN": "レナは、私たち、――ううん、私の大切な仲間で、親友だから。@k@vS20/03/440300247.何もかも元通りになれる日が来るのを、待っています。@k@vS20/03/440300248.いつまでも、ずっと、待っています。",
 		"NamesENG": "Mion",
-		"TextENG": "Rena, you're our, ―no, my dearest, precious, best friend.@k@vS20/03/440300247. I'm patiently waiting for the day when everything goes back to how it was before.@k@vS20/03/440300248. I will be waiting for that forever and always."
+		"TextENG": "Rena, you're our, ―no, my, dearest, precious, best friend.@k@vS20/03/440300247. I'm patiently waiting for the day when everything goes back to how it was before.@k@vS20/03/440300248. I will be waiting for that forever and always."
 	}
 ]

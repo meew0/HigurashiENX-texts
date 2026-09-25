@@ -36,7 +36,7 @@
 		"type": "MSGSET",
 		"MessageID": 16386,
 		"TextJPN": "それの名前を聞いた途端、おちゃらけた表情で笑っていた魅音がはっ、とこちらが驚くほど顔色を変えて息を飲む。",
-		"TextENG": "To my surprise, the moment she heard that name, her joking expression changed completely. I had to catch my breath."
+		"TextENG": "To my surprise, the moment she heard that name, her joking expression changed completely. I was completely taken aback."
 	},
 	{
 		"type": "MSGSET",
@@ -78,13 +78,13 @@
 		"PreTextTags": "@vS20/05/440500077.",
 		"TextJPN": "「そうなのです。@k@vS20/05/440500078.ボクたちは明日の朝、どんなトラップで圭一をお出迎えしてやろうかと相談していたのですよ。@k@vS20/05/440500079.にぱー♪」",
 		"NamesENG": "Rika",
-		"TextENG": "``That's right.@k@vS20/05/440500078. We were just discussing what kind of trap we would make Keiichi face tomorrow morning.@k@vS20/05/440500079. Nipah♪``"
+		"TextENG": "``That's right.@k@vS20/05/440500078. We were just discussing what kind of trap we would make for Keiichi tomorrow morning.@k@vS20/05/440500079. Nipah♪``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16392,
 		"TextJPN": "ちょっと待て、……二人かしましく、そんな穏やかじゃない話をしていたのか？！　それを聞いて俺は、よからぬ企みを中止させるべく沙都子に制裁を加えようと一歩前に踏み出しかけたが、",
-		"TextENG": "Hey, wait. The two of them were talking loudly about something so unsettling?! Hearing this, I was about to head over to Satoko to put an end to her evil scheming and deal out some punishment, but..."
+		"TextENG": "Hey, wait. The two of them were talking loudly about such a disturbing topic?! Hearing this, I was about to head over to Satoko to put an end to her evil scheming and hand out some punishment, but..."
 	},
 	{
 		"type": "MSGSET",
@@ -114,7 +114,7 @@
 		"type": "MSGSET",
 		"MessageID": 16396,
 		"TextJPN": "それが、俺を教室の外に連れ出す口実ということはすぐにわかったが、……魅音は器用に沙都子たちの死角から、声とは裏腹の厳しい表情を俺に向けていた。",
-		"TextENG": "I immediately understood that this was just a pretense for getting me out of the classroom, but... she skillfully stood in a spot where Satoko and the others couldn't see her and gave me a stern look."
+		"TextENG": "I immediately understood that this was just a pretense for getting me out of the classroom, but... she cleverly stood in a spot where Satoko and the others couldn't see her and gave me a stern look."
 	},
 	{
 		"type": "MSGSET",
@@ -123,7 +123,7 @@
 		"PreTextTags": "@vS20/01/440100170.",
 		"TextJPN": "「……どうしたんだよ、魅音？」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``..What's going on, Mion?``"
+		"TextENG": "``...What's going on, Mion?``"
 	},
 	{
 		"type": "MSGSET",
@@ -180,7 +180,7 @@
 		"type": "MSGSET",
 		"MessageID": 16404,
 		"TextJPN": "それを聞いて魅音は、しまった……と本気で悔いるように頭を抱える。",
-		"TextENG": "After hearing that, Mion seemed genuinely regretful, as if she had made a big mistake."
+		"TextENG": "After hearing that, Mion seemed genuinely unhappy, as if she had made a big mistake."
 	},
 	{
 		"type": "MSGSET",
@@ -195,7 +195,7 @@
 		"PreTextTags": "@vS20/03/440300168.",
 		"TextJPN": "「いや、そういうわけじゃないけどさ。@k@vS20/03/440300169.……実はここだけの話、悟史ってのは沙都子のお兄さんなんだよ」",
 		"NamesENG": "Mion",
-		"TextENG": "``No, that's not how it is.@k@vS20/03/440300169. To tell you the truth... Please keep this between you and me, but Satoshi is Satoko's older brother."
+		"TextENG": "``No, that's not how it is.@k@vS20/03/440300169. I'll tell you the truth... Please keep this between you and me, but Satoshi is Satoko's older brother."
 	},
 	{
 		"type": "MSGSET",
@@ -303,13 +303,13 @@
 		"type": "MSGSET",
 		"MessageID": 16419,
 		"TextJPN": "……確かに、身内のよくない話題を挙げられて、嬉しく思えるやつはいない。沙都子は確かに悪戯好きで、俺もたまに酷い目に遭ったりしているが、だからといって仕返しのねたにするには重過ぎるし、卑怯だ。",
-		"TextENG": "...That's true, nobody would be happy to have some bad topic related to their family come up in conversation. And while Satoko may give me a hard time sometimes with her mischievous nature, this topic is far too heavy to be used as payback for that. It would be dirty do to that."
+		"TextENG": "...That's for sure, nobody would be happy to have some serious topic related to their family come up in conversation. And while Satoko may give me a hard time sometimes with her mischievous nature, this is far too heavy to be used as payback for that. It would be dirty do to that."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16420,
 		"TextJPN": "それに話を聞く限り、……魅音たちともわりと親しかったようだ。だからまだ、思い出すだけでも辛さがこみ上げてくるのかもしれない。",
-		"TextENG": "And from what I've heard, he seemed to be pretty close to Mion and the others as well. So even now, thinking about him might cause some bad feelings to well up for them."
+		"TextENG": "And from what I've gathered, he seemed to be pretty close to Mion and the others as well. So even now, thinking about him might cause some negative feelings to come up."
 	},
 	{
 		"type": "MSGSET",
@@ -333,7 +333,7 @@
 		"type": "MSGSET",
 		"MessageID": 16423,
 		"TextJPN": "踵を返しかけていた魅音は、まだ何か、と少し不快そうに眉を寄せて顔を戻す。その表情に少し気後れも感じたが、それでもこれだけは聞いておきたくて、俺は口を開いた。",
-		"TextENG": "She seemed like was about to turn back, but her face went back to an unpleasant frown, like ``you're still not satisfied?``. Her expression made me feel a bit nervous, but I still wanted to ask her this one thing, so I opened my mouth again."
+		"TextENG": "She seemed like she was about to turn back, but her face went back to an unpleasant frown, like ``you're still not satisfied?``. Her expression made me feel a bit nervous, but I still wanted to ask her this one thing, so I opened my mouth again."
 	},
 	{
 		"type": "MSGSET",
@@ -342,7 +342,7 @@
 		"PreTextTags": "@vS20/01/440100181.",
 		"TextJPN": "「レナに以前、悟史のことを訊いたら、……よく知らない、って。@k@vS20/01/440100182.魅音もそうだけど、なんでそんなにも隠そうとするんだ？@k@vS20/01/440100183.　別にそれを聞いたからって、俺はべらべら喋ったりしないし、それに――」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``When I asked Rena about Satoshi in the past, she told me that ``she doesn't really know``.@k@vS20/01/440100182. It's the same with you. Why do all of you try to hide it so much?@k@vS20/01/440100183. It's not like I'll start chatting about this non-stop after you tell me, and also―``"
+		"TextENG": "``When I asked Rena about Satoshi in the past, she told me that ``she doesn't really know``.@k@vS20/01/440100182. It's the same with you. Why do you all try to hide it so much?@k@vS20/01/440100183. It's not like I'll start chatting about this non-stop after you tell me, and also―``"
 	},
 	{
 		"type": "MSGSET",
@@ -372,7 +372,7 @@
 		"type": "MSGSET",
 		"MessageID": 16428,
 		"TextJPN": "魅音の瞳の奥に、ぎらりと鋭い光が宿ったように見えて、俺は息を飲む。……が、次の瞬間にはそれは消えうせて、魅音は明らかに不釣合いなほどの朗らかな笑みを浮かべていた。",
-		"TextENG": "Deep in Mion's eyes, I could see a glaringly sharp light that made me gulp. ...But, the next moment, that disappeared, and she put on a bright smile that clearly didn't fit the situation."
+		"TextENG": "Deep in Mion's eyes, I could see a glaringly sharp light that made me gulp. ...But, the next moment, it disappeared, and she put on a bright smile that clearly didn't fit the situation."
 	},
 	{
 		"type": "MSGSET",
@@ -450,6 +450,6 @@
 		"type": "MSGSET",
 		"MessageID": 16438,
 		"TextJPN": "最後は俺の返事を待つことなく、教室へと戻っていった。",
-		"TextENG": "Without even waiting for a reply in the end, she went back into the classroom."
+		"TextENG": "In the end, she went back into the classroom without even waiting for a reply."
 	}
 ]

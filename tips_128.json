@@ -15,7 +15,7 @@
 		"type": "MSGSET",
 		"MessageID": 16113,
 		"TextJPN": "勉強ができそうだけど、急なトラブルに巻き込まれるとパニックになってしまうような、……一言で言えば『模範的』な男の子。",
-		"TextENG": "He seemed to be the kind of guy who's good at studying, but starts panicking whenever something goes wrong. ...In one word, he seemed like an ``exemplary`` boy."
+		"TextENG": "He seemed to be the kind of boy who's good at studying, but starts panicking whenever something goes wrong. ...In one word, he seemed like an ``exemplary`` boy."
 	},
 	{
 		"type": "MSGSET",
@@ -33,13 +33,13 @@
 		"type": "MSGSET",
 		"MessageID": 16116,
 		"TextJPN": "でも、…………本当に『案ずるより産むが易し』とでもいうのだろうか。見かけによらず彼はとても話しやすくて、ユーモアもあって、……面白い男の子だった。",
-		"TextENG": "But as they say, ``don't worry about it, it'll be fine``. In contrast to how he looked, he was actually super easy to talk to and had a great sense of humor... just a really funny boy."
+		"TextENG": "But as they say, ``don't worry about it, it'll be fine``. In contrast to how he looked, he was actually super easy to talk to and had a great sense of humor... just a really funny guy."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16117,
 		"TextJPN": "なにより、都会らしさを表に見せないところがいい。高慢でもないし、かといって卑屈でもない。とても自然体で、……ちょっと話しただけでもこの子とは絶対に気が合う、と確信が持てるくらいだった。",
-		"TextENG": "Above all, I liked that he didn't appear like a city kid at all. He wasn't arrogant, but he wasn't a pushover, either. He always seemed relaxed... even by just talking to him for a bit, I already felt confident that I'd get along great with him."
+		"TextENG": "Above all, I liked that he didn't seem like a city kid at all. He wasn't arrogant, but he wasn't a pushover, either. He always seemed relaxed... even from just talking to him for a bit, I already felt confident that I'd get along great with him."
 	},
 	{
 		"type": "MSGSET",

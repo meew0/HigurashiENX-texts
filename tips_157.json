@@ -21,7 +21,7 @@
 		"PreTextTags": "@vS20/04/VTT_satoko3001.",
 		"TextJPN": "「あらぁぁ～？@k@vS20/04/VTT_satoko3002.　それはお気の毒ですわねぇ、圭一さん？」",
 		"NamesENG": "Satoko",
-		"TextENG": "``Oooh~?@k@vS20/04/VTT_satoko3002. That must be terrible to find out now, right, Keiichi-san?``"
+		"TextENG": "``Oooh~?@k@vS20/04/VTT_satoko3002. You must be devastated to learn about this, right, Keiichi-san?``"
 	},
 	{
 		"type": "MSGSET",
@@ -48,7 +48,7 @@
 		"PreTextTags": "@vS20/01/VTT_keiichi3017.",
 		"TextJPN": "「……あのな、沙都子。@k@vS20/01/VTT_keiichi3018.箱の裏側に仕掛けられたこんなメモを読んで、俺が本気で信じると考えられたことのほうが俺にはショックだ！@k@vS20/01/VTT_keiichi3019.　沙都子のトラップの泉も、ついにその源が干上がったってことかぁぁっ？！」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``...Hey, Satoko.@k@vS20/01/VTT_keiichi3018. It would be far more shocking to me to find out you actually think I'd believe this note taped on the back of the box of cards!@k@vS20/01/VTT_keiichi3019. So your fountain of traps has finally dried up at its sooouurcee?!``"
+		"TextENG": "``...Hey, Satoko.@k@vS20/01/VTT_keiichi3018. It would be far more shocking to me if I found out you actually think I'd believe this note taped onto the box!@k@vS20/01/VTT_keiichi3019. So your fountain of traps has finally dried up at its sooouurcee?!``"
 	},
 	{
 		"type": "MSGSET",
@@ -69,13 +69,13 @@
 		"type": "MSGSET",
 		"MessageID": 17211,
 		"TextJPN": "死闘を終えて、トランプをしまいかけた魅音が『あれ？』と紙の箱の裏側に書かれたものを見つけたのが、事の発端だった。",
-		"TextENG": "It all started after we overcame our mortal struggle and were about to finish the card game, when Mion noticed that something was written on the back of the box of cards and went ``What's this?``."
+		"TextENG": "It all started after we overcame our mortal struggle and were about to finish the card game, when Mion noticed that something was written on the back of the box and went ``What's this?``."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 17212,
 		"TextJPN": "先ほどの文章は手書きで、実に器用なかたちで記されてあった。…それゆえ真っ先に誰が疑われるのか、改めて皆に問うまでもないだろう。",
-		"TextENG": "The text from before was handwritten in an honestly really skillful way. ...So there shouldn't be any need to ask everyone about who is the most likely suspect here."
+		"TextENG": "The handwriting of that text honestly seemed really skillful. ...So there shouldn't be any reason to ask everyone who the most likely suspect is here."
 	},
 	{
 		"type": "MSGSET",
@@ -84,7 +84,7 @@
 		"PreTextTags": "@vS20/01/VTT_keiichi3020.",
 		"TextJPN": "「だいたいお前以外に、ここまであからさまにお前のメリットを確保する文面を書くやつがどこにいる！@k@vS20/01/VTT_keiichi3021.　さぁ、吐け沙都子！@k@vS20/01/VTT_keiichi3022.　今ならデコピン１グロスで済ませてやる！！」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``Who besides you would write something so blatantly designed to give you an advantage in the first place!@k@vS20/01/VTT_keiichi3021. Come on, Satoko, admit it!@k@vS20/01/VTT_keiichi3022. If you confess now, we can resolve this with only 1 gross forehead flicks!``"
+		"TextENG": "``Who other than you would write something so blatantly designed to give you an advantage in the first place!@k@vS20/01/VTT_keiichi3021. Come on, Satoko, admit it!@k@vS20/01/VTT_keiichi3022. If you confess now, we can resolve this with only 1 gross forehead flicks!``"
 	},
 	{
 		"type": "MSGSET",
@@ -120,7 +120,7 @@
 		"PreTextTags": "@vS20/04/VTT_satoko3009.",
 		"TextJPN": "「じょ、冗談じゃありませんわぁぁっ！！@k@vS20/04/VTT_satoko3010.　１００発以上おデコをぶたれるのもご勘弁ですが、冤罪で裁かれるのはもっともっとご免でございましてよ――っっ！！」",
 		"NamesENG": "Satoko",
-		"TextENG": "``Th- this is no joke!!@k@vS20/04/VTT_satoko3010. I would rather avoid my forehead getting hit over 100 times, and I strongly resent these false accusations!!``"
+		"TextENG": "``Th- this is no joke!!@k@vS20/04/VTT_satoko3010. I would rather prefer to avoid my forehead being hit over 100 times, and I strongly resent these false accusations!!``"
 	},
 	{
 		"type": "MSGSET",

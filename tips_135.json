@@ -3,7 +3,7 @@
 		"type": "SAVEINFO",
 		"category": 1,
 		"JPN": "魅音と詩音の違いは…",
-		"ENG": "The Difference Between Mion And Shion Is..."
+		"ENG": "The Difference Between Mion and Shion is..."
 	},
 	{
 		"type": "MSGSET",
@@ -12,7 +12,7 @@
 		"PreTextTags": "@vS20/03/440300130.",
 		"TextJPN": "「それにしてもさ、圭ちゃん。どうして私と詩音の違いがわかったの？」",
 		"NamesENG": "Mion",
-		"TextENG": "``By the way, Kei-chan. How did you tell me apart from Shion?``"
+		"TextENG": "``By the way, Kei-chan. How could you tell me apart from Shion?``"
 	},
 	{
 		"type": "MSGSET",
@@ -69,7 +69,7 @@
 		"PreTextTags": "@vS20/01/440100157.",
 		"TextJPN": "「エンジェルモートでのあれか？　……まぁ、勘だ。あ、でもどんなにごまかしても、魅音らしさがありとあらゆる場面で出まくっていたぞ」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``You mean at Angel Mort? ...Well, it was kind of just intuition. Ah, but no matter how much you try to fake it, your Mion-ness will always end up coming out.``"
+		"TextENG": "``You mean at Angel Mort? ...Well, it was kind of just intuition. No matter how much you try to fake it, your Mion-ness will always end up coming out.``"
 	},
 	{
 		"type": "MSGSET",
@@ -123,7 +123,7 @@
 		"PreTextTags": "@vS20/01/440100160.",
 		"TextJPN": "「あはははは、そんな癖はないから安心しろって。……けど、言葉ではうまく説明できないけど、俺はあの時、ほとんど疑わずに魅音だってわかったぞ」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``Ahahaha, don't worry, you don't have that kind of habit. ...Although, I can't really explain it, but at that time, I knew without any doubt that I was talking to Mion.``"
+		"TextENG": "``Ahahaha, don't worry, you don't actually have such a habit. ...Although, I can't really explain it, but at that time, I knew without any doubt that I was talking to Mion.``"
 	},
 	{
 		"type": "MSGSET",
@@ -138,13 +138,13 @@
 		"type": "MSGSET",
 		"MessageID": 16229,
 		"TextJPN": "そう、何かを見て、聞いて、……というわけでもなく、確かに『感じた』のだ。そして、同じ理由でおもちゃ屋では詩音が『魅音』じゃないと、閃くようにわかった。",
-		"TextENG": "``That's right. I didn't see or hear anything specific, but I'm certain I ``felt`` it. And for the same reason, I immediately understood that the Shion at the toy store wasn't Mion."
+		"TextENG": "``That's right. I didn't see or hear anything specific, but I'm certain I <i>felt</i> it. And for the same reason, I knew right away that the Shion at the toy store wasn't Mion."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16230,
 		"TextJPN": "どうしてなのか、……今でもわからない。あえて言うなら言動の端にあった、本当に些細な違和感だったのかもしれないが……。",
-		"TextENG": "I wonder what it is, I still have no idea. It might be something outside of her words and her behavior, a tiny detail that somehow feels out of place."
+		"TextENG": "I wonder what it is, I still have no idea. It might be something other than her words or her behavior. A tiny detail that somehow feels out of place."
 	},
 	{
 		"type": "MSGSET",
@@ -180,7 +180,7 @@
 		"PreTextTags": "@vS20/01/440100162.",
 		"TextJPN": "「腕に伝わる胸のボリュームで、そう感じたのかも……」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``Maybe I felt the volume of her breasts through my arm...``"
+		"TextENG": "``Maybe I felt the volume of her breasts on my arm...``"
 	},
 	{
 		"type": "MSGSET",
@@ -219,7 +219,7 @@
 		"type": "MSGSET",
 		"MessageID": 16239,
 		"TextJPN": "俺は魅音の振り上げたこぶしを紙一重でかわしてよける。……やばい、ちょっとからかいすぎたかもしれない。本気で怒っている魅音の顔を見てさすがに危機を感じた俺は、そのまま脱兎の如く逃げ出した。",
-		"TextENG": "I managed to dodge Mion's punch by a hair's breadth. ...Welp, I might have teased her a bit too much. As expected, when Mion is genuinely angry, there's nothing to do but make a run for it."
+		"TextENG": "I managed to dodge Mion's punch by a hair. ...Welp, I might have teased her a bit too much. As we all know, when Mion is genuinely angry, there's nothing to do but make a run for it."
 	},
 	{
 		"type": "MSGSET",
@@ -252,7 +252,7 @@
 		"PreTextTags": "@vS20/03/440300142.",
 		"TextJPN": "「待てぇぇえぇ～～～～、この浮気者ぉぉおぉっっ！！」",
 		"NamesENG": "Mion",
-		"TextENG": "``Hold oonnn~~~, you cheateeerrrr!!``"
+		"TextENG": "``Hold oonnn~~~, you unfaithful jeerrk!!``"
 	},
 	{
 		"type": "MSGSET",
@@ -261,6 +261,6 @@
 		"PreTextTags": "@vS20/01/440100165.",
 		"TextJPN": "「ちょっと待て！　その理由で追われることだけは納得がいかんぞぉぉっっ！！」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``Wait a minute! I don't get why you're chasing me around like this after asking me that!!``"
+		"TextENG": "``Wait a minute! I don't get why you're coming for me like this after you asked me yourself!!``"
 	}
 ]

@@ -3,7 +3,7 @@
 		"type": "SAVEINFO",
 		"category": 1,
 		"JPN": "羊飼いはどうして嘘をついたのか？",
-		"ENG": "Why did the Shepherd Lie?"
+		"ENG": "Why Did the Shepherd Lie?"
 	},
 	{
 		"type": "MSGSET",
@@ -59,7 +59,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "最初の頃はその度に駆けつけていた大人たちだったが、やがて少年の嘘に辟易して誰も駆けつけなくなった。",
 		"AfterTextTags": "@|@y",
-		"TextENG": "At first, all the adults come running out again, but before long, they become fed up with the boy's lies and nobody bothers to run out anymore."
+		"TextENG": "At first, all the adults come running out again, but before long, they become fed up with the boy's lies and nobody bothers to come running anymore."
 	},
 	{
 		"type": "MSGSET",
@@ -67,7 +67,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "そして、ある日。羊を飼っていた牧場に、今度は本当に狼が訪れる。驚いた少年は大人たちに助けを求めるが、彼らはまた嘘だと思ってそれを信じず、結局羊たちは食べられてしまった……。",
 		"AfterTextTags": "@|@y",
-		"TextENG": "Then, one day, on the meadow where the sheep are kept, a wolf comes, this time a real one. The frightened boy calls for the adults to help, but nobody believes him, all of them thinking that it's another lie. And in the end, the sheep end up being eaten by the wolf..."
+		"TextENG": "Then, one day, on the meadow where the sheep are kept, for once, a real wolf arrives. The frightened boy calls for the adults to help, but nobody believes him, all of them thinking that it is another lie. And in the end, the sheep end up being eaten by the wolf..."
 	},
 	{
 		"type": "MSGSET",
@@ -131,7 +131,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "１００回のうち９９回が嘘でも、本当の１回が最後に来るか、最初に来るかで体感的な確率、そして重要度は大きく異なります。そして残念なことに多くの場合、それを知るのは結果が出た後なのです。",
 		"AfterTextTags": "@|@y",
-		"TextENG": "Even if 99 out of 100 times are lies, depending on whether the one true time comes at the end or at the beginning, the intuitive probability, and thus the subjective importance, varies greatly. And unfortunately, this is usually only realized after the consequences have already arrived."
+		"TextENG": "Even if 99 out of 100 times are lies, depending on whether the one true wolf attack comes at the end or at the beginning, the intuitive probability, and thus the subjective importance, varies greatly. And unfortunately, this is usually only realized after the consequences have already arrived."
 	},
 	{
 		"type": "MSGSET",
@@ -139,6 +139,6 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "たとえ当初見積もられた確率は低くとも、常に最悪の状況に備えておかなければ体感的な確率と損失は大きく変動する。……つまりこの寓話に隠された教訓は、『備えあれば憂いなし』であったのかもしれません。",
 		"AfterTextTags": "@|@y",
-		"TextENG": "Even if the initially estimated probability is low, by not preparing for the worst-case scenario every time, the subjective risk assessment will change greatly. ...In other words, this fable may have a hidden lesson that ``you never have to worry if you always prepare``."
+		"TextENG": "Even if the initially estimated probability is low, by not preparing for the worst-case scenario every time, the subjective risk assessment changes greatly. ...In other words, this fable may have a hidden lesson that ``you never have to worry if you always prepare``."
 	}
 ]

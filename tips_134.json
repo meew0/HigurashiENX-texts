@@ -48,7 +48,7 @@
 		"PreTextTags": "@vS20/00/waitA44003.",
 		"TextJPN": "「それにしても、話で聞く以上にいい子よね。危ないところに駆けつけて、不良たちを追い払ってくれたんでしょう？」",
 		"NamesENG": "Waitress",
-		"TextENG": "``Besides, he's a good guy beyond just talking with him. He came to your help when you were in danger and drove away those thugs, didn't he?``"
+		"TextENG": "``Besides, he's not just a good guy because he listens to you. He came to your help when you were in danger and drove away those thugs, didn't he?``"
 	},
 	{
 		"type": "MSGSET",
@@ -57,7 +57,7 @@
 		"PreTextTags": "@vS20/06/440600046.",
 		"TextJPN": "「…………あ、はい。おかげさまで……助かりました」",
 		"NamesENG": "Shion",
-		"TextENG": "``...Ah, yeah. Everything was fine in the end, thanks to his help.``"
+		"TextENG": "``...Ah, yeah. Everything was fine in the end, thanks to what he did.``"
 	},
 	{
 		"type": "MSGSET",
@@ -102,7 +102,7 @@
 		"PreTextTags": "@vS20/00/waitB44002.",
 		"TextJPN": "「へぇ、それじゃナンパ？　最近そんな人たちが興宮にも増えたのねぇ。私たちも気をつけないと……」",
 		"NamesENG": "Waitress",
-		"TextENG": "``Really... were they catcalling you? Lately, these kinds of people have been appearing in Okinomiya more and more. We have to be careful...``"
+		"TextENG": "``Really... were they catcalling you? Lately, these kinds of people have been appearing in Okinomiya more and more. We all need to be careful...``"
 	},
 	{
 		"type": "MSGSET",
@@ -147,7 +147,7 @@
 		"PreTextTags": "@vS20/00/waitB44003.",
 		"TextJPN": "「あ～あ、私もいい人見つけようかなぁ。ピンチのときに駆けつけてくれるような、素敵な王子様がどこかにいないかしら～？」",
 		"NamesENG": "Waitress",
-		"TextENG": "``Ah, ah, I want to find somebody good as well. Can't there be a charming prince out there who will come running to save me when I'm in a tough spot?``"
+		"TextENG": "``Ah, ah, I want to find a good guy for myself as well. Can't there be a charming prince out there who will come running to save me when I'm in a tough spot?``"
 	},
 	{
 		"type": "MSGSET",
@@ -156,7 +156,7 @@
 		"PreTextTags": "@vS20/00/waitA44007.",
 		"TextJPN": "「……間違っても、デザートフェスタのあの人たちはごめんですけどね」",
 		"NamesENG": "Waitress",
-		"TextENG": "``Well, it's definitely not any of those people who always come to the Dessert Festa.``"
+		"TextENG": "``Well, it's definitely none of those people who usually come to the Dessert Festa.``"
 	},
 	{
 		"type": "MSGSET",

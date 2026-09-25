@@ -3,7 +3,7 @@
 		"type": "SAVEINFO",
 		"category": 1,
 		"JPN": "荷物もち",
-		"ENG": "Luggage Carrier"
+		"ENG": "Carrying a Load"
 	},
 	{
 		"type": "MSGSET",
@@ -18,7 +18,7 @@
 		"PreTextTags": "@vS20/05/440500064.",
 		"TextJPN": "「……ここでいいのです、圭一。運んでくれて、どうもありがとうなのですよ」",
 		"NamesENG": "Rika",
-		"TextENG": "``...Here is perfect, Keiichi. Thank you very much for helping me carry all this home.``"
+		"TextENG": "``...Here is perfect, Keiichi. Thank you very much for helping me carry all this.``"
 	},
 	{
 		"type": "MSGSET",
@@ -33,19 +33,19 @@
 		"type": "MSGSET",
 		"MessageID": 16088,
 		"TextJPN": "そう言いながら、石段の上にある鳥居を見上げる。",
-		"TextENG": "While I said this, I looked up at the shrine gate at the end of the stone stairs."
+		"TextENG": "While saying that, I looked up at the shrine gate at the end of the stone stairs."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16089,
 		"TextJPN": "いや、……待てよ？　この神社の名前は、『古手神社』。",
-		"TextENG": "Wait... the name of this shrine is the ``Furude Shrine``."
+		"TextENG": "Wait... the name of this shrine is ``Furude Shrine``."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16090,
 		"TextJPN": "そして、梨花ちゃんの苗字は……。",
-		"TextENG": "And Rika's last name is..."
+		"TextENG": "And Rika-chan's last name is..."
 	},
 	{
 		"type": "MSGSET",
@@ -63,13 +63,13 @@
 		"PreTextTags": "@vS20/05/440500065.",
 		"TextJPN": "「そうなのですよ。ようやくわかるなんて、圭一も案外ヌケ作さんなのです。にぱ～☆」",
 		"NamesENG": "Rika",
-		"TextENG": "``That's right. I'm surprised you're such a doofus that you only realize this now. Nipah☆``"
+		"TextENG": "``That's right. I'm surprised you're such a doofus that you only notice this now. Nipah☆``"
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16093,
 		"TextJPN": "そう言って、梨花ちゃんはにこやかに笑ってみせる。……そうは言っても、クラスのみんなも教えてくれなかったじゃないか。",
-		"TextENG": "Rika-chan said this with a wide smile on her face. ...That said, it's not like anyone in the class has told me either."
+		"TextENG": "Rika-chan said that with a wide smile on her face. ...That said, it's not like anyone in the class told me about this either."
 	},
 	{
 		"type": "MSGSET",
@@ -78,7 +78,7 @@
 		"PreTextTags": "@vS20/05/440500066.",
 		"TextJPN": "「別に内緒にしていたわけじゃないのです。この村では有名なことだから、かえって話す機会がなかっただけなのですよ」",
 		"NamesENG": "Rika",
-		"TextENG": "``It's not like I was trying to keep it a secret or anything. It's well known in this village, actually, so it never comes up in conversation.``"
+		"TextENG": "``It's not like I was trying to keep it a secret or anything. Actually, everyone in the village knows about this, so it never comes up in conversation.``"
 	},
 	{
 		"type": "MSGSET",
@@ -135,7 +135,7 @@
 		"type": "MSGSET",
 		"MessageID": 16101,
 		"TextJPN": "俺は、石段のそばに自転車を止める梨花ちゃんのすぐ横に、もうひとつ自転車を見つけて声をあげる。前に一度見たきりだけど、確かその色と型は、……沙都子の自転車だったはずだ。",
-		"TextENG": "While Rika-chan parked her bike, I saw another bike right next to her and couldn't help but say that. Even though I had only seen it once before, this color and model... I was sure that it was Satoko's bike."
+		"TextENG": "While Rika-chan parked her bike, I saw another bike right next to hers and instinctively blurted that out. Even though I only saw it once before, this color and model... I was sure that it was Satoko's bike."
 	},
 	{
 		"type": "MSGSET",
@@ -183,7 +183,7 @@
 		"type": "MSGSET",
 		"MessageID": 16107,
 		"TextJPN": "俺の手から買い物袋を受け取った梨花ちゃんは、その中からみかんをひとつ取り出して俺に手渡してくれる。そして、いつもの朗らかな笑顔で小首を可愛らしく傾げると、手を振りながら石段をあがっていった。",
-		"TextENG": "After taking the shopping bags from my hands, Rika-chan took a mandarin out of one of the bags and handed it to me. Then, with her usual cheerful smile, she cutely tilted her head and waved to me while going up the stone stairs."
+		"TextENG": "After taking the shopping bags from my hands, Rika-chan took a mandarin out of one of the bags and gave it to me. Then, with her usual cheerful smile, she cutely tilted her head and waved to me while going up the stone stairs."
 	},
 	{
 		"type": "MSGSET",
@@ -204,12 +204,12 @@
 		"type": "MSGSET",
 		"MessageID": 16110,
 		"TextJPN": "そう思って俺は、自転車のスタンドを上げてサドルにまたがり、今来た道を戻ってペダルをこぎ始める。",
-		"TextENG": "With that thought, I took my bike out of the stand, sat down on the saddle, and started pedaling back on the way we came."
+		"TextENG": "With that thought, I took my bike out of the stand, sat down on the saddle, and started pedaling back the way we came."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16111,
 		"TextJPN": "夕暮れは、もうまもなくだった。",
-		"TextENG": "It was just before dusk."
+		"TextENG": "The sun was just about to set."
 	}
 ]

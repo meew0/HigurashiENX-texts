@@ -115,7 +115,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "（４）興宮生活相談所の対応",
 		"AfterTextTags": "@|@y",
-		"TextENG": "(4) Child consultation center's response"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -179,7 +179,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "　５２年度のエ２－３の４４号を参照すること。",
 		"AfterTextTags": "@|@y",
-		"TextENG": "Refer to 1977 document E2-3 number 44."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

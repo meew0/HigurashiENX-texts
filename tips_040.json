@@ -69,13 +69,13 @@
 		"type": "MSGSET",
 		"MessageID": 13682,
 		"TextJPN": "たとえば、公由家の『公由』は、『鬼』の一字を分解して作ったものだろう。由・公の順に書き出せば、見事『鬼』の字を書き出すことができる。",
-		"TextENG": "For example, @bKimiyoshi.@< 公由 @>are likely a split-up version of 鬼. If you write it in reverse and top to bottom, as 由公, it clearly resembles the character 鬼."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 13683,
 		"TextJPN": "続く古手家は、代々神職で、吉凶を占う『@b占い手.@<占い師@>』だったことから『占手』の名に、@k鬼の角を加え『占』→『古』として『古手』としたと考えられる。",
-		"TextENG": "As for the @b古手.@<Furude@> family who have been in the Shinto priesthood for generations—the word for 'fortune-teller' can be written, without interval characters, as 占手.@k I think that with the addition of a demon's horn—the tick on the top of the character 鬼—the 占 became the 古 that is used in their name now."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -93,7 +93,7 @@
 		"type": "MSGSET",
 		"MessageID": 13686,
 		"TextJPN": "『崎』は『裂き』の読み替えで、『園』は、その形状から複雑な内容物から構成されるもの、『生物』の暗示であろう。",
-		"TextENG": "The 'zaki' in 'Sonozaki' is a conjugation of the word for 'slice,' and the@bsono.@< 園, @>probably contains the hidden meaning of 'human body,' as it is a complicated mess (organs) enclosed by four sides."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

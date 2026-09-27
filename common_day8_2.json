@@ -2894,7 +2894,7 @@
 		"type": "MSGSET",
 		"MessageID": 23385,
 		"TextJPN": "魅音の妹の詩音？　妹なんていたのか……？",
-		"TextENG": "Mion's younger sister's Shion? Since when did Mion have a sister...?"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -4178,7 +4178,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI13180.",
 		"TextJPN": "「しかし……女の子は服装で変わる、っていうけどさ。@k@vS19/01/HR_KEI13190.こーゆう格好してる魅音も結構、可愛いと思うけどなぁ」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``However... Girls change with their clothes, though.@k@vS19/01/HR_KEI13190. I think Mion in this uniform would look pretty cute too.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -4322,7 +4322,7 @@
 		"type": "MSGSET",
 		"MessageID": 23575,
 		"TextJPN": "魅音……いや、ここでは詩音か、あいつのウェイトレス姿があんなに可愛いとは気づかなかったな。",
-		"TextENG": "Mion... No, Shion, as I looked closer looks very cute in her waitress suit."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

@@ -1144,43 +1144,43 @@
 		"type": "MSGSET",
 		"MessageID": 84991,
 		"TextJPN": "……わかってる。@kそしてレナ自身も、きっとわかってるはずだ。",
-		"TextENG": "......I know. @k And Rena herself must know."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 84992,
 		"TextJPN": "この結末が本当は、最善どころか、……全然望んでいなかったものだってことくらい。",
-		"TextENG": "Far from being the best, this ending is... something she didn't want at all."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 84993,
 		"TextJPN": "でも、……それなら、何ができた？",
-		"TextENG": "But... what could I do then?"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 84994,
 		"TextJPN": "レナが言ったように、不幸をそのまま受け入れたらよかったのか？",
-		"TextENG": "Should I have just accepted the misery as it was, like Rena said?"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 84995,
 		"TextJPN": "自分を犠牲にしてでも、……悪人たちの幸せを願うのが正しかったのか？",
-		"TextENG": "Was it right to wish the evil people well... even at the expense of yourself?"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 84996,
 		"TextJPN": "そんな、……進むも退くも奈落の状況の中で苦しんで、悩んで、心を苛んで…………。",
-		"TextENG": "In such an abyssal situation where you can't go forward or backward, you suffer, you worry, and you torment your mind..."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 84997,
 		"TextJPN": "レナが正しいなんて、誰も思っちゃいない。@k……でも、間違っていると言う資格が、いったい誰にあるというのだろう……？",
-		"TextENG": "No one thinks that Rena is right.@k But who has the right to say it's wrong?"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1711,7 +1711,7 @@
 		"PreTextTags": "@vS09/01/170100412.",
 		"TextJPN": "「このヤバい袋の山を知ったのは俺たちだけだ。@k@vS09/01/170100413.俺たち全員が秘密にすればそれでおしまいだ。@k@vS09/01/170100417.そしたら俺たちは全ての罪を許し合おう」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``We're the only ones who know about these bags.@k@vS09/01/170100413. If we keep it to ourselves, everything will be fine.@k@vS09/01/170100417. Let's forgive each other for our sins."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2332,7 +2332,7 @@
 		"type": "MSGSET",
 		"MessageID": 85145,
 		"TextJPN": "……レナにとっての今日一日は、あまりに色々なことが凝縮され過ぎていた。@kさぞ神経が参っているだろう。",
-		"TextENG": "...She had to go through so many things.@k She must be a nervous wreck."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

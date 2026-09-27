@@ -47,7 +47,7 @@
 		"PreTextTags": "@vS09/02/170200351.",
 		"TextJPN": "「プロポーズなんて取り消せばいい、あんな女」",
 		"NamesENG": "Rena",
-		"TextENG": "``You just have to cancel the proposal with that woman.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -266,7 +266,7 @@
 		"MessageID": 84389,
 		"PreNameTags": "@c969.",
 		"TextJPN": "鉄平は、リナと婚姻関係にあることの証拠書類を示し、自分の女房を@bたぶら.@<誑@>かした責任をどう取るのかと罵るのだった。",
-		"TextENG": "Teppei showed him the documents proving that he and Rina were married, and cursed him, asking him how he would take responsibility for seducing his own wife."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -652,21 +652,21 @@
 		"MessageID": 84439,
 		"PreNameTags": "@c969.",
 		"TextJPN": "私は、本当にたったひとりで、……この大男を倒した。",
-		"TextENG": "I really defeated this big guy... only by myself."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 84440,
 		"PreNameTags": "@c969.",
 		"TextJPN": "…こいつは、暴力の経験も豊富だったはずだ。",
-		"TextENG": "This guy must have had a lot of experience with violence."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 84441,
 		"PreNameTags": "@c969.",
 		"TextJPN": "だが、それを見せ付ける暇も無かった。@k……まさか私が、そこまで覚悟していたとは思ってもみなかったのだろう。",
-		"TextENG": "But he didn't have time to show it.@k I guess he didn't expect me to be that prepared."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -870,13 +870,13 @@
 		"type": "MSGSET",
 		"MessageID": 84471,
 		"TextJPN": "ランディくん人形のお礼だと夕食に呼ばれたその日、夜遅くなってもレナの家にはお母さんの姿がなかった。@kそれで、てっきりお互い共働きは大変だな、と気遣うつもりで尋ねたんだけど、……あとですごく、後悔した。",
-		"TextENG": "On the day she was invited over for dinner to thank her for the Randy doll, Rena's mother was not at home until late at night.@k So I asked her if it was hard for both of us to work together, with the intention of caring for her. ......Later, I regretted it very much."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 84472,
 		"TextJPN": "…お母さんがいないのは、離婚だとレナは言っていた。@k……後になってこっそり魅音に問いただすと、やはりそのことを知っていて、事実だと教えてくれた。",
-		"TextENG": "Rena said that her mother's absence was because of a divorce.@k Later, when I secretly asked Mion, she knew that and told me that it was a fact."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -888,7 +888,7 @@
 		"type": "MSGSET",
 		"MessageID": 84474,
 		"TextJPN": "…そんな日々を送っているレナを、俺は傷つけてしまったんじゃないだろうか……？",
-		"TextENG": "I wonder if I've hurt Rena's feelings in those days...?"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -897,13 +897,13 @@
 		"PreTextTags": "@vS09/03/170300111_1.",
 		"TextJPN": "「……圭ちゃんは知らなかったんだから、仕方がないよ。@k@vS09/03/170300111_2.でも、次からは気遣ってあげようね」",
 		"NamesENG": "Mion",
-		"TextENG": "``...Kei-chan didn't know, so it can't be helped.@k@vS09/03/170300111_2. But from now on, let's be careful.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 84476,
 		"TextJPN": "そう言って、魅音が元気付けてくれなかったら、俺はしばらくそのことをずっと、引きずったままだったと思う。",
-		"TextENG": "If it hadn't been for Mion cheering me up, I think I would have kept dwelling on it for a while."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

@@ -534,7 +534,7 @@
 		"PreTextTags": "@vS12/06/SHIO081403.",
 		"TextJPN": "「沙都子の身に何かあった後じゃないと手が打てないなんて、そんなの方法じゃない！！@k@vS12/06/180600071.　止めなきゃ！@k@vS12/06/180600072.　私たちの手で自ら止めなきゃ！！！」",
 		"NamesENG": "Shion",
-		"TextENG": "That's not the way to do it if you can't take action until after something happens to Satoko!@k@vS12/06/180600071. You need to stop it!@k@vS12/06/180600072. We have to stop this ourselves!!!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -684,7 +684,7 @@
 		"type": "MSGSET",
 		"MessageID": 103400,
 		"TextJPN": "それだけに、たとえ昨日の今日であっても、決して性急に過ぎるということはないのかもしれない。",
-		"TextENG": "For that reason, even if it was day earlier, it may never be too hasty."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

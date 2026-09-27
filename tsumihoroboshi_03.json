@@ -645,25 +645,25 @@
 		"type": "MSGSET",
 		"MessageID": 82182,
 		"TextJPN": "……ふと以前、レナにお母さんのことについて訊ねたときのことを思い出す。",
-		"TextENG": "I remember when I asked Rena about her mother before."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 82183,
 		"TextJPN": "確かレナ、ご両親が離婚してお母さんとは一緒に住んでいないんだっけ。@k……ちょっとした疑問から気軽に聞いてしまって、あとでずいぶん後悔したもんだ。",
-		"TextENG": "As I recall, Rena's parents are divorced and she don't live with her mother.@k I casually asked a question that I later regretted a lot."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 82184,
 		"TextJPN": "……事情は良くわからないが、おそらく親御さんにも色々と都合があったんだろう。@kそれに、レナもあの時はあっさりと打ち明けていたから、俺が考えるほどには重い話でもないのかもしれない。",
-		"TextENG": "...I'm not sure what happened, but I'm guessing that her parents had a lot on their plate.@k Besides, Lena confided easily at that time, so it may not be as serious as I think."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 82185,
 		"TextJPN": "ただ、それを考えるとレナのいう『仲良し夫婦』の言葉には、それがどれだけ貴重で価値のあるものかの@bがんちく.@<含蓄@>があって、……俺は、いつも返すような気安い冗談を口にする気にはなれなかった。",
-		"TextENG": "However, when I think about it, Rena's words about ``a close couple`` have connotations of how precious and valuable they are... I couldn't bring myself to make the casual jokes that I usually returned."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -677,19 +677,19 @@
 		"type": "MSGSET",
 		"MessageID": 82187,
 		"TextJPN": "いや、……よそう。@kレナがそうと俺たちには見せていない、あるいは見せようとしていない以上、よけいな気遣いは無用だ。",
-		"TextENG": "Yeah, I need to stop.@k As long as Rena hasn't shown us that she has issues with them, or isn't going to, there's no need to worry about it."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 82188,
 		"TextJPN": "それよりもむしろ、この日この一瞬を愉快にワイワイと、――嫌なことなんてぱーっと忘れるくらい盛大に騒ぎあったほうが、レナだってずっと楽しいと感じてくれるに違いない。",
-		"TextENG": "Rather than that, I'm sure that Rena would feel much more happy if we spent this day and this moment in a joyful way, making so much noise that she would forget all the unpleasant things."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 82189,
 		"TextJPN": "そう思い直して俺は、興宮まで自転車を並走させながら、レナと馬鹿話で盛り上がるのだった。",
-		"TextENG": "With that thought in mind, I rode my bike alongside her to Okinomiya and talked about stupid things with Rena."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -860,7 +860,7 @@
 		"PreTextTags": "@vS09/00/manG17001.",
 		"TextJPN": "「お…俺はこのお米券でどぉだぁぁあっー！！」",
 		"NamesENG": "Man",
-		"TextENG": "``W-What you will say about rice coupons?!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -878,7 +878,7 @@
 		"PreTextTags": "@vS09/00/manB17003.",
 		"TextJPN": "「お百姓さんの血と汗と涙の結晶をなんと心得るかッ！」",
 		"NamesENG": "Man",
-		"TextENG": "``What do you think of the blood, sweat, and tears of the peasants?!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -887,7 +887,7 @@
 		"PreTextTags": "@vS09/00/manC17002.",
 		"TextJPN": "「お米券は使ってこそ意味があって」",
 		"NamesENG": "Man",
-		"TextENG": "``Rice vouchers only mean something if you eat it.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -896,7 +896,7 @@
 		"PreTextTags": "@vS09/00/manD17002.",
 		"TextJPN": "「人に渡すものではないのだこの激モンキー！！」",
 		"NamesENG": "Man",
-		"TextENG": "``It's not something you give to people, you fierce monkey!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

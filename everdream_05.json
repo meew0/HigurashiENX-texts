@@ -291,13 +291,13 @@
 		"type": "MSGSET",
 		"MessageID": 2169,
 		"TextJPN": "それを、外科的手段で解決できるのだとしたらそれがどれほど画期的でしかも有用性の高いものであるのか、説明するまでもないだろう。",
-		"TextENG": "I don't have to explain how revolutionary and useful it would be if we could solve this problem through surgical means."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 2170,
 		"TextJPN": "しかし、当然のことながら脳への物理的な干渉は、患者には取り返しのつかない大きな変化が起こることが少なくなかった。",
-		"TextENG": "But of course, physical interference with the brain often resulted in irreversible and significant changes in the patient."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

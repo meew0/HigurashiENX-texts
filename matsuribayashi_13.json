@@ -592,7 +592,7 @@
 		"PreTextTags": "@vS13/06/DS41060015.",
 		"TextJPN": "「え？　あはははっ、自作の歌です。@k@vS13/06/DS41060016.昨日お風呂で浮かんで、…いい歌詞だと思うんだけどなぁ～」",
 		"NamesENG": "Shion",
-		"TextENG": "``Huh? Ahahaha. I wrote it myself. @k@vS13/06/DS41060016. It came to me in the bath yesterday, and I think it's great lyrics~!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -601,7 +601,7 @@
 		"PreTextTags": "@vS13/15/DS41140002.",
 		"TextJPN": "「すみません。@k@vS13/15/DS41140003.音楽には疎いもんで。@k@vS13/15/DS41140004.……ん？」",
 		"NamesENG": "Kasai",
-		"TextENG": "``My apologies.@k@vS13/15/DS41140003. I'm rather ignorant when it comes to music.@k@vS13/15/DS41140004. ......Hmm?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -4825,7 +4825,7 @@
 		"type": "MSGSET",
 		"MessageID": 119253,
 		"TextJPN": "まとっていた上着、そして帽子を脱ぎ捨てながら。",
-		"TextENG": "He took off his jacket and hat."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -5160,7 +5160,7 @@
 		"type": "MSGSET",
 		"MessageID": 119300,
 		"TextJPN": "その時、さらに複数の足音が赤坂たちのもとへと近づいてくる。",
-		"TextENG": "At that moment, several more footsteps approached Akasaka and the others."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -5196,13 +5196,13 @@
 		"type": "MSGSET",
 		"MessageID": 119305,
 		"TextJPN": "…しかし、赤坂は表情ひとつ変えず、その新手に向き直って拳を固めた。",
-		"TextENG": "However, Akasaka didn't change his expression and turned to face the newcomers, hardening his fists."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 119306,
 		"TextJPN": "その背後に梨花を庇いながら、…悠然とした姿で。",
-		"TextENG": "He protected Rika behind him with his leisurely figure."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

@@ -9,7 +9,7 @@
 		"type": "MSGSET",
 		"MessageID": 104745,
 		"TextJPN": "俺たちの陳情の成果か、今日は沙都子が登校した。",
-		"TextENG": "Perhaps as a result of our lobbying, Satoko came to school today."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1437,7 +1437,7 @@
 		"type": "MSGSET",
 		"MessageID": 104935,
 		"TextJPN": "医者が要入院って言ったら、普通は身体のどこかに問題があるってことだ。",
-		"TextENG": "If the doctor tells her to stay, it means that she has a problem somewhere in her body."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

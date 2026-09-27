@@ -51,7 +51,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "秘匿捜査指定第１６８号事件について",
 		"AfterTextTags": "@|@y",
-		"TextENG": "Regarding incident 168 designated as undercover investigation"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -131,6 +131,6 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "なお、当該容疑者は先日７月４日、留置場内にて死亡したことを追記する。",
 		"AfterTextTags": "@|@y",
-		"TextENG": "In addition, there is a postscript stating that suspect ___ ___ died while in confinement yesterday on July 7th."
+		"TextENG": ""
 	}
 ]

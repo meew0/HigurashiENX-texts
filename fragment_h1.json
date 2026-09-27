@@ -171,13 +171,13 @@
 		"type": "MSGSET",
 		"MessageID": 7765,
 		"TextJPN": "俺の言葉を聞いて、おやじはそうか、と笑顔で頷く。",
-		"TextENG": "Hearing my words, the old man nodded with a smile, ``I see.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 7766,
 		"TextJPN": "……元々、俺をこういった学校に通わせたいと強弁していただけに、ほっとした表情だった。",
-		"TextENG": "He looked relieved, as he had originally insisted on sending me to this kind of school."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

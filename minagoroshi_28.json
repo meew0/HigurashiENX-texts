@@ -366,7 +366,7 @@
 		"PreTextTags": "@vS12/11/280700253.",
 		"TextJPN": "「あー、車両ナンバー照会をお願いします。@k@vS12/11/280700254.鹿骨、はの４３４４」",
 		"NamesENG": "Ooishi",
-		"TextENG": "``I need a license number scanned.@k@vS12/11/280700254. Shishibone @bHa.@<は@> 43-44.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -375,7 +375,7 @@
 		"PreTextTags": "@vS12/00/VTP_OkeijiA_2002.",
 		"TextJPN": "『復唱、鹿骨、はの４３４４。@k@vS12/00/VTP_OkeijiA_2003.少々お時間もらいますがよろしいですかー？』",
 		"NamesENG": "Okinomiya PS",
-		"TextENG": "``That's Shishibone @bHa.@<は@> 43-44?@k@vS12/00/VTP_OkeijiA_2003. It might take a while.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

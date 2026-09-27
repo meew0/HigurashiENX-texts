@@ -2372,7 +2372,7 @@
 		"type": "MSGSET",
 		"MessageID": 86321,
 		"TextJPN": "しばらくの間、その場に立ち尽くしているうちに動悸も静まって、……頭も冷えてゆく。",
-		"TextENG": "For a while, as I was standing, my heart palpitations subsided... and my head got cold."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2384,43 +2384,43 @@
 		"type": "MSGSET",
 		"MessageID": 86323,
 		"TextJPN": "レナの危惧は、色々とありすぎたおかげで精神的にまいっていることから出た妄想だって、さっき自分でも思ったばかりじゃないか。",
-		"TextENG": "I just thought to myself that Rena's fears were delusions of grandeur due to the fact that she was mentally unwell thanks to too much going on."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 86324,
 		"TextJPN": "ワゴン車の男の言葉を@bはんすう.@<反芻@>する。……確かに、見ず知らずなのにいきなり声をかけられて驚いたが、別に変な質問をしていたわけじゃない。",
-		"TextENG": "I ruminate on the words of the man from the van. ......Sure, I was surprised to be approached out of the blue by a complete stranger, but it wasn't like he was asking any strange questions."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 86325,
 		"TextJPN": "俺だって道を歩いていて、……後ろにいると思っていた女の子が突然男に変わっていたら、さすがに口には出さずとも『あれ？』と思っただろう。",
-		"TextENG": "If I was walking down the street and the girl I thought was behind me suddenly changed to a guy... I would have been surprised."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 86326,
 		"TextJPN": "そういえばあの男、……口ぶりからしてもなれなれしい感じだった。",
-		"TextENG": "By the way... that guy seemed to be very friendly, even the way he talked."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 86327,
 		"TextJPN": "だから、暇つぶしのつもりで気さくに話しかけてみたのだけど、俺に妙な顔で見返されて、……なんとなく居づらくなっただけなんだと思う。",
-		"TextENG": "So he tried to talk to me in a friendly way to pass the time, but I think he just looked back at me with a strange look and felt somewhat uncomfortable being here."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 86328,
 		"TextJPN": "そうだ、……それだけだ。別に気にすることなんて、ない。",
-		"TextENG": "Yes...... that's it. There's nothing to worry about."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 86329,
 		"TextJPN": "そう考え直すとなんだか気持ちが少しだけ軽くなった気分がして、俺は家への帰路を再び歩きはじめた。",
-		"TextENG": "As I reconsidered this, I felt a little lighter and started walking home again."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2432,6 +2432,6 @@
 		"type": "MSGSET",
 		"MessageID": 86331,
 		"TextJPN": "俺は我に返ると、家に向かって走り出す。一刻も早く、このことをレナにも伝えないと……！！",
-		"TextENG": "I come to my senses and start running towards home. I have to tell Rena about this as soon as possible...!!"
+		"TextENG": ""
 	}
 ]

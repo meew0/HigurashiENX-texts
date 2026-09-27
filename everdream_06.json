@@ -2907,49 +2907,49 @@
 		"type": "MSGSET",
 		"MessageID": 2777,
 		"TextJPN": "…警察へ行こう。",
-		"TextENG": "...Let's go to the police."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 2778,
 		"TextJPN": "警察に逃げ込んで、高野先生が来るのを待とう。",
-		"TextENG": "Let's run to the police and wait for Dr. Takano to come."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 2779,
 		"TextJPN": "施設は、私が逃げたとは言わないかもしれない。",
-		"TextENG": "The facility might not say that I escaped."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 2780,
 		"TextJPN": "…でも、本気で探してくれたのならばいつかは警察へとたどり着くはずだ。",
-		"TextENG": "But if they were serious about looking for me, they would get to the police someday."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 2781,
 		"TextJPN": "そこで改めて、自分が保護されていることを伝えればいい…。",
-		"TextENG": "So again I can tell them that he will protect me."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 2782,
 		"TextJPN": "…でも、その警察はどこにあるのか。",
-		"TextENG": "...But where is the police?"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 2783,
 		"TextJPN": "ここがどこかを示すものは何もなく、派出所はおろか、逃げ出してきた施設がどちらの方向かすらわからない。",
-		"TextENG": "There was nothing to indicate where I was, not even which direction the facility I had escaped from was in, let alone the police station."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 2784,
 		"TextJPN": "そもそも、この付近に警察があったことすら、わからない。",
-		"TextENG": "In the first place, I don't even know that there was a police force in this neighborhood."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2973,7 +2973,7 @@
 		"type": "MSGSET",
 		"MessageID": 2788,
 		"TextJPN": "人を見つけ、道を尋ね、逃げ込める場所を目指そう。",
-		"TextENG": "Find people, ask for directions, and aim for a place where I can escape."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -3027,19 +3027,19 @@
 		"type": "MSGSET",
 		"MessageID": 2797,
 		"TextJPN": "これが最後だ。",
-		"TextENG": "This is the last time."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 2798,
 		"TextJPN": "神様にすがる、なんて気の弱い心構えじゃない。",
-		"TextENG": "I'm not in a feeble frame of mind to rely on God."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 2799,
 		"TextJPN": "これは、さっきと同じ賭けであり、勝負であり、――戦いなのだ。",
-		"TextENG": "This is the same bet, the same game... the same battle as before."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -3057,13 +3057,13 @@
 		"type": "MSGSET",
 		"MessageID": 2802,
 		"TextJPN": "私のもがき苦しむ様子が、自らの優越を感じさせるものであるのなら。",
-		"TextENG": "If only my struggling could give me a sense of my own superiority."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 2803,
 		"TextJPN": "私のあがいてのた打ち回る姿を、少しでも愉快だと思うのなら。",
-		"TextENG": "If you think my struggling and thrashing around is even remotely amusing..."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -3075,13 +3075,13 @@
 		"type": "MSGSET",
 		"MessageID": 2805,
 		"TextJPN": "いつまでも、お前が飽きるまで私はここで、力の限り踊り続けてやる。",
-		"TextENG": "I will stay here and dance as hard as I can until you get tired of it."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 2806,
 		"TextJPN": "だから、泣くものか。",
-		"TextENG": "So, I'm not going to cry."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -3105,6 +3105,6 @@
 		"type": "MSGSET",
 		"MessageID": 2810,
 		"TextJPN": "泣いてなんか、やるものかッッ……！！",
-		"TextENG": "I'm not going to cry...!!"
+		"TextENG": ""
 	}
 ]

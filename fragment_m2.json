@@ -35,7 +35,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "２．場所@r茨城県■■市内■■中学校",
 		"AfterTextTags": "@|@y",
-		"TextENG": "2. Location@rIbaraki prefecture, ■■ city, ■■ junior high."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -43,7 +43,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "３．概要@r近隣の住民から、■■中学校敷地内にて生徒たちの悲鳴と何かを壊す音が聞こえる、との通報が茨城県警察本部の通信指令室へともたらされた。",
 		"AfterTextTags": "@|@y",
-		"TextENG": "3. Overview@rA local resident submitted a report to Ibaraki prefectural police HQ's communications center, stating that they had heard students screaming and the sound of something breaking on the premises of ■■ junior high."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -115,7 +115,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "４．被害@r被害者は計５名。男子生徒３名が重傷、ほか女子生徒１名と体育教師１名が軽傷。",
 		"AfterTextTags": "@|@y",
-		"TextENG": "4. Damage@rThere were five victims in total. In addition to the three boys who were seriously injured, one female student and one PE teacher suffered mild injuries."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -123,7 +123,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "５．聴取@r少年係捜査員の取り調べに対し、Ａは一切の発言を拒否。事件にかかわる質問のほか、世間話などの話題に対しても完全黙秘を貫く。",
 		"AfterTextTags": "@|@y",
-		"TextENG": "5. Questioning@rStudent A refused to make any statement while being questioned by the youth department investigator. In addition to questions about the incident, she even kept quiet on topics of mundane small talk."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -155,7 +155,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "６．補足@r事件発生についての原因・理由は、全くの不明。カウンセリングからはＡの家庭および勉学上のストレスによるものとの診断が下されたが、確証は得られず。",
 		"AfterTextTags": "@|@y",
-		"TextENG": "6. Addendum@rThe cause and motive for the incident is still unknown. The counseling physician suggested that it may be due to stress in family life and academics, but no confirmation was ever obtained."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

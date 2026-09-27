@@ -19,7 +19,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "１．発生@r昭和５８年６月２５日正午頃",
 		"AfterTextTags": "@|@y",
-		"TextENG": "1. Occurrence@rJune 25th, 1983, around noon."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -27,7 +27,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "２．場所@r鹿骨市雛見沢村　営林署雛見沢事務所内",
 		"AfterTextTags": "@|@y",
-		"TextENG": "2. Location@rHinamizawa village, of Shishibone City. Hinamizawa forest services building."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -35,7 +35,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "３．概要@r６月２５日正午頃、犯人は営林署雛見沢事務所に侵入。同事務所内の雛見沢分校、教室に押し入り、生徒２５名を人質にとった。",
 		"AfterTextTags": "@|@y",
-		"TextENG": "3. Overview@rAround noon on June 25th, the culprit invaded the Hinamizawa forest services building. She broke into the Hinamizawa branch school classroom, which was in that same building, and took 25 students hostage."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -67,7 +67,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "４．被害@r負傷者は４名。男子生徒１名と女子生徒３名で、いずれも軽傷の模様。",
 		"AfterTextTags": "@|@y",
-		"TextENG": "4. Damage@rFour people were injured. One boy and three girls, all with minor injuries."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -75,7 +75,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "５．犯人@r計画・実行犯は雛見沢分校に通う女子生徒、竜宮礼奈。",
 		"AfterTextTags": "@|@y",
-		"TextENG": "5. The culprit@rAll planning and execution of this crime was done by a female student who attends the Hinamizawa branch school, Reina Ryuugu."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -83,7 +83,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "６．経過@r即日、身柄を興宮署に移し事情聴取。犯行を大筋で認めた。",
 		"AfterTextTags": "@|@y",
-		"TextENG": "6. Proceedings@rThe suspect was taken to Okinomiya station that same day for interrogation. She admitted to the crime."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

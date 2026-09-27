@@ -69,7 +69,7 @@
 		"PreTextTags": "@vS13/00/550200003.",
 		"TextJPN": "「ふむ…！　やはりな。@k@vS13/00/550200004.こっちも興味深い論文を見つけたところだ。@k@vS13/00/550200005.精神外科と文化についてまとめたものでな。@k@vS13/00/550200006.前頭葉に宿主とは別の意思を持った存在があることを予見したものだ」",
 		"NamesENG": "Hifumi",
-		"TextENG": "``Hmm...! That's exactly what I expected.@k@vS13/00/550200004. There's an intriguing treatise over here too.@k@vS13/00/550200005. It discusses psychosurgery and civilization.@k@vS13/00/550200006. It also predicts the existence of separate entity that inhabits the frontal lobe.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -96,7 +96,7 @@
 		"PreTextTags": "@vS13/00/550200010.",
 		"TextJPN": "「その脳に特定の干渉をするナノ単位の生命体の集合が存在し、ある命令系統を持つひとつのコロニーに関与したならば、@k@vS13/00/550200011.そのコロニーに集まる情報信号は、本体の意思とは異なるものへと変化する」",
 		"NamesENG": "Hifumi",
-		"TextENG": "If microorganisms capable of acting on that organ did exist and spread to create a colony,@k@vS13/00/550200011. then that colony's thoughts would be unified.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -105,7 +105,7 @@
 		"PreTextTags": "@vS13/48/550100005.",
 		"TextJPN": "「ということは、自分で抑圧できない感情が生まれるのは、微生物のようなものが信号に影響を与えているから？」",
 		"NamesENG": "Miyoko",
-		"TextENG": "``So are microorganisms the cause of the spread of ideology?"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -114,7 +114,7 @@
 		"PreTextTags": "@vS13/48/550100006.",
 		"TextJPN": "「それじゃ国家レベルの紛争は、異なる生命体同士がさらなる宿主を求めて自分の生息圏を拡大するために、宿主自身を動かしているということ？」",
 		"NamesENG": "Miyoko",
-		"TextENG": "When ideologies clash, is that because different microorganisms are competing to expand their habitat?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -123,7 +123,7 @@
 		"PreTextTags": "@vS13/00/550200012.",
 		"TextJPN": "「あるいは、教育の分布か、国境の分布か、人種の分布か」",
 		"NamesENG": "Hifumi",
-		"TextENG": "``That, or... to expand teachings, to expand national borders, or to expand a race."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -132,7 +132,7 @@
 		"PreTextTags": "@vS13/00/550200013.",
 		"TextJPN": "「我々の世界の異なる文化コミュニティの存在とその対立の一因は、そういった人の思想に影響を及ぼす微細な生命体の存在にあると仮定している」",
 		"NamesENG": "Hifumi",
-		"TextENG": "It's hypothesized that our differing cultural communities and their conflict are the result of microorganisms influencing human thoughts.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -150,7 +150,7 @@
 		"PreTextTags": "@vS13/00/550200014.",
 		"TextJPN": "「もちろんいるとも。@k@vS13/00/550200015.可視不可視を問わず地球上には無数の生命体がいて、その中には宿主の体内に潜伏して共存し、時には宿主を支配したりすることが広く知られている」",
 		"NamesENG": "Hifumi",
-		"TextENG": "``Of course there are.@k@vS13/00/550200015. There are countless microorganisms on this Earth, and it's well known that some coexist with their hosts and some control their hosts."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -159,7 +159,7 @@
 		"PreTextTags": "@vS13/00/550200016.",
 		"TextJPN": "「そして実際に、人体内にその存在をたくさん発見してもいる。@k@vS13/00/550200017.…にも拘らず、人体に潜伏し、その宿主を支配する生命体の存在については頑なに否定してきた。@k@vS13/00/550200018.仮定すらも含めてな」",
 		"NamesENG": "Hifumi",
-		"TextENG": "We've also discovered plenty of microorganisms that infect humans.@k@vS13/00/550200017. ...Yet despite that, we adamantly deny the possibility that microorganisms could infect humans and control their hosts.@k@vS13/00/550200018. Even the hypothesis of such a thing.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -195,7 +195,7 @@
 		"PreTextTags": "@vS13/48/550100010.",
 		"TextJPN": "「悪い思想や文化が蔓延するのを説得や教育ではなく、病理学に基づいた治療によって防止する…。@k@vS13/48/550100011.それが、どうして恐ろしいの？」",
 		"NamesENG": "Miyoko",
-		"TextENG": "``Prevent the spread of bad ideas and culture not by persuasion or education, but by treatment based on pathology...@k@vS13/48/550100011. Why is it frightening?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -204,7 +204,7 @@
 		"PreTextTags": "@vS13/00/550200021.",
 		"TextJPN": "「中世の歴史に登場するペストなどを想像しなさい」",
 		"NamesENG": "Hifumi",
-		"TextENG": "``Imagine a plague or other disease from medieval history."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -240,7 +240,7 @@
 		"PreTextTags": "@vS13/00/550200028.",
 		"TextJPN": "「思想を病気と置き換えなさい。@k@vS13/00/550200029.完治するまで退院させない、触れた物は感染の疑いがあるから全て焼き捨てる、家族にも感染の疑いがあるから強制入院、@k@vS13/00/550200030.――結局は同じことだ」",
 		"NamesENG": "Hifumi",
-		"TextENG": "``Replace an idea with a disease.@k@vS13/00/550200029. Patients won't be released until they completely recover. People burn everything that may have been touched by the patient. They force the patient's family to go to the hospital.@k@vS13/00/550200030. The rest is the same.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -249,7 +249,7 @@
 		"PreTextTags": "@vS13/00/550200031.",
 		"TextJPN": "「『入院』という言葉が『弾圧』に変わっただけの話だよ」",
 		"NamesENG": "Hifumi",
-		"TextENG": "``It's just that the word 'hospitalization' has been changed to 'oppression'.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -267,7 +267,7 @@
 		"PreTextTags": "@vS13/00/550200032.",
 		"TextJPN": "「そうだ。@k@vS13/00/550200033.しかし人間の思想が、感染能力を持ったある種の生命体によって生み出されていると仮定した場合、ペストとまったく同じ意味になるのだよ」",
 		"NamesENG": "Hifumi",
-		"TextENG": "``Yes.@k@vS13/00/550200033. If an idea was created by microorganisms, it would be exactly the same as a plague."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -294,7 +294,7 @@
 		"PreTextTags": "@vS13/00/550200035.",
 		"TextJPN": "「そういうことだ。@k@vS13/00/550200036.この考えを延長すると、無差別、そして無秩序な大量虐殺が起こる」",
 		"NamesENG": "Hifumi",
-		"TextENG": "``That's right.@k@vS13/00/550200036. If we bring this to its logical conclusion, microorganisms could be responsible for mass murders of people belonging to different races or religions."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -303,7 +303,7 @@
 		"PreTextTags": "@vS13/00/550200037.",
 		"TextJPN": "「…そうすると、人類は大規模な粛清を肯定してしまう論調になりかねん。@k@vS13/00/550200038.だから、脳内で宿主を支配する生命体を語ることは、今の時代ではタブーになっているのだ」",
 		"NamesENG": "Hifumi",
-		"TextENG": "...But this can be seen as justifying genocide.@k@vS13/00/550200038. Therefore, talking about microorganisms in brains is considered taboo today.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -321,7 +321,7 @@
 		"PreTextTags": "@vS13/00/550200039.",
 		"TextJPN": "「触れてはならない、考えてもならないということだな。@k@vS13/00/550200040.だから、誰も研究せん。@k@vS13/00/550200041.いや、それどころか、脳内に侵入し、影響を及ぼす存在がいると考えることすら忘れられている」",
 		"NamesENG": "Hifumi",
-		"TextENG": "``It means something people shouldn't get involved with.@k@vS13/00/550200040. That's why nobody researches these things.@k@vS13/00/550200041. Nobody even remembers anything about microorganisms that live in the brain."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -330,7 +330,7 @@
 		"PreTextTags": "@vS13/00/550200042.",
 		"TextJPN": "「…万物の長たる霊長類を支配する未知の生命体などいるはずがないと頭から決め付けている」",
 		"NamesENG": "Hifumi",
-		"TextENG": "They assume that microorganisms which control humans simply don't exist.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -357,7 +357,7 @@
 		"PreTextTags": "@vS13/48/550100021.",
 		"TextJPN": "「あはははは。@k@vS13/48/550100022.何だか、脳を支配する生命体が、自分たちの存在を秘密にするために、その宿主の人間たちを操っているみたい」",
 		"NamesENG": "Miyoko",
-		"TextENG": "``Ahahahaha.@k@vS13/48/550100022. It's almost as if the microorganisms in the brain are controlling people so that they can keep their own existence a secret.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -381,7 +381,7 @@
 		"PreTextTags": "@vS13/00/550200050.",
 		"TextJPN": "「人とてあらゆる微生物やウィルスに支配されうるのだ。@k@vS13/00/550200051.その存在が、今日まで発見されていないからと言って、それを以って存在しないという証拠にはならん」",
 		"NamesENG": "Hifumi",
-		"TextENG": "Humans can be controlled by microorganisms and viruses.@k@vS13/00/550200051. Just because the existence of such microorganisms hasn't been proven doesn't mean they don't exist."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -525,7 +525,7 @@
 		"PreTextTags": "@vS13/00/550200063.",
 		"TextJPN": "「お前は、神様というものをどのように考えている？」",
 		"NamesENG": "Hifumi",
-		"TextENG": "``What do you think about god?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -534,7 +534,7 @@
 		"PreTextTags": "@vS13/48/550100030.",
 		"TextJPN": "「えっと、そうだね。@k@vS13/48/550100031.信じるものは救われる、なんて教えを街角で聞いたことはあるけど」",
 		"NamesENG": "Miyoko",
-		"TextENG": "``Yeah.@k@vS13/48/550100031. I've heard on street corners that those who believe in him will be saved."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -543,7 +543,7 @@
 		"PreTextTags": "@vS13/48/550100032.",
 		"TextJPN": "「…実際のところ、どうなんだろ。@k@vS13/48/550100033.さっきの悪魔と一緒で、いないことが証明できないからとりあえず『いる』って信じるしかないけど」",
 		"NamesENG": "Miyoko",
-		"TextENG": "How is it really?@k@vS13/48/550100033. Just like the devil, I can't prove that he's not there, so I'll just have to believe that he is.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -552,7 +552,7 @@
 		"PreTextTags": "@vS13/00/550200064.",
 		"TextJPN": "「ふむ、なるほど。@k@vS13/00/550200065.しかし、神の存在を教えて回ったかつての預言者たちは、そうは答えなかった。@k@vS13/00/550200066.『いる』と信じ続けることで、その存在は本物へと昇華されてゆくと説いたのだよ」",
 		"NamesENG": "Hifumi",
-		"TextENG": "``Hmm, I see.@k@vS13/00/550200065. But the prophets who went around telling people that god existed did not answer that way.@k@vS13/00/550200066. They said that if you continue to believe that there is such a thing, it will be sublimated to the real thing.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -561,7 +561,7 @@
 		"PreTextTags": "@vS13/48/550100034.",
 		"TextJPN": "「…どうして？@k@vS13/48/550100035.　実際に『いる』ってことが証明されない限り、それが嘘か本当かなんて誰にもわからないじゃない」",
 		"NamesENG": "Miyoko",
-		"TextENG": "``...Why?@k@vS13/48/550100035. Unless it's proven to be true, who knows if it's a lie or not?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -570,49 +570,49 @@
 		"PreTextTags": "@vS13/00/550200067.",
 		"TextJPN": "「はははは、それは確かにそうだが。@k@vS13/00/550200068.つまり彼らは、大切なのは神という不可思議の存在を確かめることではなく、@k@vS13/00/550200069.神の存在を信じて言動を律する節度そのものなのだ、と伝えたかったのだよ」",
 		"NamesENG": "Hifumi",
-		"TextENG": "``Hahahaha, that's true.@k@vS13/00/550200068. In other words, they wanted to tell us that it is not the confirmation of the mysterious existence of god that is important,@k@vS13/00/550200069. but the moderation of our words and deeds in the belief of god's existence.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 1535,
 		"TextJPN": "ほとんどの預言者たちは、当時の支配者によって疎まれ、追放されたり命を狙われたりもした。",
-		"TextENG": "Most of the prophets were marginalized by the rulers of the time and were even exiled or threatened with death."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 1536,
 		"TextJPN": "だが、彼らは神を信じ続けて言動を律し、救いを乞う人々に手を差し伸べては彼らに希望と、幸福を説くことをやめなかった。",
-		"TextENG": "However, they continued to believe in god, disciplined their words and actions, and did not stop reaching out to those who begged for help and preaching hope and happiness to them."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 1537,
 		"TextJPN": "その結果、神を信じる人々はいつか、自分たちが絶望と苦悩から解放されることを期待して邪心を捨て、苦境からの脱却に力を振り絞っていった。",
-		"TextENG": "As a result, those who believed in god gave up their evil thoughts in the hope that one day they would be freed from their despair and suffering, and exerted themselves to get out of their predicament."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 1538,
 		"TextJPN": "そうして、正しく導かれようとする人々は自らの幸せをその手にすることができたのだ。",
-		"TextENG": "In this way, those who tried to be rightly guided could take their own happiness into their own hands."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 1539,
 		"TextJPN": "それこそがつまり、神による正しき導きの結果。",
-		"TextENG": "That is the result of righteous guidance by god."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 1540,
 		"TextJPN": "信仰する人々の心の中に神は宿る。",
-		"TextENG": "God dwells in the hearts of those who believe."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 1541,
 		"TextJPN": "その時、神という存在はすでに地上にはない。",
-		"TextENG": "There was no god on earth."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -624,7 +624,7 @@
 		"type": "MSGSET",
 		"MessageID": 1543,
 		"TextJPN": "……つまり、神が絶対の存在となって復活した瞬間なのだ。",
-		"TextENG": "In other words, in that moment god resurrected as an absolute being."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -633,7 +633,7 @@
 		"PreTextTags": "@vS13/00/550200070.",
 		"TextJPN": "「だから、強くいつまでも、信じ続けることが必要なんだ」",
 		"NamesENG": "Hifumi",
-		"TextENG": "``That's why we need to stay strong and keep on believing.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -642,7 +642,7 @@
 		"PreTextTags": "@vS13/00/550200071.",
 		"TextJPN": "「たとえ死後であっても、同じように信じてくれる人々によって正当な評価を受けられたなら。@k@vS13/00/550200072.その偉業は必ずや蘇る」",
 		"NamesENG": "Hifumi",
-		"TextENG": "``Even after death, the feat will surely come back if it is justified@k@vS13/00/550200072. by like-minded people.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -798,7 +798,7 @@
 		"type": "MSGSET",
 		"MessageID": 1566,
 		"TextJPN": "私たちが求めるのは、人体に潜む未知の生命体が本体の意思と行動を支配するかもしれない可能性という、本当にささやかなものなのだ。",
-		"TextENG": "He was only searching for the possibility that microorganisms could be responsible for human behavior. Nothing more than that."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -822,7 +822,7 @@
 		"type": "MSGSET",
 		"MessageID": 1570,
 		"TextJPN": "中部地方の一都市、と呼ぶにはあまりにも小さな寒村である鹿骨市、雛見沢。",
-		"TextENG": "Hinamizawa Village, Shishibone City, is too small a village to be called a city in the Chubu region."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -870,7 +870,7 @@
 		"type": "MSGSET",
 		"MessageID": 1578,
 		"TextJPN": "それらの多くの病原の正体が判明し、忌避されがちだった分野が、にわかに脚光を浴び始めているところだった。",
-		"TextENG": "Most of them were caused by infectious microorganisms, and people started to pay attention to this forgotten field of study."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

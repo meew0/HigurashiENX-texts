@@ -19,7 +19,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "１．発生@r昭和５８年８月◯日",
 		"AfterTextTags": "@|@y",
-		"TextENG": "1. Occurrence@rAugust X, 1983."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -27,7 +27,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "２．場所@r愛知県垣内市内垣内ＳＡ",
 		"AfterTextTags": "@|@y",
-		"TextENG": "2. Location@rKakiuchi Service Area, Kakiuchi City, Aichi Prefecture."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -35,7 +35,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "３．概要@r愛知県警察本部の通信指令室に、公衆電話回線による１１０番通報が入る。",
 		"AfterTextTags": "@|@y",
-		"TextENG": "3. Overview@rThe incident was reported to the communications center of Aichi prefectural police headquarters from a public telephone line."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -131,7 +131,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "４．審議@rしかし、数ヶ月後に行われた一審では、男は容疑を一転して否認。",
 		"AfterTextTags": "@|@y",
-		"TextENG": "4. Deliberation@rHowever, the man changed course and denied all charges at the trial a few months later."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

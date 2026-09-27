@@ -990,13 +990,13 @@
 		"type": "MSGSET",
 		"MessageID": 81608,
 		"TextJPN": "でも今からだと取り寄せになると言われて、なんとかならないかとしつこく粘ってみたものの、結局ダメだったのだ。",
-		"TextENG": "But I was told that it would have to be ordered and I needed it now, so I persisted in trying to find a way to get it, but in the end it was no use."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 81609,
 		"TextJPN": "…それでも、おもちゃ屋のおじさんがうっかり不用意にもらした一言、",
-		"TextENG": "And yet, the toy store man inadvertently let slip something valuable..."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1005,13 +1005,13 @@
 		"PreTextTags": "@vS09/00/VX_yoshiro_0001.",
 		"TextJPN": "「店にもひとつあったんだけど、昨日魅音ちゃんが買っていってね…」",
 		"NamesENG": "Yoshirou",
-		"TextENG": "``There was one in the store, but Mion-chan bought it yesterday ...``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 81611,
 		"TextJPN": "それを聞いて、魅音のたくらみを事前に知ることができただけでも、実に幸運だったと思う。",
-		"TextENG": "I think I was very fortunate to have been able to hear that and know in advance what Mion was up to."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1023,7 +1023,7 @@
 		"type": "MSGSET",
 		"MessageID": 81613,
 		"TextJPN": "しかし、それが事前にバレてしまったら皆から非難されて使用不可になると思い、スタートまでどこかに隠していやがったというわけだ。",
-		"TextENG": "However, I thought that if people found out about it in advance, they would blame her and she would not use it, so I hid this information."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1275,13 +1275,13 @@
 		"type": "MSGSET",
 		"MessageID": 81652,
 		"TextJPN": "物陰から顔を半分だけ出して様子をうかがいながら、まさに得物に狙いを定めた鷹となって魅音の後姿の動向をうかがう。",
-		"TextENG": "I poked my face halfway out of the shadows to see what was going on. I was like a hawk with my eyes fixed on the target, watching for any movement at the back of Mion."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 81653,
 		"TextJPN": "そして身を低くしてダッシュの力を貯め込むと、…しばらくして魅音が射撃を中断し、肩が下がった一瞬、全身をバネのように跳ね上げて一気に駆け出した！！",
-		"TextENG": "Then, when I lowered myself and accumulated the power of the dash... After a while, Mion interrupted the shooting, and at the moment when my shoulders went down, I jumped up my whole body like a spring and rushed out at once!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1296,7 +1296,7 @@
 		"type": "MSGSET",
 		"MessageID": 81655,
 		"TextJPN": "背後からの接近に一瞬感づくのが遅れた魅音は、狼狽した表情のまま機関銃を構えて撃ち出そうとする。",
-		"TextENG": "She was a moment too late to sense the approach from behind, and with a dismayed look on her face, she raised her machine gun and tried to fire."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1308,49 +1308,49 @@
 		"type": "MSGSET",
 		"MessageID": 81657,
 		"TextJPN": "だが、魅音は撃たない。…違う、撃てないのだッ！！",
-		"TextENG": "However, Mion does not shoot. ...No, she can't shoot!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 81658,
 		"TextJPN": "魅音の持つ機関銃は電動式ではなく、空圧式。",
-		"TextENG": "Mion's machine gun is not an electric type, but a pneumatic type."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 81659,
 		"TextJPN": "そのため、一定量を撃ち出したあと空気タンクにポンプで圧力を溜め込む必要がある。",
-		"TextENG": "Therefore, it is necessary to pump the air tank to build up pressure after shooting out a certain amount of water."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 81660,
 		"TextJPN": "タンクの中に空気が詰まっていれば、間違いなく魅音の機関銃は無敵だろう。",
-		"TextENG": "If the tank is filled with air, Mion's machine gun is definitely invincible."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 81661,
 		"TextJPN": "しかし、その空気が不足していたとしたら、水は銃身から発射できないのだ！",
-		"TextENG": "But if there wasn't enough air, water couldn't be fired from the barrel!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 81662,
 		"TextJPN": "それでも、魅音の機関銃の性能を知らず、その速射と連射の脅威に圧倒されている他の連中には、空気を溜め込む動作とそこにできる隙に気付くことができないだろう。",
-		"TextENG": "Still, the others, unaware of the capabilities of the machine gun and overwhelmed by the threat of its rapid and continuous firing, would not be able to notice the action of accumulating air and the gaps it creates."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 81663,
 		"TextJPN": "だが、運のいいことに俺は魅音が機関銃を持っていることを事前に『知っていた』！",
-		"TextENG": "But thanks to my good luck, I knew in advance that she had a machine gun!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 81664,
 		"TextJPN": "そして、その性能はデメリットも含めて、おもちゃ屋のおじさんに全部聞いて確認済みだッッ！！",
-		"TextENG": "And I've already confirmed its performance, including its disadvantages, by asking uncle at the toy store all about it!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1362,7 +1362,7 @@
 		"type": "MSGSET",
 		"MessageID": 81666,
 		"TextJPN": "満タンの俺の銃と、水量と空気圧が減っている魅音の機関銃、間合いはほぼ互角だ。",
-		"TextENG": "My gun, which is full, and Mion's machine gun, whose water volume and air pressure are reduced, are almost the same."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1392,25 +1392,25 @@
 		"type": "MSGSET",
 		"MessageID": 81670,
 		"TextJPN": "空気の溜め込みが不足していた魅音の機関銃は、数発がその銃身から吐き出された後、あっという間に勢いを失ってしまう。",
-		"TextENG": "After a few shots were discharged from the barrel, the machine gun quickly lost its momentum."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 81671,
 		"TextJPN": "そして、俺は戸惑うあまりに銃身を下げて、無防備な身体をさらした魅音に狙いをしっかりと定めると、",
-		"TextENG": "I then lowered the barrel of my gun when she was confused and took a firm aim at the defenseless body of Mion."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 81672,
 		"TextJPN": "無慈悲なほど冷酷に引き金を引く。",
-		"TextENG": "I have pulled the trigger ruthlessly."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 81673,
 		"TextJPN": "放たれた一条の水流は標的の顔を激しく撃ちつけ、『冷たっ？！』と魅音は悲鳴を上げた。",
-		"TextENG": "The released stream of water struck the target's face violently. Shion screamed because it was cold."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1419,7 +1419,7 @@
 		"PreTextTags": "@vS09/03/VX_mion_0001.",
 		"TextJPN": "「や、やられたぁ…！@k@vS09/03/VX_mion_0002.　まさか、この私の機関銃にこんな欠点があったなんて…！」",
 		"NamesENG": "Mion",
-		"TextENG": "``Y-You got me...!@k@vS09/03/VX_mion_0002. I had no idea that my machine gun had such a flaw....!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1440,7 +1440,7 @@
 		"type": "MSGSET",
 		"MessageID": 81677,
 		"TextJPN": "その瞬間、魅音の背後で様子をうかがっていた富田くん、岡村くんの二人が俺と対峙する！！",
-		"TextENG": "At that moment, Tomita-kun and Okamura-kun, who were watching behind Mion, confront me!!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1452,13 +1452,13 @@
 		"type": "MSGSET",
 		"MessageID": 81679,
 		"TextJPN": "魅音が撃破されれば、その次は向かい合った俺と銃撃戦になるのは当然のこと！",
-		"TextENG": "If Mion is defeated, it's only natural that the next battle will be with me!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 81680,
 		"TextJPN": "一瞬の間に決着をつけた俺を次の標的と瞬時に認識した二人は、決して悪くないセンスだった。@kその残酷なまでの頭の切り替え速度は高評価だ。",
-		"TextENG": "The two of them instantly recognized me as their next target, having settled the matter in a split second, which was not a bad sense.@k That brutal head-switching speed is highly appreciated."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1485,25 +1485,25 @@
 		"type": "MSGSET",
 		"MessageID": 81684,
 		"TextJPN": "こいつらにとっては、さっきまで魅音が相手で、俺に対しての心の準備はまだできていない。",
-		"TextENG": "I had been dealing with Mion just a moment ago, and they think I'm not ready for them."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 81685,
 		"TextJPN": "だが、俺は違う。@k最初っからこいつらも標的だった。",
-		"TextENG": "But that's not true.@k From the beginning, they were also targets."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 81686,
 		"TextJPN": "この差は決定的で、しかも致命的だッ！！",
-		"TextENG": "This difference is decisive and deadly!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 81687,
 		"TextJPN": "二人が魅音に向けていた銃口を俺に向けなおすその時間に俺はすでに、いや、魅音に向けて駆けていた時からこいつらも含めて照準し続けていた！！",
-		"TextENG": "In the time it took them to turn the muzzle of the gun they were pointing at Mion back at me, I had been already aiming at these guys since they were running towards Mion!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2712,7 +2712,7 @@
 		"PreTextTags": "@vS09/02/VX_rena_0001.",
 		"TextJPN": "「確かに、この銃は壊れて役には立たないみたいだね。@k@vS09/02/VX_rena_0002.さっきから何度も引き金を引いてるけど、何にも出てこない。@k@vS09/02/VX_rena_0003.…でも、それで勝ったと思ってしまったのが、沙都子ちゃんの敗因だよ」",
 		"NamesENG": "Rena",
-		"TextENG": "``Sure, this gun seems to be broken and useless.@k@vS09/02/VX_rena_0002. I've been pulling the trigger over and over again for a while now, but nothing's coming out.@k@vS09/02/VX_rena_0003. But that's why Satoko will lose, because she thought she'd won.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2727,7 +2727,7 @@
 		"type": "MSGSET",
 		"MessageID": 81863,
 		"TextJPN": "そこまで聞いた時、俺はレナの後ろの腰元に気がついて、一気に駆け出す！",
-		"TextENG": "When I heard that much, I noticed the waist behind Rena and rushed out!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2763,25 +2763,25 @@
 		"PreTextTags": "@vS09/02/VX_rena_0004.",
 		"TextJPN": "「どうして、残りが少ないさっきまでの水鉄砲がこの手に無いんだと思う？@k@|@y@vS09/02/VX_rena_0005.　こういうことだよッッ！！」",
 		"NamesENG": "Rena",
-		"TextENG": "``Why do you think I don't have the water gun in my hand from earlier when I was running low?@k@|@y@vS09/02/VX_rena_0005. This is what I'm talking about!!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 81869,
 		"TextJPN": "レナは、銃口の詰まったその銃を思い切り投げつける！",
-		"TextENG": "Rena throws the gun with a clogged muzzle!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 81870,
 		"TextJPN": "それは沙都子にぶつかることなく肩口の横をすり抜け、地面に転がる。",
-		"TextENG": "It slipped past Satoko's shoulder without hitting her, and rolled to the ground."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 81871,
 		"TextJPN": "しかし、その行動に驚いた沙都子は思わず身をすくめて顔を背けてしまい、…その一瞬にできた隙を利用して、レナは腰の後ろに隠し持っていた、さっきまでの水鉄砲を取り出した！！",
-		"TextENG": "However, surprised by her action, Satoko involuntarily shrugged and turned her face away, and... taking advantage of the momentary gap created, Rena took out the water pistol she had hidden behind her waist earlier!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2790,31 +2790,31 @@
 		"PreTextTags": "@vS09/02/VX_rena_0006.",
 		"TextJPN": "「残りが少ないからって、それを捨てるなんてことはしないよ。@k@|@y@vS09/02/VX_rena_0007.隠していた武器が使い物になるって、確証が持てるまではね」",
 		"NamesENG": "Rena",
-		"TextENG": "``Just because there's not much left doesn't mean I'm going to throw it away.@k@|@y@vS09/02/VX_rena_0007. Not until I know for sure that the weapon I'm hiding will be useful.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 81873,
 		"TextJPN": "そう、…慎重とはここまで入念になって、初めて慎重なのだ。",
-		"TextENG": "Yeah ... Being cautious is only when you're so careful."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 81874,
 		"TextJPN": "隠していた武器がそのまま置かれてあったからといって、誰にも見つかっていなかったとは限らない。",
-		"TextENG": "Just because a concealed weapon was left in place doesn't mean that no one had found it."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 81875,
 		"TextJPN": "むしろ一流のトラッパーなら発見した際、それを逆に利用して持ち主を罠にはめようと考えるだろう。",
-		"TextENG": "Rather, a top-notch trapper would think of using it against the owner to trap him when he found it."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 81876,
 		"TextJPN": "だから、手に入れただけで安心してはいけない。手に入れて、使って、実際に役に立つことを自分の目で確かめてみるまでは、それは『ない』ということと同じなのだ…！",
-		"TextENG": "So don't be relieved just because you got it. Use it, and see for yourself that it is actually useful...!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2841,13 +2841,13 @@
 		"type": "MSGSET",
 		"MessageID": 81880,
 		"TextJPN": "レナが新しい銃の不良に戸惑っている間に畳み掛ければよかったのだ、@bちゅうちょ.@<躊躇@>なく！！@k　勝ちを確信したその驕りこそが敗因ッ！！",
-		"TextENG": "I should have folded while Rena was confused about her new defective gun, without hesitation.@k The cause of the defeat is that she was convinced that she would win."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 81881,
 		"TextJPN": "沙都子の銃が引き金を絞るより一瞬早く、レナは接近して十分に射程距離を詰めた状態から、@k@|@yまるで止めとばかりに酷薄な笑みを浮かべながら銃を放つ。",
-		"TextENG": "A moment earlier than Satoko's squeezing the gun's trigger, Rena approached and narrowed the range sufficiently.@k@|@y As if to stop her, she smiles cruelly and fires her gun."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2859,7 +2859,7 @@
 		"type": "MSGSET",
 		"MessageID": 81883,
 		"TextJPN": "それがレナに命中するより数瞬早く、水の飛沫が沙都子の顔面を叩く。…まるで眉間を撃ち抜かれたように、大量の水がだくだくと流れ落ちていった。",
-		"TextENG": "A few moments before it hits Lena, a splash of water hits Satoko's face. ...It was as if I'd been shot right between the eyes, and a lot of water was sloshing down."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -4134,25 +4134,25 @@
 		"type": "MSGSET",
 		"MessageID": 82055,
 		"TextJPN": "俺は思わず引き金を引きかけたが、梨花ちゃんの様子を見て辛うじて止める。",
-		"TextENG": "I was about to pull the trigger, but seeing Rika's condition, I barely stopped myself."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 82056,
 		"TextJPN": "梨花ちゃんは、全身やたらとずぶ濡れになっていた。",
-		"TextENG": "Rika was soaked all over."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 82057,
 		"TextJPN": "俺は@bためら.@<躊躇@>いもなく、梨花ちゃんを撃つ。…レナも同様だった。",
-		"TextENG": "Without hesitation, I shoot Rika. ...Rena did the same."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 82058,
 		"TextJPN": "梨花ちゃんは『みぃっ？！』と可愛い悲鳴を上げると、恨めしそうに俺たちを見た。",
-		"TextENG": "Rika squealed ``What?``. She let out a cute scream and looked at us with a grudge."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -4300,13 +4300,13 @@
 		"type": "MSGSET",
 		"MessageID": 82080,
 		"TextJPN": "特に何も考えずに声をかけたので、二の句が告げず俺は言葉を濁す。",
-		"TextENG": "I didn't think of anything in particular when I called out to her, so I didn't have any second thoughts and I slurred my words."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 82081,
 		"TextJPN": "……どうしてだろう。俺はふと、振り返った先に見えたレナの笑顔に、ほんのわずかだが違和感を見た、……ような気がしたんだ。",
-		"TextENG": "...I don't know why. I suddenly saw the slight hint of discomfort in Rena's smile as she looked back at me."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -4321,7 +4321,7 @@
 		"type": "MSGSET",
 		"MessageID": 82083,
 		"TextJPN": "もう一度、レナを見る。……いつもと同じ、やさしそうな可愛い笑顔。",
-		"TextENG": "I look at Rena again. ......The same cute, gentle smile as always."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

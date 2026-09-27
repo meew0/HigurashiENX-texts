@@ -39,7 +39,7 @@
 		"type": "MSGSET",
 		"MessageID": 21037,
 		"TextJPN": "レナと@bゴミ.@<宝@>の山のランディくん人形を発掘する約束だ。",
-		"TextENG": "I had agreed to meet with Rena to dig Randy-kun out of that mountain of treasure from before."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -78,7 +78,7 @@
 		"type": "MSGSET",
 		"MessageID": 21042,
 		"TextJPN": "不法投棄のダンプがまたゴミを捨てていって、今度こそ完全に埋って救出不能、@kなんてことになれば……間違いなくレナは町のランディくん人形を狙うだろう。",
-		"TextENG": "If they come to dump again illegally, he'll be buried completely and it'll be impossible to dig him out, @kand if that happens... Rena will undoubtedly go after the Randy-kun in front of the fried chicken place in town."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -297,7 +297,7 @@
 		"type": "MSGSET",
 		"MessageID": 21073,
 		"TextJPN": "学校から帰った俺に、おふくろが声をかけた。",
-		"TextENG": "My mother called out to me when I returned from school."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -306,7 +306,7 @@
 		"PreTextTags": "@vS19/00/662700001.",
 		"TextJPN": "「圭一、ちょっとお使い、頼まれてくれるかしら？」",
 		"NamesENG": "Keiichi's mom",
-		"TextENG": "``Keiichi, would you mind running an errand for me?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -324,7 +324,7 @@
 		"PreTextTags": "@vS19/00/662700002.",
 		"TextJPN": "「カップラーメンの買い置きが切れちゃったのよ。@k@vS19/00/662700003.ないと困るでしょ」",
 		"NamesENG": "Keiichi's mom",
-		"TextENG": "``We don't have enough ramen.@k@vS19/00/662700003. You don't want to be without it.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -339,13 +339,13 @@
 		"type": "MSGSET",
 		"MessageID": 21078,
 		"TextJPN": "カップラーメンは、俺の生命線といっても過言ではない。お袋が留守で冷蔵庫にも何もない場合、ラーメンの買い置きがないことは即ち死を意味する。",
-		"TextENG": "It's no exaggeration to say that ramen cups is my lifeline. When my mother is out of town and there is nothing in the refrigerator, not having ramen in stock means death."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21079,
 		"TextJPN": "……というのは大げさだが、俺にとってはそれくらい、重要なアイテムなのだ。",
-		"TextENG": "......It's an exaggeration, but for me, it is such an important item."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -354,7 +354,7 @@
 		"PreTextTags": "@vS19/00/662700004.",
 		"TextJPN": "「好きなの選んでいいけど、箱ごとまとめ買いしてきてね。@k@vS19/00/662700005.あ、それと、ついでに缶詰も。@k@vS19/00/662700006.あ、それと……」",
 		"NamesENG": "Keiichi's mom",
-		"TextENG": "``You can choose whatever you want, but go ahead and buy the whole box in bulk.@k@vS19/00/662700005. Oh, and by the way, cans.@k@vS19/00/662700006. And...``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -369,7 +369,7 @@
 		"type": "MSGSET",
 		"MessageID": 21082,
 		"TextJPN": "俺は慌てて家を出た。このままじゃ次から次へと買うものを思い出されて、しまいには大荷物を背負わされるハメになるに違いない。……ちなみに、俺の自転車にはそれだけの積載量などあるわけがなかった。",
-		"TextENG": "I left the house in a hurry. I was in a hurry to get out of the house. If I didn't, I'd be reminded of all the things I needed to buy one after another, and I'd end up with a huge load on my back. ...... By the way, there was no way my bike could carry that much."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -393,25 +393,25 @@
 		"type": "MSGSET",
 		"MessageID": 21085,
 		"TextJPN": "お袋の声が、閉まりかけたドアの向こうから聞こえてくる。",
-		"TextENG": "I hear my mother's voice coming from behind the closed door."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21086,
 		"TextJPN": "俺はガレージの隅に止めてある自転車の鍵を外し、ちょっと硬めのペダルの踏み応えを確かめる。……たまにはサイクリングも悪くはないよな。天気もいいし。",
-		"TextENG": "I unlocked my bike, which was parked in the corner of the garage, and checked the pedals, which were a bit stiff. ...... Cycling is not a bad idea once in a while, isn't it? The weather is nice, too."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21087,
 		"TextJPN": "よし、出発！　俺は颯爽とペダルを漕ぎ出した。",
-		"TextENG": "Okay, off we go! I started pedaling briskly."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21088,
 		"TextJPN": "強烈な日差しが治まり、涼しくなり始めた空気の中、自転車は町へのなだらかな坂道を滑り降りて行く。",
-		"TextENG": "Okay, off we go! I started pedaling briskly."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -426,49 +426,49 @@
 		"type": "MSGSET",
 		"MessageID": 21090,
 		"TextJPN": "坂の途中で、誰かが俺に声をかけた。",
-		"TextENG": "Halfway up the hill, someone called out to me."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21091,
 		"TextJPN": "えっ……？！　今、俺に声をかけた……？　あれ、誰だっけ？",
-		"TextENG": "What......? He... just called out to me? Who was that again?"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21092,
 		"TextJPN": "思い出せないまま、自転車はスピードに乗って坂を走り降りてしまう。",
-		"TextENG": "Unable to remember, the bike speeds off down the hill."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21093,
 		"TextJPN": "服装や雰囲気からして、雛見沢の住人には違いないようだが……。",
-		"TextENG": "From the way he was dressed and his mood, it seemed he must be a resident of Hinamizawa......"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21094,
 		"TextJPN": "坂を降りきると、上り坂にさしかかった。一気に加速して急な坂道へ挑む。",
-		"TextENG": "After descending the hill, I came to an uphill. I accelerated at once to tackle the steep slope."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21095,
 		"TextJPN": "はぁ……はぁ……。なかなかにしんどい……。",
-		"TextENG": "Hah...... hah....... It's quite hard......."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21096,
 		"TextJPN": "汗を垂らしながら立ち漕ぎで自転車を繰る俺には、前方を軽やかな足取りで歩いていくおばさんがひどく優雅に見える。",
-		"TextENG": "As I peddled my bicycle, dripping with sweat, the woman walking lightly ahead of me looked so graceful."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21097,
 		"TextJPN": "おばさんに負けて、たまるかよーっ！　渾身の力でペダルを踏み続ける。",
-		"TextENG": "I'm not going to let some old lady beat me!　I keep pedaling with all my might."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -477,13 +477,13 @@
 		"PreTextTags": "@vS19/00/villaB66005.",
 		"TextJPN": "「がんばれ、がんばれー！」",
 		"NamesENG": "Villager",
-		"TextENG": "``Hang in there, hang in there!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21099,
 		"TextJPN": "すれ違いに、思いがけずおばさんから声をかけられた。",
-		"TextENG": "As we passed each other, I was unexpectedly approached by an old lady."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -498,31 +498,31 @@
 		"type": "MSGSET",
 		"MessageID": 21101,
 		"TextJPN": "思わず威勢のいい挨拶を返してしまう。",
-		"TextENG": "I can't help but return the greeting with vigor."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21102,
 		"TextJPN": "歩きのおばさんと、俺の漕ぐ自転車のスピードがほぼ同じになって横に並ぶ。",
-		"TextENG": "The speed of the woman walking and the speed of the bike I'm pedaling are almost the same, side by side."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21103,
 		"TextJPN": "おばさんは微笑ましげにゆったりと歩いていて、一方の俺は必死の形相でハンドルを握り、ペダルを踏みつけている。",
-		"TextENG": "The lady was walking slowly and smiling, while I was holding the steering wheel and stomping on the pedals in a desperate manner."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21104,
 		"TextJPN": "返答するのに苦しい状況だが、やはり声援は嬉しい。",
-		"TextENG": "It's hard for me to respond, but I'm still happy to hear the cheers."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21105,
 		"TextJPN": "俺が坂を上りきった瞬間、",
-		"TextENG": "The moment I got to the top of the hill..."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -537,7 +537,7 @@
 		"type": "MSGSET",
 		"MessageID": 21107,
 		"TextJPN": "振り返ると、おばさんは手を振っていた。……あの人、誰だっけ？",
-		"TextENG": "When I turned around, the lady was waving at me. ......Who was that person?"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -552,49 +552,49 @@
 		"type": "MSGSET",
 		"MessageID": 21109,
 		"TextJPN": "誰だか思い出せないまま、俺は手を振り返した。たぶん、この辺りの農家のおばさんには違いないが……。",
-		"TextENG": "Not being able to remember who it was, I waved back. Probably some old farm lady around here, though ......"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21110,
 		"TextJPN": "俺の記憶力が追いつかないのか、雛見沢の住人が人の顔を覚えるのが異様に早いのか、とにかく今日は見知らぬ人に挨拶されてばかりだ。",
-		"TextENG": "Maybe my memory can't keep up, or maybe the residents of Hinamizawa are unusually quick to remember people's faces, but anyway, I've been greeted by strangers all day."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21111,
 		"TextJPN": "……だが、それは全く悪くない。むしろ俺は、いい気分だった。",
-		"TextENG": "......but that's not bad at all. In fact, I felt rather good about it."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21112,
 		"TextJPN": "都会では味わうことのなかったフレンドリーな雰囲気に、俺の心はすっかり満たされている。",
-		"TextENG": "My heart was completely filled with a friendly atmosphere that I had never experienced in the city."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21113,
 		"TextJPN": "雛見沢って、いい村だよな……。何より村の人たちがあったかい。",
-		"TextENG": "Hinamizawa is a nice village, isn't it....... Above all, the village people are warm and welcoming."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21115,
 		"TextJPN": "……ふと、この村で起きたという、過去の事件のことを思い出した。",
-		"TextENG": "...I suddenly remembered an incident from the past that had happened in this village."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21116,
 		"TextJPN": "ダム建設現場で起きた、凄惨な殺人事件……。",
-		"TextENG": "A horrific murder at a dam construction site..."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21117,
 		"TextJPN": "こんなにのどかな村で、本当に悲惨な事件など起こったのだろうか？",
-		"TextENG": "Could such a tragic incident really have happened in such a tranquil village?"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -609,31 +609,31 @@
 		"PreTextTags": "@vS19/01/HR_KEI06280.",
 		"TextJPN": "「まぁ。昔は昔、今は今、だよな……」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``Well. Past is past, now is now, right?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21120,
 		"TextJPN": "俺は自分に言い聞かせるように言うと、興宮の町へと自転車をひた走らせた。",
-		"TextENG": "I said to myself, and rode my bike to Okinomiya."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21121,
 		"TextJPN": "俺はその心地よさをひとしきりかみ締めると、興宮の町へと自転車をひた走らせた。",
-		"TextENG": "I took a moment to appreciate the comfort and then rode my bike to the town of Okinomiya."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21122,
 		"TextJPN": "セブンスマートが見えてきた。",
-		"TextENG": "Seventh Mart is in sight."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21123,
 		"TextJPN": "さて、とりあえず何から探そうかな。",
-		"TextENG": "Well, where should I start looking first?"
+		"TextENG": ""
 	},
 	{
 		"type": "SELECT",
@@ -1024,31 +1024,31 @@
 		"type": "MSGSET",
 		"MessageID": 21176,
 		"TextJPN": "セブンスマートは市内にある、酒類食料品の安売量販店だ。ちょっと遠いが、まとめ買いをするなら商店街の店よりも安く、品目も多い。",
-		"TextENG": "The Seventh Mart was a bargain supermarket with food and alcohol. It's a little far, but if you buy in bulk, it's cheaper than the shops in the shopping district, and there are many items."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21177,
 		"TextJPN": "店内には所狭しと商品が並べられ、それらを物色する人で賑わっている。幸い、ラーメンコーナーにはそんなに人気はなかった。",
-		"TextENG": "The store was crammed with products, and it was crowded with people rummaging through them. Fortunately, the ramen corner was not so popular."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21178,
 		"TextJPN": "俺は誰に邪魔されることなく、入念に陳列棚をたしかめる。棚には、小躍りしたくなるほど様々な種類のカップめんが並んでいた。",
-		"TextENG": "I carefully checked the shelves without disturbing anyone. The shelves were lined with a variety of cup noodles that made me want to jump."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21179,
 		"TextJPN": "北海道バター風味の純情味噌味、讃岐うどん太郎、喜多方しょうゆ味……。バラエティ豊かに、色とりどりのカップめんをどっさりとカートに載せたいところだが、まとめ買いするよう言われている。",
-		"TextENG": "Hokkaido Butter Flavored Junjo Miso Flavor, Sanuki Udon Taro, and Kitakata Soy Sauce Flavor ....... I'd like to put a large variety of colorful cup noodles on my cart, but I've been told to buy in bulk."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21180,
 		"TextJPN": "自転車で来ている以上、選べるのはダンボールに入った一種類だけ。ここでのカップめんセレクトは、必然的に切実さが増す。陳列棚の隅々までを凝視した結果、俺は一つのカップめんに決めた。",
-		"TextENG": "Since I was riding a bicycle, I could only choose one type of cup noodles in a cardboard box. The selection of cup noodles here is inevitably more serious. After staring at every corner of the shelves, I decided on one cup noodle."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1057,25 +1057,25 @@
 		"PreTextTags": "@vS19/01/HR_KEI06580.",
 		"TextJPN": "「仕方ない、これにするか……」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``Nothing to do about it. I will take this one.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21182,
 		"TextJPN": "そう言いながら選び出したのは……特大カップ豚骨ショウガ味！",
-		"TextENG": "As I said that, I picked out the ...... extra large cup pork bone ginger flavor!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21183,
 		"TextJPN": "豚骨はうまい！　そして大盛りだが大味ではない！　一種類しか選べないという時点で、初めから実は、他の味などという選択肢はなかったのだ！",
-		"TextENG": "Pork bones are good! And it's a big bowl, but not an overwhelming flavor! When you can only choose one kind, from the very beginning, there was actually no option for any other flavor!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21184,
 		"TextJPN": "そのダンボールを抱えてレジに向かおうとして、俺は足を止めた。",
-		"TextENG": "I stopped in my tracks as I carried the cardboard to the checkout counter."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1087,13 +1087,13 @@
 		"type": "MSGSET",
 		"MessageID": 21186,
 		"TextJPN": "ざわざわと、胸騒ぎ。背後に、気配を感じる。",
-		"TextENG": "There was a rustle in my chest. I felt a presence behind me."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21187,
 		"TextJPN": "奇妙な不安が湧き起こって、思わず振り返ると、そこに立っていたのは――。",
-		"TextENG": "A strange feeling of uneasiness came over me, and when I turned around without a second thought, there they were, standing."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1111,7 +1111,7 @@
 		"PreTextTags": "@vS19/03/660300079.",
 		"TextJPN": "「やっと気づいたよ～。@k@vS19/03/660300080.鈍感だなぁ、圭ちゃんは！」",
 		"NamesENG": "Mion",
-		"TextENG": "``Finally, you realised that we are here.@k@vS19/03/660300080. You're so blunt, Kei-chan!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1126,7 +1126,7 @@
 		"type": "MSGSET",
 		"MessageID": 21191,
 		"TextJPN": "俺は密かに安堵した。自覚以上の不安を感じていたようだ……。一体、何にビビッていたのだろう！？",
-		"TextENG": "I was secretly relieved. I guess I was feeling more anxious than I realized. ......What in the world was I freaking out about!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1135,7 +1135,7 @@
 		"PreTextTags": "@vS19/02/660200082.",
 		"TextJPN": "「驚いたかな？@k@vS19/02/660200083.　いつ気づいてくれるかなって思ってたんだけどな！」",
 		"NamesENG": "Rena",
-		"TextENG": "``Are you surprised?@k@vS19/02/660200083. I was just wondering when you'd notice.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1144,19 +1144,19 @@
 		"PreTextTags": "@vS19/01/HR_KEI06600.",
 		"TextJPN": "「そんな内気なことしてないで声くらいかけろよ、まったく」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``Don't try to sneak, just say something like normal person.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21194,
 		"TextJPN": "レナと魅音は顔を見合わせてニヤニヤと笑う。",
-		"TextENG": "Rena and Mion looked at each other and smirked."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21195,
 		"TextJPN": "どうやらこの二人、ずっと前から俺を尾けていたらしい。なんてたちの悪い……。どうせなら、ちゃんと驚かしてくれよ！",
-		"TextENG": "Apparently, these two had been following me for a long time. What a bunch of bad....... If you're going to do this, you might as well surprise me!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1165,7 +1165,7 @@
 		"PreTextTags": "@vS19/02/660200084.",
 		"TextJPN": "「……あ、圭一くん、カップめんは体にあんまり良くないと思うな」",
 		"NamesENG": "Rena",
-		"TextENG": "``Keiichi-kun, cup ramen is not good for body.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1183,19 +1183,19 @@
 		"PreTextTags": "@vS19/03/660300081.",
 		"TextJPN": "「しかも、いいの？@k@vS19/03/660300082.　トンコツショウガ味って、書いてあるよ？」",
 		"NamesENG": "Mion",
-		"TextENG": "``It's good?@k@vS19/03/660300082. It says here that it tastes like ginger.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21199,
 		"TextJPN": "俺のカップめんセレクトに間違いは無い！　言うんだ！　レナに言い聞かせてやれ！",
-		"TextENG": "You can't go wrong with my cup selection! Tell her! Tell it to Rena!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21200,
 		"TextJPN": "俺は息をすーっと吸い込むと、一気に胸の内に秘めた熱い思いをぶちまける！",
-		"TextENG": "I breathed in and let out all the boiling thoughts I had in my heart at once!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1204,7 +1204,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI06620.",
 		"TextJPN": "「特大カップ豚骨ショウガ味を見損なうんじゃないっ！」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``Don't miss out on the extra-large cup of ginger flavored pork bones!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1213,7 +1213,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI06630.",
 		"TextJPN": "「このボリューム、この潔いカップの形！　豚骨の濃厚な旨みはもはやカップめんの域を脱し、舌の肥えたラーメン職人たちをも満足させるに違いない重厚さ！」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``This volume, this graceful cup shape! The rich flavor of the pork bones is beyond the realm of a cup noodle, and it's so heavy that it will satisfy even the most discerning ramen chefs!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1222,7 +1222,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI06640.",
 		"TextJPN": "「大盛りだが決して大味ではないのに、この人生を達観したかのようなこの価格！　びっくりロープライス！　これを置いて他に、どんなカップラーメンを食べろというのだ？！」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``It's a big serving, but it's not a huge serving, and yet it's priced as if you've made a life for yourself! What else can I eat? What other cup ramen should I eat without this?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1237,7 +1237,7 @@
 		"type": "MSGSET",
 		"MessageID": 21205,
 		"TextJPN": "二人はぽかーんと俺を見つめている。奇怪なものを見る目つきに、いたたまれない気持ちになる。",
-		"TextENG": "They were staring at me blankly. The way they looked at me made me feel uncomfortable."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1252,7 +1252,7 @@
 		"type": "MSGSET",
 		"MessageID": 21207,
 		"TextJPN": "二人を放置して、俺はレジへと急ぐ。",
-		"TextENG": "Leaving them alone, I hurried to the cash register."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1261,7 +1261,7 @@
 		"PreTextTags": "@vS19/02/660200085.",
 		"TextJPN": "「はっ、はぅ……。@k@vS19/02/660200086.圭一くん、他の食べ物は買わなくていいのかな？　かな？」",
 		"NamesENG": "Rena",
-		"TextENG": "``H... Huh...@k@vS19/02/660200086. Keiichi-kun, I guess you don't need any other food? Any other?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1276,7 +1276,7 @@
 		"type": "MSGSET",
 		"MessageID": 21210,
 		"TextJPN": "そう言いかけて、俺は缶詰も頼まれていたことを思い出した。ナイス、レナ！",
-		"TextENG": "I was about to say that, but then I remembered that I had asked for canned food as well. Nice, Rena!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1285,7 +1285,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI06670.",
 		"TextJPN": "「二人ともお使いか？」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``Are you two running an errand?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1294,13 +1294,13 @@
 		"PreTextTags": "@vS19/03/660300084.",
 		"TextJPN": "「私は付き添い。@k@vS19/03/660300085.ついでに、なんか面白い新作のお菓子ないかな～、ってね」",
 		"NamesENG": "Mion",
-		"TextENG": "``I have just joined in.@k@vS19/03/660300085. I was also wondering if there were any interesting new sweets.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21213,
 		"TextJPN": "なるほど、さすがは駄菓子クイーン。",
-		"TextENG": "Well, as expected of a candy queen."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1309,7 +1309,7 @@
 		"PreTextTags": "@vS19/03/660300086.",
 		"TextJPN": "「むっ？@k@vS19/03/660300087.　勝手に変な称号付けないでよ～！」",
 		"NamesENG": "Mion",
-		"TextENG": "``Hm?@k@vS19/03/660300087. Don't give me some weird titles~!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1324,7 +1324,7 @@
 		"type": "MSGSET",
 		"MessageID": 21216,
 		"TextJPN": "そこで俺は、きょとんと魅音を見て立ち止まっている女の子と目が合った。それに気づいた魅音も、顔を振り向けてその子を見る。",
-		"TextENG": "Then my eyes met with a girl who was standing still looking at me with a puzzled expression. When they noticed this, they also turned her head to look at the girl."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1333,7 +1333,7 @@
 		"PreTextTags": "@vS19/36/662900001.",
 		"TextJPN": "「あ、やっぱり魅音ちゃんだ。@k@vS19/36/662900002.こんにちは～」",
 		"NamesENG": "Girl",
-		"TextENG": "``Oh, I knew it was you, Mion-chan.@k@vS19/36/662900002. Good afternoon~!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1342,7 +1342,7 @@
 		"PreTextTags": "@vS19/03/660300088.",
 		"TextJPN": "「……あれ～？@k@vS19/03/660300089.　夏美ちゃんじゃない、久しぶりー！」",
 		"NamesENG": "Mion",
-		"TextENG": "``...Huh~?@k@vS19/03/660300089. Isn't it Natsumi, how have you been!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1351,7 +1351,7 @@
 		"PreTextTags": "@vS19/03/660300090.",
 		"TextJPN": "「どうしたの、戻ってきたの？」",
 		"NamesENG": "Mion",
-		"TextENG": "``What happened? You came back?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1360,7 +1360,7 @@
 		"PreTextTags": "@vS19/36/662900003.",
 		"TextJPN": "「ううん。@k@vS19/36/662900004.今日はそーりつ記念日だから、久々に里帰りしたいっておばーちゃんが、ね。@k@vS19/36/662900005.今日の夜帰る予定なの」",
 		"NamesENG": "Natsumi",
-		"TextENG": "``No.@k@vS19/36/662900004. Today is the anniversary of Solitsu, so my aunt wants to come home after a long time.@k@vS19/36/662900005. I'm supposed to be home tonight.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1369,13 +1369,13 @@
 		"PreTextTags": "@vS19/03/660300091.",
 		"TextJPN": "「そうなんだ～。@k@vS19/03/660300092.まぁ、土日だとここに来る高速道路、結構混むしね！@k@vS19/03/660300093.　あ――」",
 		"NamesENG": "Mion",
-		"TextENG": "``So that's it~.@k@vS19/03/660300092. Well, on weekends, the highway to here is pretty busy.@k@vS19/03/660300093. I...``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21222,
 		"TextJPN": "そこで魅音は、俺とレナがきょとん、と二人の顔を見比べていることに気がついた。",
-		"TextENG": "Then she noticed that Rena and I were looking at each other with a puzzled look on our faces."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1384,7 +1384,7 @@
 		"PreTextTags": "@vS19/03/660300094.",
 		"TextJPN": "「ごめんごめん、紹介が遅れたね！@k@vS19/03/660300095.　この子は@bきみよしなつみ.@<公由夏美@>ちゃん。@k@vS19/03/660300096.村長さんの親戚で、去年まで興宮に住んでいたんだよ」",
 		"NamesENG": "Mion",
-		"TextENG": "``Ah, sorry! I will introduce you!@k@vS19/03/660300095. She's Kimiyoshi Natsumi-chan.@k@vS19/03/660300096. She's a relative of the village chief, and she used to live in Okinomiya until last year.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1393,7 +1393,7 @@
 		"PreTextTags": "@vS19/02/660200087.",
 		"TextJPN": "「……そうなの？@k@vS19/02/660200088.　じゃ、レナと入れ違いだったんだね」",
 		"NamesENG": "Rena",
-		"TextENG": "``...Really?@k@vS19/02/660200088. So you and Rena must have crossed paths.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1402,7 +1402,7 @@
 		"PreTextTags": "@vS19/36/662900006.",
 		"TextJPN": "「こんにちはー。@k@vS19/36/662900007.でも私は興宮の学校だったから、魅音ちゃんしか知らないんだけどね」",
 		"NamesENG": "Natsumi",
-		"TextENG": "``Good afternoon.@k@vS19/36/662900007. But I was at school in Okinomiya, so I only know Mion-chan.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1411,13 +1411,13 @@
 		"PreTextTags": "@vS19/01/HR_KEI06700.",
 		"TextJPN": "「おう。こっちこそよろしくなー」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``Also nice to meet you.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21227,
 		"TextJPN": "俺たちは気さくに話しながら、お互いに自己紹介しあう。学年は……俺やレナと同じかな。",
-		"TextENG": "We talked openly and introduced ourselves to each other. I think she's in the same grade as... ...me and Rena."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1426,7 +1426,7 @@
 		"PreTextTags": "@vS19/36/662900008.",
 		"TextJPN": "「じゃ、またね。@k@vS19/36/662900009.もう行かなくっちゃ」",
 		"NamesENG": "Natsumi",
-		"TextENG": "``See you later.@k@vS19/36/662900009. I need to go.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1435,7 +1435,7 @@
 		"PreTextTags": "@vS19/03/660300097.",
 		"TextJPN": "「うん、それじゃ！@k@vS19/03/660300098.　お祭りには帰ってくるの？」",
 		"NamesENG": "Mion",
-		"TextENG": "``Good bye!@k@vS19/03/660300098. Will you be coming to the festival?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1444,13 +1444,13 @@
 		"PreTextTags": "@vS19/36/662900010.",
 		"TextJPN": "「たぶんね。@k@vS19/36/662900011.おばーちゃん、すごく楽しみにしてるみたいだから」",
 		"NamesENG": "Natsumi",
-		"TextENG": "``Probably.@k@vS19/36/662900011. Grandma can't wait to see it.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21231,
 		"TextJPN": "そう言って夏美ちゃんは、明るくにこにこと手を振りながら店を出ていった。",
-		"TextENG": "Natsumi then cheerfully waved her hand as she left the store."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1459,13 +1459,13 @@
 		"PreTextTags": "@vS19/03/660300099.",
 		"TextJPN": "「あ、私、新発売のお菓子チェックしてくるね～」",
 		"NamesENG": "Mion",
-		"TextENG": "``Oh, I'll go check out the new snacks.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21233,
 		"TextJPN": "お菓子売り場へふらりと歩いていく魅音。",
-		"TextENG": "She wandered over to the candy counter."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1474,7 +1474,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI06710.",
 		"TextJPN": "「レナは、なに買いにきたんだ？」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``Rena, why did you come here?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1483,25 +1483,25 @@
 		"PreTextTags": "@vS19/02/660200089.",
 		"TextJPN": "「台所用洗剤と床クリーナーとお風呂のせっけんと洗濯石鹸と、お水のペットボトル。@k@vS19/02/660200090.あとみりんとお醤油とか……」",
 		"NamesENG": "Rena",
-		"TextENG": "``Kitchen detergent, floor cleaner, bath soap, laundry soap, and a bottle of water.@k@vS19/02/660200090. And mirin and soy sauce...``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21236,
 		"TextJPN": "おいおい、買いすぎじゃないのか……？　一人でそんなに持って帰るつもりなのか？！",
-		"TextENG": "Come on, aren't you buying too much......? Are you going to bring home that much by yourself?"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21237,
 		"TextJPN": "そうこうしているうちに、魅音がこれまたかごいっぱいのお菓子を抱えてレジへ並んでゆく。……さすが、雛見沢住民の物欲をがっちりつかんで放さない、恐るべき量販店・セブンスマート！",
-		"TextENG": "In the meantime, Mion lined up at the cash register with another basket full of sweets. ......As expected of the mass retailer Seventh Mart, which has never let go of the greed of Hinamizawa residents!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21238,
 		"TextJPN": "無事にレジを通過し、俺たちは買い物を終了した。",
-		"TextENG": "We went through the cashier without a problem and we finished our shopping."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1510,13 +1510,13 @@
 		"PreTextTags": "@vS19/02/660200091.",
 		"TextJPN": "「うぅ～ん。@k@vS19/02/660200092.買いすぎちゃったかな？　かな？」",
 		"NamesENG": "Rena",
-		"TextENG": "``Uh~.@k@vS19/02/660200092. Have I bought too much? Too much?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21240,
 		"TextJPN": "案の定、レナの大荷物は自転車のかごに乗り切る量ではなかった。",
-		"TextENG": "As expected, Rena's large luggage was not enough to fit in the basket of her bike."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1525,7 +1525,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI06720.",
 		"TextJPN": "「……ったく。@k@vS19/01/HR_KEI06730.半分持ってやるよ、俺のかごに入れていーぞ。@k@vS19/01/HR_KEI06740.家まで運んでやるよ」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``...Gosh.@k@vS19/01/HR_KEI06730. I will take half. You can put it in my basket.@k@vS19/01/HR_KEI06740. I can ride home with you.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1534,13 +1534,13 @@
 		"PreTextTags": "@vS19/02/660200093.",
 		"TextJPN": "「はぅ～。@k@vS19/02/660200094.圭一くん、ありがとう～！」",
 		"NamesENG": "Rena",
-		"TextENG": "``Hau~.@k@vS19/02/660200094. Thank you, Keiichi-kun~!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21243,
 		"TextJPN": "レナがぽわーっと赤くなる。",
-		"TextENG": "Rena turns red and fuzzy."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1549,7 +1549,7 @@
 		"PreTextTags": "@vS19/03/660300100.",
 		"TextJPN": "「圭ちゃん、私のも入れて～～！」",
 		"NamesENG": "Mion",
-		"TextENG": "``Kei-chan, take some of mine too~~!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1558,7 +1558,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI06750.",
 		"TextJPN": "「もう載らないよ！@k@vS19/01/HR_KEI06760.　菓子なら俺が今、ここで食ってやる！」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``I can't take more!@k@vS19/01/HR_KEI06760. If it's candy, I'll eat it right here, right now!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1567,13 +1567,13 @@
 		"PreTextTags": "@vS19/03/660300101.",
 		"TextJPN": "「む～！@k@vS19/03/660300102.　圭ちゃんに食べられるくらいなら、意地でも持って帰るよ！」",
 		"NamesENG": "Mion",
-		"TextENG": "``Buu~!@k@vS19/03/660300102. I'd rather take it home with me than be eaten by Kei-chan!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21247,
 		"TextJPN": "自転車のかごに、ぎゅうぎゅうにお菓子をつめる魅音を見ながら、俺とレナは顔を見合わせて笑いあう。",
-		"TextENG": "Rena and I looked at each other and laughed as she stuffed snacks into the basket of her bicycle."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1588,79 +1588,79 @@
 		"type": "MSGSET",
 		"MessageID": 21249,
 		"TextJPN": "不安定ながらもなんとかかごにうずたかく積まれたお菓子の山に、俺たちは歓声をあげる。",
-		"TextENG": "We squealed with delight at the unsteady, but manageable stack of sweets piled high in the basket."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21250,
 		"TextJPN": "こうして俺は、レナの家までかごいっぱいの荷物を運んでやったのだった。",
-		"TextENG": "This is how I carried the basket full of shopping items to Rena's house."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21251,
 		"TextJPN": "セブンスマートは市内にある、酒類食料品の安売量販店だ。ちょっと遠いが、まとめ買いをするなら商店街の店よりも安く、品目も多い。",
-		"TextENG": "The Seventh Mart was a bargain supermarket with food and alcohol. It's a little far, but if you buy in bulk, it's cheaper than the shops in the shopping district and there are many items."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21252,
 		"TextJPN": "店内には所狭しと商品が並べられ、それらを物色する人で賑わっている。幸い、缶詰コーナーにはそんなに人気はなかった。",
-		"TextENG": "The store was crowded with people looking at the many products on display. Fortunately, the canned food section was not so popular."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21253,
 		"TextJPN": "俺は誰に邪魔されることなく、入念に陳列棚をたしかめる。",
-		"TextENG": "I carefully inspect the shelves without being disturbed by anyone."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21254,
 		"TextJPN": "缶詰といっても、いろんな種類があるんだな……。",
-		"TextENG": "There are many different types of canned goods......"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21255,
 		"TextJPN": "お袋が買ってこいといったのは、おそらくおかずの缶詰だろう。",
-		"TextENG": "My mother probably told me to buy some canned side dishes."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21256,
 		"TextJPN": "サバの味噌煮、貝の佃煮、イワシ団子にレバーの佃煮……。やばい、早く決めないとどんどんお腹が空いてくるぞ。",
-		"TextENG": "Boiled mackerel in miso, boiled shellfish, sardine dumplings and boiled liver...... If I don't decide soon, I'm going to get hungrier and hungrier."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21257,
 		"TextJPN": "自転車で来ている以上、選べるのはダンボールに入った一種類だけ。",
-		"TextENG": "Since I was on a bicycle, there was only one kind of canned good to choose from."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21258,
 		"TextJPN": "目を皿のようにして缶詰のラベルをなめるようにチェックした俺が最終的に選び出したのは……炭火焼きやきとりタレ味……！",
-		"TextENG": "After licking the labels of the cans with my eyes like a plate, I finally chose the charcoal grilled chicken sauce flavor!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21259,
 		"TextJPN": "やっぱりこれが一番、旨いだろう。さりげなく子供の頃から好きだった一品だ。",
-		"TextENG": "This is probably the best. It's a dish that I've casually loved since I was a kid."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21260,
 		"TextJPN": "缶詰の中につめられた炭火の香ばしい匂い！　肉の弾力性を活かしてギュウギュウにつめられた鶏肉のボリューム！　無人島に缶詰を一つ持っていけといわれたら、これ以外の選択はちょっとないだろう。",
-		"TextENG": "The smell of the charcoal fire inside the can! The volume of the chicken stuffed with the flexibility of the meat! If I were asked to bring one canned food to a deserted island, I would have no choice but to choose this one."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21261,
 		"TextJPN": "そのダンボールを抱えてレジに向かおうとして、俺は足を止めた。",
-		"TextENG": "I stopped in my tracks as I carried the cardboard to the checkout counter."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1672,13 +1672,13 @@
 		"type": "MSGSET",
 		"MessageID": 21263,
 		"TextJPN": "ざわざわと、胸騒ぎ。背後に、気配を感じる。",
-		"TextENG": "There was a rustle in my chest. I felt a presence behind me."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21264,
 		"TextJPN": "奇妙な不安が湧き起こって、思わず振り返ると、そこに立っていたのは――。",
-		"TextENG": "A strange feeling of uneasiness came over me, and when I turned around without a second thought, there I was standing."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1696,7 +1696,7 @@
 		"PreTextTags": "@vS19/03/660300079.",
 		"TextJPN": "「やっと気づいたよ～。@k@vS19/03/660300080.鈍感だなぁ、圭ちゃんは！」",
 		"NamesENG": "Mion",
-		"TextENG": "``Finally, you realised that we are here.@k@vS19/03/660300080. You're so blunt, Kei-chan!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1711,7 +1711,7 @@
 		"type": "MSGSET",
 		"MessageID": 21268,
 		"TextJPN": "俺は密かに安堵した。自覚以上の不安を感じていたようだ……。一体、何にビビッていたのだろう！？",
-		"TextENG": "I was secretly relieved. I guess I was feeling more anxious than I realized. ......What in the world was I freaking out about!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1720,7 +1720,7 @@
 		"PreTextTags": "@vS19/02/660200097.",
 		"TextJPN": "「驚いたかな？@k@vS19/02/660200098.　いつ気づいてくれるかなって思ってたんだけどな！」",
 		"NamesENG": "Rena",
-		"TextENG": "``Are you surprised?@k@vS19/02/660200098. I was just wondering when you'd notice.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1729,19 +1729,19 @@
 		"PreTextTags": "@vS19/01/HR_KEI06780.",
 		"TextJPN": "「そんな内気なことしてないで声くらいかけろよ、まったく」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``Don't try to sneak, just say something like normal person.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21271,
 		"TextJPN": "レナと魅音は顔を見合わせてニヤニヤと笑う。どうやらこの二人、ずっと前から俺を尾けていたらしい。",
-		"TextENG": "Rena and Mion looked at each other and smirked. Apparently, these two had been following me for a long time. "
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21272,
 		"TextJPN": "何とたちの悪い……。どうせなら、ちゃんと驚かしてくれよ！",
-		"TextENG": "What a bunch of bad....... If you're going to do this, you might as well surprise me!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1750,7 +1750,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI06790.",
 		"TextJPN": "「珍しいな、魅音が買い物なんて」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``It's unusual for you to go shopping.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1759,13 +1759,13 @@
 		"PreTextTags": "@vS19/03/660300105.",
 		"TextJPN": "「へへ……。@k@vS19/03/660300106.なんかお菓子の新商品、ないかなと思ってさ。@k@vS19/03/660300107.……あ、圭ちゃん、缶詰まとめ買いなんだ～」",
 		"NamesENG": "Mion",
-		"TextENG": "``Hehe...@k@vS19/03/660300106. I was wondering if there were any new snacks.@k@vS19/03/660300107. Ah, Kei-chan, you're buying canned goods in bulk~``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21275,
 		"TextJPN": "魅音はかごいっぱいのお菓子を抱えながら、ひょいと俺のダンボールをチェックする。",
-		"TextENG": "Mion checked my cardboard box with a basket full of snacks."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1774,7 +1774,7 @@
 		"PreTextTags": "@vS19/03/660300108.",
 		"TextJPN": "「炭火焼きやきとりタレ味……？@k@vS19/03/660300109.　渋いチョイスだね。@k@vS19/03/660300110.おっさんみたい」",
 		"NamesENG": "Mion",
-		"TextENG": "``Charcoal grilled chicken flavor...?@k@vS19/03/660300109. That's an interesting choice...@k@vS19/03/660300110. For an old guy.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1783,7 +1783,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI06800.",
 		"TextJPN": "「魅音に言われたくはないぜ。@k@vS19/01/HR_KEI06810.……悪いかよ？」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``I don't want to hear anything from you.@k@vS19/01/HR_KEI06810. How is this bad``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1792,13 +1792,13 @@
 		"PreTextTags": "@vS19/03/660300111.",
 		"TextJPN": "「くっくっくっ……圭ちゃん、知ってる？@k@vS19/03/660300112.　缶詰にまつわるおっそろしぃ話を……！？」",
 		"NamesENG": "Mion",
-		"TextENG": "``Kehehehe... Kei-chan, you know what?@k@vS19/03/660300112. I'm going to tell you a horrible story about canned food...``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21279,
 		"TextJPN": "魅音はさもおかしそうに笑いながら、脅かすように迫ってくる。……どんな話なのか聞いてみたい気もするが、食事前に聞いたら喉を通らなくなりそうなので、丁重に遠慮した。",
-		"TextENG": "It's a good idea to know what you're looking for. I was tempted to ask her what she was talking about, but I politely refrained from doing so since I was afraid I might not be able to finish my meal if I asked her before I ate."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1807,7 +1807,7 @@
 		"PreTextTags": "@vS19/02/660200099.",
 		"TextJPN": "「でも、そうだよね！@k@vS19/02/660200100.　缶詰は中身をよく確かめてから買わないと、開けてビックリになっちゃうもんね～？」",
 		"NamesENG": "Rena",
-		"TextENG": "``But that's right!@k@vS19/02/660200100. If you don't know what's in the can before you buy it, you'll be surprised when you open it.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1819,7 +1819,7 @@
 		"type": "MSGSET",
 		"MessageID": 21282,
 		"TextJPN": "レナは得体の知れない缶詰でも食べたことがあるのだろうか……？！",
-		"TextENG": "I wonder if Rena has ever eaten from an unidentifiable can...?!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1834,7 +1834,7 @@
 		"type": "MSGSET",
 		"MessageID": 21284,
 		"TextJPN": "そこで俺は、きょとんと魅音を見て立ち止まっている女の子と目が合った。それに気づいた魅音も、顔を振り向けてその子を見る。",
-		"TextENG": "Then my eyes met with a girl who was standing still looking at me with a puzzled expression. When they noticed this, they also turned her head to look at the girl."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1843,7 +1843,7 @@
 		"PreTextTags": "@vS19/36/662900012.",
 		"TextJPN": "「あ、やっぱり魅音ちゃんだ。@k@vS19/36/662900013.こんにちは～」",
 		"NamesENG": "Girl",
-		"TextENG": "``Oh, I knew it was you, Mion-chan.@k@vS19/36/662900013. Good afternoon~!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1852,7 +1852,7 @@
 		"PreTextTags": "@vS19/03/660300113.",
 		"TextJPN": "「……あれ～？@k@vS19/03/660300114.　夏美ちゃんじゃない、久しぶりー！」",
 		"NamesENG": "Mion",
-		"TextENG": "``...Huh~?@k@vS19/03/660300114. Isn't it Natsumi, how have you been!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1861,7 +1861,7 @@
 		"PreTextTags": "@vS19/03/660300115.",
 		"TextJPN": "「どうしたの、戻ってきたの？」",
 		"NamesENG": "Mion",
-		"TextENG": "``What happened? You came back?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1870,7 +1870,7 @@
 		"PreTextTags": "@vS19/36/662900014.",
 		"TextJPN": "「ううん。@k@vS19/36/662900015.今日はそーりつ記念日だから、久々に里帰りしたいっておばーちゃんが、ね。@k@vS19/36/662900016.今日の夜帰る予定なの」",
 		"NamesENG": "Natsumi",
-		"TextENG": "``No.@k@vS19/36/662900015. Today is the anniversary of Solitsu, so my aunt wants to come home after a long time.@k@vS19/36/662900016. I'm supposed to be home tonight.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1879,13 +1879,13 @@
 		"PreTextTags": "@vS19/03/660300116.",
 		"TextJPN": "「そうなんだ～。@k@vS19/03/660300117.まぁ、土日だとここに来る高速道路、結構混むしね！@k@vS19/03/660300118.　あ――」",
 		"NamesENG": "Mion",
-		"TextENG": "``So that's it~.@k@vS19/03/660300117. Well, on weekends, the highway to here is pretty busy.@k@vS19/03/660300118. I...``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21290,
 		"TextJPN": "そこで魅音は、俺とレナがきょとん、と二人の顔を見比べていることに気がついた。",
-		"TextENG": "Then she noticed that Rena and I were looking at each other with a puzzled look on our faces."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1894,7 +1894,7 @@
 		"PreTextTags": "@vS19/03/660300119.",
 		"TextJPN": "「ごめんごめん、紹介が遅れたね！@k@vS19/03/660300120.　この子は@bきみよしなつみ.@<公由夏美@>ちゃん。@k@vS19/03/660300121.村長さんの親戚で、去年まで興宮に住んでいたんだよ」",
 		"NamesENG": "Mion",
-		"TextENG": "``Ah, sorry! I will introduce you!@k@vS19/03/660300120. She's Kimiyoshi Natsumi-chan.@k@vS19/03/660300121. She's a relative of the village chief, and she used to live in Okinomiya until last year.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1903,7 +1903,7 @@
 		"PreTextTags": "@vS19/02/660200101.",
 		"TextJPN": "「……そうなの？@k@vS19/02/660200102.　じゃ、レナと入れ違いだったんだね」",
 		"NamesENG": "Rena",
-		"TextENG": "``...Really?@k@vS19/02/660200102. So you and Rena must have crossed paths.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1912,7 +1912,7 @@
 		"PreTextTags": "@vS19/36/662900017.",
 		"TextJPN": "「こんにちはー。@k@vS19/36/662900018.でも私は興宮の学校だったから、魅音ちゃんしか知らないんだけどね」",
 		"NamesENG": "Natsumi",
-		"TextENG": "``Good afternoon.@k@vS19/36/662900018. But I was at school in Okinomiya, so I only know Mion-chan.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1921,13 +1921,13 @@
 		"PreTextTags": "@vS19/01/HR_KEI06830.",
 		"TextJPN": "「おう。こっちこそよろしくなー」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``Also nice to meet you.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21295,
 		"TextJPN": "俺たちは気さくに話しながら、お互いに自己紹介しあう。学年は……俺やレナと同じかな。",
-		"TextENG": "We talked openly and introduced ourselves to each other. I think she's in the same grade as... ...me and Rena."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1936,7 +1936,7 @@
 		"PreTextTags": "@vS19/36/662900019.",
 		"TextJPN": "「じゃ、またね。@k@vS19/36/662900020.もう行かなくっちゃ」",
 		"NamesENG": "Natsumi",
-		"TextENG": "``See you later.@k@vS19/36/662900020. I need to go.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1945,7 +1945,7 @@
 		"PreTextTags": "@vS19/03/660300122.",
 		"TextJPN": "「うん、それじゃ！@k@vS19/03/660300123.　お祭りには帰ってくるの？」",
 		"NamesENG": "Mion",
-		"TextENG": "``Good bye!@k@vS19/03/660300123. Will you be coming to the festival?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1954,13 +1954,13 @@
 		"PreTextTags": "@vS19/36/662900021.",
 		"TextJPN": "「たぶんね。@k@vS19/36/662900022.おばーちゃん、すごく楽しみにしてるみたいだから」",
 		"NamesENG": "Natsumi",
-		"TextENG": "``Probably.@k@vS19/36/662900022. Grandma can't wait to see it.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21299,
 		"TextJPN": "そう言って夏美ちゃんは、明るくにこにこと手を振りながら店を出ていった。",
-		"TextENG": "Natsumi then cheerfully waved her hand as she left the store."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1969,13 +1969,13 @@
 		"PreTextTags": "@vS19/03/660300124.",
 		"TextJPN": "「あたし、新発売コーナーのお菓子もチェックしてくるね～。@k@vS19/03/660300125.メロンクリームのクッキー、そろそろ発売のはずなんだよね」",
 		"NamesENG": "Mion",
-		"TextENG": "``I'm going to go check out the snacks in the new release section~.@k@vS19/03/660300125. Melon cream cookies should be available soon!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21301,
 		"TextJPN": "お菓子売り場へふらりと歩いていく魅音。あんなにかごにお菓子が入っているのに、まだ買う気か？！",
-		"TextENG": "Mion wandered over to the candy counter. With all those baskets full of sweets, how are you still going to buy more?!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1984,7 +1984,7 @@
 		"PreTextTags": "@vS19/02/660200103.",
 		"TextJPN": "「圭一くんは、お買い物はそれだけかな？　かな？」",
 		"NamesENG": "Rena",
-		"TextENG": "``Keiichi-kun, is this all that you're buying? Is that all?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1993,13 +1993,13 @@
 		"PreTextTags": "@vS19/01/HR_KEI06840.",
 		"TextJPN": "「もちろん。@k@vS19/01/HR_KEI06850.俺にはやきとりさえあれば……」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``Of course.@k@vS19/01/HR_KEI06850. As long as I have my chicken...``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21304,
 		"TextJPN": "そう言いかけて、俺はカップラーメンも頼まれていたことを思い出した。",
-		"TextENG": "I was about to say more, when I remembered that I had also ordered cup noodles."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2014,7 +2014,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI06860.",
 		"TextJPN": "「そういうレナは、なに買いにきたんだ？」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``What did you come to buy?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2023,31 +2023,31 @@
 		"PreTextTags": "@vS19/02/660200104.",
 		"TextJPN": "「台所用洗剤と床クリーナーとお風呂のせっけんと洗濯石鹸と、お水のペットボトル。@k@vS19/02/660200105.あとみりんとお醤油とか……」",
 		"NamesENG": "Rena",
-		"TextENG": "``Kitchen detergent, floor cleaner, bath soap, laundry soap, and a bottle of water.@k@vS19/02/660200105. And mirin and soy sauce...``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21308,
 		"TextJPN": "おいおい、買いすぎじゃないのか……？　一人でそんなに持って帰るつもりなのか？！",
-		"TextENG": "Come on, aren't you buying too much......? Are you going to bring home that much by yourself?"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21309,
 		"TextJPN": "そうこうしているうちに、魅音がこれまたかごいっぱいのお菓子を抱えてレジへ並んでゆく。",
-		"TextENG": "In the meantime, Mion lined up at the cash register with another basket full of sweets."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21310,
 		"TextJPN": "雛見沢住民の物欲をがっちりつかんで放さない、恐るべき量販店・セブンスマート！",
-		"TextENG": "As expected of the mass retailer Seventh Mart, which has never let go of the greed of Hinamizawa residents!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21311,
 		"TextJPN": "無事にレジを通過し、俺たちは買い物を終了した。",
-		"TextENG": "We went through the cashier without incident and we finished our shopping."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2056,13 +2056,13 @@
 		"PreTextTags": "@vS19/02/660200106.",
 		"TextJPN": "「うぅ～ん。@k@vS19/02/660200107.買いすぎちゃったかな？　かな？」",
 		"NamesENG": "Rena",
-		"TextENG": "``Uh~.@k@vS19/02/660200107. Have I bought too much? Too much?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21313,
 		"TextJPN": "案の定、レナの大荷物は自転車のかごに乗り切る量ではなかった。……買う前に気づけって！",
-		"TextENG": "As expected, Rena's large luggage was not enough to fit in the basket of her bike."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2071,7 +2071,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI06870.",
 		"TextJPN": "「……ったく。@k@vS19/01/HR_KEI06880.半分持ってやるよ、俺のかごに入れていーぞ。@k@vS19/01/HR_KEI06890.家まで運んでやるよ」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``...Gosh.@k@vS19/01/HR_KEI06880. I will take half. You can put it in my basket.@k@vS19/01/HR_KEI06890. I will take it home with you.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2080,13 +2080,13 @@
 		"PreTextTags": "@vS19/02/660200108.",
 		"TextJPN": "「はぅ～。@k@vS19/02/660200109.圭一くん、ありがとう～！」",
 		"NamesENG": "Rena",
-		"TextENG": "``Hau~.@k@vS19/02/660200109. Thank you, Keiichi-kun~!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21316,
 		"TextJPN": "レナがぽわーっと赤くなる。",
-		"TextENG": "Rena turns red and fuzzy."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2095,7 +2095,7 @@
 		"PreTextTags": "@vS19/03/660300126.",
 		"TextJPN": "「圭ちゃん、私のも入れて～～！」",
 		"NamesENG": "Mion",
-		"TextENG": "``Kei-chan, take some of mine too~~!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2104,7 +2104,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI06900.",
 		"TextJPN": "「もう、載らないよ！@k@vS19/01/HR_KEI06910.　菓子なら俺が今、ここで食ってやる！」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``I can't take more!@k@vS19/01/HR_KEI06910. If it's candy, I'll eat it right here, right now!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2113,13 +2113,13 @@
 		"PreTextTags": "@vS19/03/660300127.",
 		"TextJPN": "「圭ちゃんに食べられるくらいなら、意地でも持って帰るよ！」",
 		"NamesENG": "Mion",
-		"TextENG": "``I'd rather take it home with me than be eaten by Kei-chan!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21320,
 		"TextJPN": "自転車のかごに、ぎゅうぎゅうにお菓子をつめる魅音を見ながら、俺とレナは顔を見合わせて笑いあう。",
-		"TextENG": "Rena and I looked at each other and laughed as she stuffed snacks into the basket of her bicycle."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2134,13 +2134,13 @@
 		"type": "MSGSET",
 		"MessageID": 21322,
 		"TextJPN": "不安定ながらもなんとかかごにうずたかく積まれたお菓子の山に、俺たちは歓声をあげる。",
-		"TextENG": "We squealed with delight at the unsteady but manageable stack of sweets piled high in the basket."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 21323,
 		"TextJPN": "こうして俺は、レナの家までかごいっぱいの荷物を運んでやったのだった。",
-		"TextENG": "This is how I carried the basket full of grocery items to Rena's house."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

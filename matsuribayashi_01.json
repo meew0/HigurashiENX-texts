@@ -625,7 +625,7 @@
 		"PreTextTags": "@vS13/00/VT4A_boyA1001.",
 		"TextJPN": "「あ、あの！@k　@vS13/00/VT4A_boyA1002.スポーツは好きですか？@k　@vS13/00/VT4A_boyA1003.来週試合やるんで、よければ見に来てください！」",
 		"NamesENG": "Young boy",
-		"TextENG": "``Ah, um!!@k@vS13/00/VT4A_boyA1002. Do you like sports?@k@vS13/00/VT4A_boyA1003. We're playing next week, if you want to come watch!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -634,7 +634,7 @@
 		"PreTextTags": "@vS13/00/VT4A_boyB1001.",
 		"TextJPN": "「もうこの村は回りましたか？@k　@vS13/00/VT4A_boyB1002.何かわからないことがあったらなんでも聞いてください…！」",
 		"NamesENG": "Young boy",
-		"TextENG": "``Have you been to this village yet?@k@vS13/00/VT4A_boyB1002. Please ask me if you don't know anything...``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

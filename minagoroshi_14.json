@@ -399,43 +399,43 @@
 		"type": "MSGSET",
 		"MessageID": 104173,
 		"TextJPN": "そこで俺は、沙都子の現状、そして昨日の興宮の相談所における顛末を出来るだけ詳しく、皆に伝えて聞かせた。",
-		"TextENG": "So I told everyone as much as I could about Satoko's current situation and what had happened at the consultation center in Okinomiya yesterday."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 104174,
 		"TextJPN": "沙都子と、その叔父である北条鉄平がどういう人間であるか。そしてその男が、これまで一人家を飛び出してどんな生活を送っていたか……。",
-		"TextENG": "What kind of person is Satoko and her uncle, Teppei Hojo. And what kind of life did the man ever live out of his own house..."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 104175,
 		"TextJPN": "やむなき事情があるなら、再び雛見沢に戻ってきたとしても納得がいくだろう。しかし、興宮で別宅を構えていた理由も、戻ってきた理由も全て、自分の勝手気ままな理由によるものだ。",
-		"TextENG": "If there were unavoidable circumstances, it would make sense for him to come back to Hinamizawa. However, the reason why he had set up a separate house in Okinomiya and the reason why he came back were all due to his own selfish reasons."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 104176,
 		"TextJPN": "そんな男がいまさら沙都子の面倒を見るといったところで、一体誰が信じる？！",
-		"TextENG": "Who would believe such a man if he said he would take care of Satoko now?!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 104177,
 		"TextJPN": "――そんな、俺の怒りに満ちた激情をどれだけわかってもらえるかは不安だったが、魅音やレナの巧みなフォローを受けながら、精一杯の気持ちを込めてしゃべり続けた。",
-		"TextENG": "I was not sure how much they would understand my rage filled passion, but with the skillful follow-up of Mion and Rena, I continued to speak with all my heart."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 104178,
 		"TextJPN": "そして、そんな沙都子を救い出すには、相談所の協力がぜひとも必要だということを経緯も含めて説明する。",
-		"TextENG": "I also explained that in order to rescue Satoko, the cooperation of the consultation center was absolutely necessary."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 104179,
 		"TextJPN": "……初めこそ、聞きなれない単語の連発に戸惑いの表情がちらほらと見られたが、俺たちに出来る最善、そして唯一の方法であることを語っているうちに、皆一様に熱心な表情で耳を傾けてくれるようになった。",
-		"TextENG": "...At first, there were a few puzzled looks at the series of unfamiliar words, but as we talked about the best and only way we could do it, they all listened intently."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -990,7 +990,7 @@
 		"type": "MSGSET",
 		"MessageID": 104249,
 		"TextJPN": "２回目となった話し合いは、先生とクラスメイト全員の同席という力強い援軍を得たとはいえ、……やはり厳しい状況からはじまった。",
-		"TextENG": "The second discussion began in a difficult situation, even though we had the strong support of the teacher and all of our classmates present."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1833,7 +1833,7 @@
 		"PreTextTags": "@vS12/23/182800010.",
 		"TextJPN": "「そりゃ俺もメイド姿の沙都子ちゃんに惚れてますし、普段ならあのキツイ目で睨まれながら罵られるなんてサイコーですよ！！」",
 		"NamesENG": "Kameda",
-		"TextENG": "Of course I love Satoko in school maid outfit, and normally I'd be happy to be cursed with her cruel glare!!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2247,7 +2247,7 @@
 		"PreTextTags": "@vS12/01/180100930.",
 		"TextJPN": "「ほらあれだ、ＴＶドラマの俳優に惚れるのは正常だが、アニメのキャラに萌えるのは危険分子扱いされる今の風潮がそれを反映している！！」",
 		"NamesENG": "Keiichi",
-		"TextENG": "See, that's the thing, it's normal to fall in love with actors in TV dramas, but it reflects the current trend where moaning over anime characters is considered dangerous!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2265,7 +2265,7 @@
 		"PreTextTags": "@vS12/01/180100932.",
 		"TextJPN": "「リアルを愛するからこそアニメのキャラは可愛いんだああああッ！」",
 		"NamesENG": "Keiichi",
-		"TextENG": "Anime characters are cute because they love the real thing!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2274,7 +2274,7 @@
 		"PreTextTags": "@vS12/01/180100933.",
 		"TextJPN": "「いやもちろんリアルポリゴンのキャラも捨てがたいんだけどね？」",
 		"NamesENG": "Keiichi",
-		"TextENG": "No, of course it's hard to throw away real polygon characters, right?"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2283,7 +2283,7 @@
 		"PreTextTags": "@vS12/01/180100934.",
 		"TextJPN": "「余談だけど、最近の３次元ポリゴン技術なら擬似アニメキャラを作れるってホント？」",
 		"NamesENG": "Keiichi",
-		"TextENG": "On a side note, is it true that with today's polygon technology you can create pseudo-animated characters?"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2682,7 +2682,7 @@
 		"PreTextTags": "@vS12/00/otaB18001.",
 		"TextJPN": "「いたいけな女の子を泣かせるなんて、男に生まれた者として見過ごせないんだなっ！！」",
 		"NamesENG": "Otaku",
-		"TextENG": "``You can't overlook the fact that a good girl is made to cry!!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2691,7 +2691,7 @@
 		"PreTextTags": "@vS12/00/otaC18001.",
 		"TextJPN": "「女の子を大切に出来んおろか者め、拙者が斬るッ！！」",
 		"NamesENG": "Otaku",
-		"TextENG": "``If you can't take good care of girls, I'll kill you!!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2700,7 +2700,7 @@
 		"PreTextTags": "@vS12/00/otaD18001.",
 		"TextJPN": "「想像の中ならともかく、リアルとの区別も付かぬとは、論外でござるよ！！」",
 		"NamesENG": "Otaku",
-		"TextENG": "``It's out of the question that you can't tell the difference from the real thing, even if you're imagining it!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

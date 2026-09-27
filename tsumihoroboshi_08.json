@@ -314,7 +314,7 @@
 		"PreTextTags": "@vS09/21/teppe07004.",
 		"TextJPN": "「…律子。@k@vS09/21/teppe07005.それで、全部かぁ」",
 		"NamesENG": "Teppei",
-		"TextENG": "``...Ritsuko,@k@vS09/21/teppe07005. you sure that's all?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -332,7 +332,7 @@
 		"PreTextTags": "@vS09/21/teppe07006.",
 		"TextJPN": "「全部って、ワシの分も含めてかって聞いとんねッ！！」",
 		"NamesENG": "Teppei",
-		"TextENG": "``I'm askin' ya, if this includes everything!!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -341,7 +341,7 @@
 		"PreTextTags": "@vS09/20/rina07004.",
 		"TextJPN": "「だから私が言った分は、全部だって言ってるでしょ！」",
 		"NamesENG": "Rina",
-		"TextENG": "``And I'm telling you it's all here!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -365,7 +365,7 @@
 		"PreTextTags": "@vS09/21/teppe07009.",
 		"TextJPN": "「おい、兄さん方。@k@vS09/21/teppe07010.約束と違うけぇね。@k@vS09/21/teppe07011.どういうごっちゃん」",
 		"NamesENG": "Teppei",
-		"TextENG": "``Hey, boys.@k@vS09/21/teppe07010. That's now what we agreed.@k@vS09/21/teppe07011. What's goin' on?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -374,7 +374,7 @@
 		"PreTextTags": "@vS09/20/rina07005.",
 		"TextJPN": "「鉄っちゃん。@k@vS09/20/rina07006.凄んじゃ可哀想でしょー？@k@vS09/20/rina07007.　ゴメンねぇ、うちの人、すぐトサカに来ちゃう人で」",
 		"NamesENG": "Rina",
-		"TextENG": "``Tecchan,@k@vS09/20/rina07006. don't be so mean to them.@k@vS09/20/rina07007. I'm sorry. My guy is a bit of a tosser.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -383,7 +383,7 @@
 		"PreTextTags": "@vS09/21/teppe07012.",
 		"TextJPN": "「トサカとは余計だんね！！@k@vS09/21/teppe07013.　お前にアヤ付けよったんから本気になっとんよ俺ぁ」",
 		"NamesENG": "Teppei",
-		"TextENG": "``Imma not a tosser!!@k@vS09/21/teppe07013. I'm getting ticked because they're bitchin' at'cha.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -413,7 +413,7 @@
 		"PreTextTags": "@vS09/20/rina07010.",
 		"TextJPN": "「ねぇ、あんたたち。@k@vS09/20/rina07011.鉄っちゃん、今日はね、すっごく機嫌がいいの。@k@vS09/20/rina07012.普段だったら、今頃あんたたち、素っ裸にされて玉子川に叩き込まれてるわよ」",
 		"NamesENG": "Rina",
-		"TextENG": "``Listen, you two.@k@vS09/20/rina07011. Tecchan is actually in a very good mood today.@k@vS09/20/rina07012. Usually,  you'd be thrown into the Ouji River naked by now.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -431,19 +431,19 @@
 		"PreTextTags": "@vS09/20/rina07013.",
 		"TextJPN": "「まぁ、あんまり責め立てても仕方ないし。@k@vS09/20/rina07014.本題に入りましょ」",
 		"NamesENG": "Rina",
-		"TextENG": "``Well, I can't blame you too much.@k@vS09/20/rina07014. Let's get into the main subject.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 83672,
 		"TextJPN": "男たちはとっとと事を終わらせたいと考えたのか、ペンを受け取るとそそくさとテーブル上の書類に何かを書き込んでいく。",
-		"TextENG": "The men seemed to want to get things done quickly, so they took the pens and quickly wrote something on the papers on the table."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 83673,
 		"TextJPN": "それを見ていた男と律子は、思い通りに事が進んだのをにんまり笑い合った。",
-		"TextENG": "The man and Ritsuko, who had been watching, smiled at each other, knowing that things had gone exactly as they had planned."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -590,7 +590,7 @@
 		"PreTextTags": "@vS09/21/teppe07016.",
 		"TextJPN": "「おう！@k@vS09/21/teppe07017.　じゃあ、そろそろ行こうかぁ。@k@vS09/21/teppe07018.律子、会計頼むんね」",
 		"NamesENG": "Teppei",
-		"TextENG": "``Great!@k@vS09/21/teppe07017. Then let's go.@k@vS09/21/teppe07018. Ritsuko, take care of the check, would ya?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -965,7 +965,7 @@
 		"PreTextTags": "@vS09/15/1715000014.",
 		"TextJPN": "「北条は、確かリナとは深い仲かと。@k@vS09/15/1715000015.性質の悪い連中ですので、係わり合いになられない方がいいと思います」",
 		"NamesENG": "Kasai",
-		"TextENG": "``Houjou is Rina's *very close friend*.@k@vS09/15/1715000015. They're very, very bad people, so you should never get involved with them.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

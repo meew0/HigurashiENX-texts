@@ -360,7 +360,7 @@
 		"type": "MSGSET",
 		"MessageID": 9264,
 		"TextJPN": "そして、家族３人で停留所へ行って、…バスを待ち、…乗り込んだ。",
-		"TextENG": "Then the three family members went to the bus stop, waited for the bus, and boarded it."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -375,7 +375,7 @@
 		"PreTextTags": "@vS20/48/VTK2_miyoko2012.",
 		"TextJPN": "「今日は急ブレーキが多いね」",
 		"NamesENG": "Miyoko",
-		"TextENG": "``Lately it brakes more often.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -399,25 +399,25 @@
 		"type": "MSGSET",
 		"MessageID": 9270,
 		"TextJPN": "………そして、…バスは、…交通量の多い、…見通しの利きづらい、…交差点へとさしかかる。",
-		"TextENG": "...Then... a bus... reached a busy... difficult to grasp... intersection."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 9271,
 		"TextJPN": "バスの車内の人々は、流れる景色には気にも留めず…周囲を走る車も、しっかりと交通ルールを守ってくれているものだと勝手に信じ切っていた。",
-		"TextENG": "The people in the bus didn't pay attention to the scenery, and assumed that the cars around them were obeying the traffic rules."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 9272,
 		"TextJPN": "だから、対向車が蛇行して、中央の分岐帯にまで車体がはみ出してきていることにも、気づかず…。",
-		"TextENG": "That's why they didn't even notice that the oncoming car was meandering and the body of the car was sticking out into the center turnout."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 9273,
 		"TextJPN": "そして、…運転手もまた、ちょっとわき見をしていてその動きに気づかず……。",
-		"TextENG": "And the driver, too, was a little too busy looking over his shoulder to notice the movement."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

@@ -481,7 +481,7 @@
 		"PreTextTags": "@vS12/03/280300021.",
 		"TextJPN": "「あ～、そういえば大石さんと一緒にいたね」",
 		"NamesENG": "Mion",
-		"TextENG": "``Ah, he was with Ooishi before!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -490,7 +490,7 @@
 		"PreTextTags": "@vS12/03/280300022.",
 		"TextJPN": "「この人も警察の関係者さん～？」",
 		"NamesENG": "Mion",
-		"TextENG": "Is he also from police?``"
+		"TextENG": ""
 	},
 	{
 		"type": "LOGSET",

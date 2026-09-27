@@ -915,25 +915,25 @@
 		"PreTextTags": "@vS09/01/430200001.",
 		"TextJPN": "「…大丈夫だよ、きっとな」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``...It'll be all right, I'm sure.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 89354,
 		"TextJPN": "俺はそう言って、梨花ちゃんの肩をぽん、と叩いた。",
-		"TextENG": "I said, and patted Rika on the shoulder."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 89355,
 		"TextJPN": "…もちろん、不安が無いわけではない。大丈夫だと口にしても、その根拠や自信があるわけでもない。",
-		"TextENG": "Of course, I am not without anxiety. Even if I say I'm fine, it doesn't mean I have the evidence or confidence to prove it."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 89356,
 		"TextJPN": "だから、今の台詞は自分への励ましも含んだ頼りないものだったが、…彼女はそれを察してくれたのか、にっこりと笑って頷いてくれる。",
-		"TextENG": "That's why the words I just said were unreliable and included encouragement for myself, but... she smiled and nodded, as if she sensed it."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1225,7 +1225,7 @@
 		"MessageID": 89395,
 		"TextJPN": "竜宮さんが不良になる@r@|@y↓@r悪いことをして逮捕される@r@|@y↓@r担任の重大な責任@r@|@y↓@r懲戒免職@r@|@y↓@rカレーが食べられない@r@|@y↓@r死",
 		"AfterTextTags": "@|@y",
-		"TextENG": "Ryuugu-san becomes a bad kid.@r@|@y↓@rShe does something bad@rand gets arrested by the police.@r@|@y↓@rIt's her teacher's responsibility.@r@|@y↓@rI'll be dishonorably discharged.@r@|@y↓@rI can't eat curry anymore.@r@|@y↓@rI'm dead."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2993,7 +2993,7 @@
 		"MessageID": 89653,
 		"TextJPN": "竜宮さんが不良になる@r@|@y↓@r悪いことをして逮捕される@r@|@y↓@r担任の重大な責任@r@|@y↓@r懲戒免職@r@|@y↓@rカレーが食べられない@r@|@y↓@r死",
 		"AfterTextTags": "@|@y",
-		"TextENG": "Ryuugu-san becomes a bad kid.@r@|@y↓@rShe does something bad@rand gets arrested by the police.@r@|@y↓@rIt's her teacher's responsibility.@r@|@y↓@rI'll be dishonorably discharged.@r@|@y↓@rI can't eat curry anymore.@r@|@y↓@rI'm dead."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

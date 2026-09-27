@@ -1386,7 +1386,7 @@
 		"PreTextTags": "@vS13/14/DS41130271.",
 		"TextJPN": "「まぁ、数万の兵力の場合ならそういう数式になるでしょうが。@k@vS13/14/DS41130272.…密林や山岳地といった局地戦ではそうも行きませんね…。@k@vS13/14/DS41130273.歴史の教科書が、そいつを嫌になるほど証明してますん」",
 		"NamesENG": "Okonogi",
-		"TextENG": "``Well, that theory works if we're talking about thousands of soldiers.@k@vS13/14/DS41130272. It doesn't work in smaller scale battles.@k@vS13/14/DS41130273. The history books have proven as much.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2865,13 +2865,13 @@
 		"type": "MSGSET",
 		"MessageID": 119970,
 		"TextJPN": "来期の予算で修理することになっているらしい。",
-		"TextENG": "They are supposed to repair it with next year's budget."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 119971,
 		"TextJPN": "どうでもいいことだが。",
-		"TextENG": "Not that it matters now."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -3993,7 +3993,7 @@
 		"PreTextTags": "@vS13/10/DS41100385.",
 		"TextJPN": "「いえ、そんな凶悪なものではありません。@k@vS13/10/DS41100386.極めて高い濃度で吸えばともかく、命に別状はないと思います。@k@vS13/10/DS41100387.ただ、これは吸入後数分で作用」",
 		"NamesENG": "Irie",
-		"TextENG": "``N-No, it's not that heinous.@k@vS13/10/DS41100386. If you inhale a lot of it, it's dangerous, but it's not deadly.@k@vS13/10/DS41100387. But it only takes a few minutes to take effect."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -4011,7 +4011,7 @@
 		"PreTextTags": "@vS13/15/DS41140057.",
 		"TextJPN": "「…コショウとか、スギ花粉の強力なやつですね。@k@vS13/15/DS41140058.くしゃみといっても、戦闘において集中力がいちじるしく削がれますから、なかなか侮れない脅威です」",
 		"NamesENG": "Kasai",
-		"TextENG": "``It must be a powerful pepper or cedar pollen.@k@vS13/15/DS41140058. Even a sneeze is a threat that should not be underestimated, as it can greatly reduce your concentration in battle.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -5222,7 +5222,7 @@
 		"TextJPN": "「オバサンとメイドの組み合わせはまさにトイレ用洗剤、混ぜるな危険ッ！！@|@y@k　@vS13/10/DS41100432.それを混ぜるとなぜかメイドでなく家政婦さんになり、急にトレンディドラマから昼ドラっぽくなっちゃうのです！！」",
 		"AfterTextTags": "@|@y",
 		"NamesENG": "Irie",
-		"TextENG": "Middle-aged women and maids are just like different kinds of toilet detergent. They're dangerous to mix!!@|@y@k@vS13/10/DS41100432. If you mix them together, then you get housekeepers, not maids, and trendy dramas will be quickly replaced by mere soap operas!!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -5242,7 +5242,7 @@
 		"TextJPN": "「それこそが預言書に記された最後の審判の日ッ！！@|@y@k　@vS13/10/DS41100436.全世界を偉大なるメイドカチューシャが覆いし時、真のメイド世界が開かれる！！」",
 		"AfterTextTags": "@|@y",
 		"NamesENG": "Irie",
-		"TextENG": "That is the Judgment Day prophesized in Revelation!!@|@y@k@vS13/10/DS41100436. When the great maid headbands cover the entire globe, the true world of maids will emerge!!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

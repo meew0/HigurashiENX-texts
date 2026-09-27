@@ -1545,7 +1545,7 @@
 		"PreTextTags": "@vS12/05/180500491.",
 		"TextJPN": "「いえ、いなければいいのです。@k@vS12/05/180500492.ありがとうですよ大石。@k@vS12/05/180500493.にぱ～☆」",
 		"NamesENG": "Rika",
-		"TextENG": "``No, that's alright.@k@vS12/05/180500492. Thank you for your help.@k@vS12/05/180500493. Nipah~☆``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1833,7 +1833,7 @@
 		"PreTextTags": "@vS12/09/TAKA081303.",
 		"TextJPN": "「多分、こういうのはまず、興宮の生活相談所に訴えるのが先じゃないかしら」",
 		"NamesENG": "Takano",
-		"TextENG": "``Maybe we should first appeal to the Okinomiya Child Consultation Center.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2202,7 +2202,7 @@
 		"PreTextTags": "@vS12/09/TAKA081305.",
 		"TextJPN": "「それはつまり、叔父の方をなんとかせよというご命令ですわよね…？」",
 		"NamesENG": "Takano",
-		"TextENG": "``That means you're ordering me to do something about her uncle...?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

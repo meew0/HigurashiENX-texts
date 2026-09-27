@@ -21,13 +21,13 @@
 		"type": "MSGSET",
 		"MessageID": 11342,
 		"TextJPN": "＜E.昭和５７年の世界＞の『E5 北条叔母撲殺事件』@r＜H.仲間たちの世界＞の『H2 竜宮レナ』@r…以上のカケラを見た後、選択できるようになるわよ。",
-		"TextENG": "``E5 Death of Satoshi's Aunt`` in the World of 1982@r``H2 Rena Ryuugu`` in the World of Friends@r...After viewing the above pieces, you will be able to select this one."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 11343,
 		"TextJPN": "そして、@r＜H.仲間たちの世界＞の『H1 前原圭一』@r…以上のカケラの出現に関わってくるわよ。",
-		"TextENG": "Also, ``H1 Keiichi Maebara`` in the World of Friends@r...This additional fragment will be involved in their unlocking."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

@@ -51,7 +51,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "２３日午前中、園崎邸前を巡回していた警邏車両は邸内よりの悲鳴を聞き、緊急措置として邸内へ突入。",
 		"AfterTextTags": "@|@y",
-		"TextENG": "On the morning of the 23rd, a vehicle patrolling the Sonozaki property heard screams from inside and rushed in as an emergency measure."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

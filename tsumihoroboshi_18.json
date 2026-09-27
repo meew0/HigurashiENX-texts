@@ -1721,7 +1721,7 @@
 		"PreTextTags": "@vS09/14/173400023.",
 		"TextJPN": "「いんえいんえ～、……は今日…………………………ー、うぇっへっへー！」",
 		"NamesENG": "Gardener",
-		"TextENG": "``It sure is. …… you ………………………… today …………………. Eh heh heh!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1751,7 +1751,7 @@
 		"PreTextTags": "@vS09/22/171400026.",
 		"TextJPN": "「………と………ですね。@k@vS09/22/171400027.ありがとうございます。@k@vS09/22/171400028.……は空欄ですね、問題ありません。@k@vS09/22/171400029.はい、お預かりします」",
 		"NamesENG": "Chie",
-		"TextENG": "``The ……… and ………, I see.@k@vS09/22/171400027. …… is left blank on …….@k@vS09/22/171400028. Well, there shouldn't be any problem.@k@vS09/22/171400029. Thank you so much.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2058,7 +2058,7 @@
 		"PreTextTags": "@vS09/14/173400027.",
 		"TextJPN": "「いんえいんえ～、……は今日…………………………ー、うぇっへっへー！」",
 		"NamesENG": "Gardener",
-		"TextENG": "``It sure is. …… you ………………………… today …………………. Eh heh heh!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2109,7 +2109,7 @@
 		"PreTextTags": "@vS09/22/171400031.",
 		"TextJPN": "「………と………ですね。@k@vS09/22/171400032.ありがとうございます。@k@vS09/22/171400033.……は空欄ですね、問題ありません。@k@vS09/22/171400034.はい、お預かりします」",
 		"NamesENG": "Chie",
-		"TextENG": "``The ……… and ………, I see.@k@vS09/22/171400032. …… is left blank on …….@k@vS09/22/171400033. Well, there shouldn't be any problem.@k@vS09/22/171400034. Thank you so much.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

@@ -1196,7 +1196,7 @@
 		"type": "MSGSET",
 		"MessageID": 19193,
 		"TextJPN": "俺はその気配を背後に感じて、振り向きざまにブロック！　――するつもりだったが、",
-		"TextENG": "I felt a presence behind me, so I turned around to block any incoming attack! ...I was going to do that, but..."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1211,7 +1211,7 @@
 		"type": "MSGSET",
 		"MessageID": 19195,
 		"TextJPN": "沙都子の突進があまりにも鋭かったので、とっさに俺は上体をそらしてひらり、とかわした。",
-		"TextENG": "Satoko's lunge was so sharp that I quickly turned my upper body to dodge it."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1268,13 +1268,13 @@
 		"type": "MSGSET",
 		"MessageID": 19202,
 		"TextJPN": "予想外の大惨事の様子に、俺たち一同凍りついたように固まってしまう。",
-		"TextENG": "At the sight of the unexpected catastrophe, we all froze."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 19203,
 		"TextJPN": "…被害は弁当箱の一つだけで済んだとはいえ、そのあおりを沙都子は文字通り顔一面に食らっていた。",
-		"TextENG": "...Even though the damage was only to one of the lunch boxes, it literally hit Satoko's face."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1298,13 +1298,13 @@
 		"type": "MSGSET",
 		"MessageID": 19206,
 		"TextJPN": "沈黙の中、…おそるおそる硬直から抜け出した梨花ちゃんが、…弁当箱に顔を思いっきり突っ込んだ沙都子の肩をぽん、と叩く。",
-		"TextENG": "In the silence, Rika-chan came out of her rigidness with apprehension and patted Satoko on the shoulder, who had her face in the lunch box."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 19207,
 		"TextJPN": "その肩は、…小刻みに震えていた。",
-		"TextENG": "Her shoulders were... quivering in small movements."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1313,7 +1313,7 @@
 		"PreTextTags": "@vS19/04/VTX_satoko1003.",
 		"TextJPN": "「…………ふ、ふぁぁあぁあぁんっっ！！@k@vS19/04/VTX_satoko1004.　圭一さんの極悪非道者ぉぉ～～っっ！！」",
 		"NamesENG": "Satoko",
-		"TextENG": "``...Waaaaaaa!!@k@vS19/04/VTX_satoko1004. Keiichi's a villainous, outrageous person!!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1322,7 +1322,7 @@
 		"PreTextTags": "@vS19/01/VTX_keiichi1003.",
 		"TextJPN": "「――って、俺か？@k@vS19/01/VTX_keiichi1004.　今のは俺のせいなのかっ？！」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``What, me?@k@vS19/01/VTX_keiichi1004. It's my fault?!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1331,7 +1331,7 @@
 		"PreTextTags": "@vS19/03/VTX_mion1002.",
 		"TextJPN": "「まー、そうかもね。@k@vS19/03/VTX_mion1003.客観的かつ合理的に考えて、１００％そうかもね」",
 		"NamesENG": "Mion",
-		"TextENG": "``Well, maybe.@k@vS19/03/VTX_mion1003. Thinking objectively and rationally, it may be 100% your fault.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1340,7 +1340,7 @@
 		"PreTextTags": "@vS19/01/VTX_keiichi1005.",
 		"TextJPN": "「いや、それ主観入りまくりの判断だろうがっ！@k@vS19/01/VTX_keiichi1006.　――んがっ？！」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``No, that's a subjective judgment!@k@vS19/01/VTX_keiichi1006. Wha~?!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1349,7 +1349,7 @@
 		"PreTextTags": "@vS19/02/VTX_rena1003.",
 		"TextJPN": "「はぅ～！@k@vS19/02/VTX_rena1004.　沙都子ちゃんを泣かすような悪人は、レナが月に代わって成敗なんだよ～！」",
 		"NamesENG": "Rena",
-		"TextENG": "``Hau~!@k@vS19/02/VTX_rena1004. The evil person who makes Satoko cry is defeated by Rena on behalf of the moon~!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1358,7 +1358,7 @@
 		"PreTextTags": "@vS19/01/VTX_keiichi1007.",
 		"TextJPN": "「な、なんでそこで月が出てくるんだ…？@k@vS19/01/VTX_keiichi1008.　がくっ」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``Why is the Moon coming out here...?@k@vS19/01/VTX_keiichi1008. Muh.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1367,31 +1367,31 @@
 		"PreTextTags": "@vS19/05/VTX_rika1002.",
 		"TextJPN": "「濡れ衣を着せられてお仕置きされる圭一、とてもかわいそかわいそなのです。@k@vS19/05/VTX_rika1003.にぱ～♪」",
 		"NamesENG": "Rika",
-		"TextENG": "``Keiichi being falsely accused and punished is very cute and adorable!@k@vS19/05/VTX_rika1003. Nipah~♪``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 19215,
 		"TextJPN": "いや、梨花ちゃん！　『濡れ衣』だってわかってるなら、俺の弁護をしてくれよ！　俺だけ超アウェーってのは納得いかんぞっ！！",
-		"TextENG": "No, Rika! If you know that it's a false accusation, then come to my defense! I don't understand why I'm being singled out again!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 19216,
 		"TextJPN": "…そんなこんなで、神社の境内で開かれた昼食会は賑やかに盛り上がっていった。",
-		"TextENG": "And so the picnic held in the precincts of the shrine became a lively affair."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 19217,
 		"TextJPN": "勢いよく沙都子は腕を振り上げ、エルボーチョップの姿勢に入る。",
-		"TextENG": "The intense battle calmed, and finally everyone reached a point where they could begin calmly talking."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 19218,
 		"TextJPN": "俺はその気配を背後に感じて、振り向きざまにブロック！　――するつもりだったが、",
-		"TextENG": "I felt presence behind me, and turned around and blocked attack! ...I was going to do that, but..."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1406,7 +1406,7 @@
 		"type": "MSGSET",
 		"MessageID": 19220,
 		"TextJPN": "沙都子の突進があまりにも鋭かったので、俺の交差した腕はあっさりと崩されてしまい、小さくとも尖った肘鉄が俺の眉間をごすッ！！　と打ち抜いた。",
-		"TextENG": "Satoko's thrust was so sharp that my crossed arms were easily broken, and a small but quick elbow strike went right between my eyes. I'm not sure what's going on."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1424,7 +1424,7 @@
 		"PreTextTags": "@vS19/03/VTX_mion1011.",
 		"TextJPN": "「あらら……、完全に白目向いちゃってる。@k@vS19/03/VTX_mion1012.急所に直撃って感じだね」",
 		"NamesENG": "Mion",
-		"TextENG": "``Oh my... He is now completely blind.@k@vS19/03/VTX_mion1012. It's like a direct hit to the vitals.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1433,7 +1433,7 @@
 		"PreTextTags": "@vS19/05/VTX_rika1011.",
 		"TextJPN": "「……会心の一撃なのです」",
 		"NamesENG": "Rika",
-		"TextENG": "``...It's a coup de grace.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1442,19 +1442,19 @@
 		"PreTextTags": "@vS19/04/VTX_satoko1011.",
 		"TextJPN": "「なっ？！@k@vS19/04/VTX_satoko1012.　だ、大丈夫でございますかっっ？！」",
 		"NamesENG": "Satoko",
-		"TextENG": "``What?!@k@vS19/04/VTX_satoko1012. Will he be okay?!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 19225,
 		"TextJPN": "沙都子も、そこまでクリーンヒットが決まるとは思っていなかったのか、慌てふためいて俺の元へと駆け寄る。",
-		"TextENG": "Satoko didn't expect the hit to be that clean either, and rushed over to me in a panic."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 19226,
 		"TextJPN": "そしてぺしぺし、と俺の頬を叩くが、完璧なまでに気を失ってしまった俺には、そんな呼びかけはまったく耳にも届かなかった。",
-		"TextENG": "She tapped me on the cheek, but I was so completely out of it that I didn't even hear her call."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1463,7 +1463,7 @@
 		"PreTextTags": "@vS19/02/VTX_rena1012.",
 		"TextJPN": "「さ、沙都子ちゃん……。@k@vS19/02/VTX_rena1013.いくらなんでも、やりすぎだと思うけど……」",
 		"NamesENG": "Rena",
-		"TextENG": "``Sa-Satoko-chan...@k@vS19/02/VTX_rena1013. This was too much...``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1472,7 +1472,7 @@
 		"PreTextTags": "@vS19/04/VTX_satoko1013.",
 		"TextJPN": "「わ、私だって……。@k@vS19/04/VTX_satoko1014.まさか、こんなに見事に決まるとは思ってもみませんでしてよっ？」",
 		"NamesENG": "Satoko",
-		"TextENG": "``But I...@k@vS19/04/VTX_satoko1014. I didn't expect it to turn out so strong, you know?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1481,7 +1481,7 @@
 		"PreTextTags": "@vS19/03/VTX_mion1013.",
 		"TextJPN": "「……振り向かなきゃ良かったの。@k@vS19/03/VTX_mion1014.ええカッコ見せようとするから、まったく……」",
 		"NamesENG": "Mion",
-		"TextENG": "``He shouldn't have turned around.@k@vS19/03/VTX_mion1014. He was just trying to look cool, that's all.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1490,7 +1490,7 @@
 		"PreTextTags": "@vS19/05/VTX_rika1012.",
 		"TextJPN": "「とりあえず、どうしますですか？@k@vS19/05/VTX_rika1013.　ボクとしてはお弁当の割り当てが増えて、とてもほくほくなのですが」",
 		"NamesENG": "Rika",
-		"TextENG": "``What do we do for the time being?@k@vS19/05/VTX_rika1013. Personally, I'm very happy that we have more lunch boxes.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1499,7 +1499,7 @@
 		"PreTextTags": "@vS19/03/VTX_mion1015.",
 		"TextJPN": "「いや、……せめて圭ちゃんが起きてくるまで、食べるペースは手加減してあげようよ。@k@|@y@vS19/03/VTX_mion1016.……こら梨花ちゃん、小枝で圭ちゃんをつつかないっ！」",
 		"NamesENG": "Mion",
-		"TextENG": "``No, let's adjust the pace of eating until Kei-chan gets up at least.@k@|@y@vS19/03/VTX_mion1016. Rika-chan, don't peck Kei-chan with a twig.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1520,7 +1520,7 @@
 		"type": "MSGSET",
 		"MessageID": 19234,
 		"TextJPN": "……俺が意識を取り戻したのは、それから１０数分後だった。おかげで、めぼしいおかずの大半が消えうせてしまっていた……。",
-		"TextENG": "......I regained consciousness a dozen minutes later. Most of the side dishes had disappeared......"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2249,7 +2249,7 @@
 		"type": "MSGSET",
 		"MessageID": 19331,
 		"TextJPN": "俺はお茶をすすり終えると、レナの瞳をまっすぐに見据えた。",
-		"TextENG": "When I finished sipping the tea, I looked straight at Rena's eyes."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2258,7 +2258,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI01720.",
 		"TextJPN": "「ありがとう、レナ。@k@vS19/01/HR_KEI01730.とってもおいしかったよ。@k@vS19/01/HR_KEI01740.こんなにおいしい弁当を食べたのは、率直に言うと生まれて初めてだ」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``Thank you, Rena.@k@vS19/01/HR_KEI01730. It was very good.@k@vS19/01/HR_KEI01740. Frankly speaking, this is the first time I've had such a delicious lunch box.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2276,13 +2276,13 @@
 		"PreTextTags": "@vS19/01/HR_KEI01750.",
 		"TextJPN": "「素材の旨みが、噛み締めるごとに口の中いっぱいに広がっていく。@k@vS19/01/HR_KEI01760.だがそれ以上に食べる者の胸を満たすのは、おかずの１つずつに込められたレナの愛情だ。@k@vS19/01/HR_KEI01770.レナが心をこめて作ったことが、とってもよくわかるよ」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``The flavor of the ingredients filled my mouth as I bit into it.@k@vS19/01/HR_KEI01760. But more than that, what filled my heart is the love Rena put into each of the side dishes.@k@vS19/01/HR_KEI01770. I can tell that Rena put her heart and soul into this.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 19335,
 		"TextJPN": "レナは顔を赤らめながら、口ごもる。",
-		"TextENG": "Rena blushed and clammed up."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2309,25 +2309,25 @@
 		"PreTextTags": "@vS19/02/660200018_02.",
 		"TextJPN": "「ごめん……ごめんね！@k@vS19/02/660200019.　レナ、いっぱい作ろうと思ってたんだけど、全部手作りしてる時間がなくて……」",
 		"NamesENG": "Rena",
-		"TextENG": "``Sorry... I'm really sorry!@k@vS19/02/660200019. Rena wanted to make a lot of dishes, but I didn't have time to make them all by hand......``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 19339,
 		"TextJPN": "……手作りじゃなかったのか！？　しまった……！",
-		"TextENG": "......I thought they were handmade!? Oops...!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 19340,
 		"TextJPN": "だが、そんな事実を突きつけられて、あっさりひるむ俺ではない！",
-		"TextENG": "But I'm not one to flinch easily when confronted with such facts!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 19341,
 		"TextJPN": "困惑しながら、レナは瞳を潤ませている。俺はそんなレナを包み込むように、力強く言葉を続けた。",
-		"TextENG": "Rena's eyes were moist with confusion. I wrapped her in my arms and continued to speak forcefully."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2336,7 +2336,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI01790.",
 		"TextJPN": "「冷凍かどうかなんて、一切関係なし！@k@vS19/01/HR_KEI01800.　全く問題なし！@k@vS19/01/HR_KEI01810.　ノープロブレムだ！」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``Frozen or not, it doesn't matter at all.@k@vS19/01/HR_KEI01800. Not at all!@k@vS19/01/HR_KEI01810. No problem!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2351,7 +2351,7 @@
 		"type": "MSGSET",
 		"MessageID": 19344,
 		"TextJPN": "レナは俺の言っている意味がわからないのか、かわいく小首をかしげて俺を見返す。まるでリスか何かの小動物が、つぶらな瞳をパチクリさせているような顔……。",
-		"TextENG": "I'm not sure if she understands what I'm saying, but she looks back at me with a cute little tilt of her head. She looks like a squirrel or some kind of small animal with its dull eyes fluttering."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2360,19 +2360,19 @@
 		"PreTextTags": "@vS19/01/HR_KEI01820.",
 		"TextJPN": "「レナ……。@k@vS19/01/HR_KEI01830.大事なのは、真心だ。@k@vS19/01/HR_KEI01840.料理の味は、心で決まる。@k@vS19/01/HR_KEI01850.真心がしっかりと込められていれば、冷凍だって何だって、どんな一流シェフにもかなわないくらいにおいしい料理ができるんだよ……」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``Rena...@k@vS19/01/HR_KEI01830. The important thing is sincerity.@k@vS19/01/HR_KEI01840. The taste of food is determined by the heart.@k@vS19/01/HR_KEI01850. If you put your heart and soul into it, you can make anything, even frozen ingredients, taste as good as dishes from top chef.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 19346,
 		"TextJPN": "沙都子と梨花ちゃん、そして魅音までもが、ポカ～ン、と俺の言葉を聞いている。",
-		"TextENG": "Satoko, Rika, and even Mion were listening to my words with a puzzled look."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 19347,
 		"TextJPN": "なんだか……俺、ものすご～～く熱弁ふるってる？　でも、滑らかに言葉をつむぎだした俺の口は、もはや誰にも止められない！",
-		"TextENG": "I don't know if I'm making a very passionate speech, but no one can stop my mouth from talking smoothly!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2381,7 +2381,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI01860.",
 		"TextJPN": "「どんなに高級な食材を使おうと、どんなにすごいテクニックがあろうと、この弁当にはかなわない。俺は断言できる！　誰もレナにはかなわないっ！」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``No matter how expensive the ingredients are, no matter how amazing the technique is, it will never be as good as this bento. I can assure you! No one can compare to Rena!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2390,13 +2390,13 @@
 		"PreTextTags": "@vS19/01/HR_KEI01870.",
 		"TextJPN": "「なぜなら、この弁当以上に真心をこめることなど、他の誰にもできないからだっ！」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``Because no one else could have put more heart into this lunch!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 19350,
 		"TextJPN": "魅音が神妙な顔でうなずく。沙都子や梨花ちゃんさえ、もはや洗脳されたかのように、ぼーっとした顔でこくこくと無意識に同意していた。",
-		"TextENG": "Mion nodded with a mysterious look on her face. Even Satoko and Rika unconsciously agreed with a dazed look on their faces, as if they had been brainwashed."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2411,7 +2411,7 @@
 		"type": "MSGSET",
 		"MessageID": 19352,
 		"TextJPN": "レナの顔はすっかり上気して、頭のてっぺんからは、ほわほわと輪っかが立ち昇っている。だが、まだまだっ！　ここからが前原圭一の真骨頂！　一気に押しまくり、このままクライマックスへとなだれ込む……！",
-		"TextENG": "Rena's face was all puffed up, and there was a ring of smoke rising from the top of her head. But that's not all! This is where Keiichi Maebara really comes into his own! He pushes and pushes and pushes, and it's going to be a climax!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2420,7 +2420,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI01880.",
 		"TextJPN": "「もちろん味付けや盛り付けの完璧なまでのセンス、確かな味覚によって構成されたバラエティ豊かな品目のバランスが大事なのは言うまでもない」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``Of course, it is important to have a perfect sense of taste in seasoning and presentation, not to mention the balance of a wide variety of items organized by a certain taste.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2429,7 +2429,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI01890.",
 		"TextJPN": "「だが、そんなものはあって当たり前！　レナほどのレベルの者に、そんな問題を口にするなど野暮の中の野暮。己の恥をさらけだすようなもの！」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``But of course there is one more thing! It's the wildest of wild things for someone of Rena's level to talk about such issues. It's like exposing your own shame!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2438,7 +2438,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI01900.",
 		"TextJPN": "「では、そんじょそこいらの弁当との決定的な違いはなにか？！　作る人間の人柄だ。レナの人柄が、最高の料理を作るためになくてはならないスパイス！　エッセンス！」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``So, what's the key difference between this and those other lunch boxes?! It's the personality of the person making it. Rena's personality is the spice that is essential to making the best food! Essence!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2447,7 +2447,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI01910.",
 		"TextJPN": "「知らずににじみ出てしまう優しい人柄が、食べる者の胸を温かい気持ちで満たすのだ！　そんなすごい料理を作れるのは、レナをおいて他にない！」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``The kindness that oozes out of her without even knowing fills the hearts of those who indulge her meals! There is no one else who can make such amazing food like Rena!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2456,13 +2456,13 @@
 		"PreTextTags": "@vS19/02/660200023.",
 		"TextJPN": "「…ぇ…え？@k@vS19/02/660200024.　…ぇぇと……その…なんだかちょっと、は、恥ずかしいな………」",
 		"NamesENG": "Rena",
-		"TextENG": "``...H-Huh?@k@vS19/02/660200024. Um... Eh... This is... slightly... embarassing...``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 19358,
 		"TextJPN": "そう言いながらもレナは、俺の繰り出す言葉の魔術に恍惚とした表情になっている。ここで俺は、ちょっとはにかんだフリをしてから一心拍を置く。そして、おもむろに……。",
-		"TextENG": "Even as she says this, Rena looks ecstatic at the magic of my words. At this point, I pretend to be a little embarrassed, then pause for a heartbeat. And then, without a second thought..."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2495,7 +2495,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI01930.",
 		"TextJPN": "「レナは絶対に、いいお嫁さんになるよ……！」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``Rena will definitely make a good wife...!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2510,13 +2510,13 @@
 		"PreTextTags": "@vS19/02/660200026.",
 		"TextJPN": "「え？　お、お嫁さんって……@k@vS19/02/660200027.誰のだろ？　…だろ？@k@vS19/02/660200028.　は、ははははぅはぅはぅぅ～～！？」",
 		"NamesENG": "Rena",
-		"TextENG": "``Huh? W-Wife...@k@vS19/02/660200027. Who? ...Who?@k@vS19/02/660200028. H-Hau Haaauuu~~!?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 19365,
 		"TextJPN": "真っ赤になったレナの頭上からぽんっと音がして輪っかがあがり、レナは卒倒しそうな勢いで思いっきりのけぞる。そして、どっしゃあぁぁ～～っ！　とタッパーいっぱいのりんごを、今まさに俺に突き出そうとした。",
-		"TextENG": "I'm sure you'll be able to guess what I'm talking about. And then, with a bang, a tupperware full of apples were thrown at her. And then, she was about to thrust a tupperware full of apples at me."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2537,7 +2537,7 @@
 		"type": "MSGSET",
 		"MessageID": 19368,
 		"TextJPN": "沙都子がハッと我に返ると、慌てて梨花ちゃんに合図を送る。すかさず絶妙なタイミングで、梨花ちゃんは俺の機先を制して言葉をつないだ。",
-		"TextENG": "Satoko came to her senses and hurriedly signaled to Rika-chan. Immediately, with perfect timing, Rika took advantage of my initiative and connected her words."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2546,7 +2546,7 @@
 		"PreTextTags": "@vS19/05/660500001.",
 		"TextJPN": "「ボ、ボクがもし男なら……@k@vS19/05/660500002.きっとレナをお嫁さんにするのは、ボクなのです」",
 		"NamesENG": "Rika",
-		"TextENG": "``If I was a man...@k@vS19/05/660500002. I'm sure I'll be the one to make Rena my bride.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2561,7 +2561,7 @@
 		"type": "MSGSET",
 		"MessageID": 19371,
 		"TextJPN": "り、梨花ちゃんっ！？　俺のダメ押しの、とっておきの台詞をっ！！",
-		"TextENG": "Rika-chan!? You have stolen my line!!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2570,19 +2570,19 @@
 		"PreTextTags": "@vS19/02/660200029.",
 		"TextJPN": "「はっ？@k@vS19/02/660200030.　ははは、はぅはぅぅぅ～っ！！@k@vS19/02/660200031.　り、りりりりり梨花ちゃん、お、お持ち帰りぃ～～～！！！」",
 		"NamesENG": "Rena",
-		"TextENG": "``Huh?@k@vS19/02/660200030. H-H-H-Haauu~!!@k@vS19/02/660200031. R-R-R-R-R-Rika chan! I'm taking you home~~~!!!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 19373,
 		"TextJPN": "俺に差し出されるはずだったタッパーいっぱいのりんごが、そっくりそのまま、ごっそりと梨花ちゃんの目の前へ。",
-		"TextENG": "The tupperware full of apples that was supposed to be presented to me went straight into Rika's arms."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 19374,
 		"TextJPN": "え……！？　マジで……！？　なんだ、この展開！？　ここまで恥ずかしい台詞連発しておきながら、ラストでおいしい所をごっそりかっさらわれちまったのか！？",
-		"TextENG": "Eh...!? Seriously...!? What is this development?! After so many embarrassing words, the last part of the story was stolen from me!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2591,13 +2591,13 @@
 		"PreTextTags": "@vS19/02/660200032.",
 		"TextJPN": "「はうぅ～～、梨花ちゃん梨花ちゃん、@k@vS19/02/660200033.かぁいいかぁいいお婿さんだよ！　だよ～！！」",
 		"NamesENG": "Rena",
-		"TextENG": "``Hau~~, Rika-chan, Rika-chan.@k@vS19/02/660200033. What a cute son-in-law! Son-in-law~!!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 19376,
 		"TextJPN": "レナは真っ赤になって興奮しながら、梨花ちゃんを抱きしめてぎゅいぎゅいと頬擦りをしている。それを見て、沙都子は勝ち誇った笑みを浮かべた。",
-		"TextENG": "Rena turned bright red and excitedly hugged Rika and squeezed her and rubbed her cheeks. Seeing this, Satoko smiled victoriously."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2606,7 +2606,7 @@
 		"PreTextTags": "@vS19/04/660400003.",
 		"TextJPN": "「おほほほ！@k@vS19/04/660400004.　ざまぁないでございますわねぇ！@k@vS19/04/660400005.　残念ですがこの勝負は――」",
 		"NamesENG": "Satoko",
-		"TextENG": "``Ahahaha!@k@vS19/04/660400004. You got what you deserves!@k@vS19/04/660400005. Sadly this competition won...``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2621,7 +2621,7 @@
 		"type": "MSGSET",
 		"MessageID": 19379,
 		"TextJPN": "レナは上目遣いに俺を見る。……なんだ？",
-		"TextENG": "Rena looks at me up and down. ......What is it?"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2630,19 +2630,19 @@
 		"PreTextTags": "@vS19/02/660200035.",
 		"TextJPN": "「一番うれしかったのは、圭一くんの褒め言葉かな。@k@vS19/02/660200036.だからこの勝負、圭一くんの勝ち！」",
 		"NamesENG": "Rena",
-		"TextENG": "``The thing that made me the happiest was Keiichi's compliment.@k@vS19/02/660200036. That's why Keiichi-kun won!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 19381,
 		"TextJPN": "レナが頬を赤らめながら、慎ましやかにりんごのうさぎさんを一つ俺に差し出した。",
-		"TextENG": "With a blush on her cheeks, Rena modestly offered me one of her apple bunnies."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 19382,
 		"TextJPN": "お……おおぉぉおおぉっっ！？　天は我に味方せりぃぃぃっっ！！",
-		"TextENG": "W-Woaaaaaah! Heavens are on my side!!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2651,7 +2651,7 @@
 		"PreTextTags": "@vS19/04/660400006.",
 		"TextJPN": "「な、な、な…なんですってー！？@k@vS19/04/660400007.　納得いきませんわー！」",
 		"NamesENG": "Satoko",
-		"TextENG": "``W-W-W-What!?@k@vS19/04/660400007. I won't accept it!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2660,7 +2660,7 @@
 		"PreTextTags": "@vS19/05/660500003.",
 		"TextJPN": "「みぃ……ボクと沙都子は、逆転負けなのです……」",
 		"NamesENG": "Rika",
-		"TextENG": "``Miiip... Me and Satoko are upset we lost.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2669,13 +2669,13 @@
 		"PreTextTags": "@vS19/04/660400008.",
 		"TextJPN": "「い、今の台詞は却下です、@k@vS19/04/660400009.ええ、却下！@k@vS19/04/660400010.　大却下でございますっ！！」",
 		"NamesENG": "Satoko",
-		"TextENG": "``No, I'm rejecting that line.@k@vS19/04/660400009. Rejected!@k@vS19/04/660400010. A big rejection!!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 19386,
 		"TextJPN": "がっくりと肩を落す梨花ちゃん。吼える沙都子は大きく両腕でバッテンしながらなにやらわめいているが、当然無視。",
-		"TextENG": "Rika's shoulders slumped. The barking Satoko is battening her arms and ranting about something, but of course I ignored her."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2684,7 +2684,7 @@
 		"PreTextTags": "@vS19/03/660300019.",
 		"TextJPN": "「あはははは！@k@vS19/03/660300020.　さっすが圭ちゃん！@k@vS19/03/660300021.　いやぁ～、いい演説だったよ！！」",
 		"NamesENG": "Mion",
-		"TextENG": "``Ahahahaha!@k@vS19/03/660300020. That's our Kei-chan!@k@vS19/03/660300021. It was a good speech!!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2699,19 +2699,19 @@
 		"type": "MSGSET",
 		"MessageID": 19389,
 		"TextJPN": "魅音がバシッと俺の肩を叩く。そんな俺をレナがもじもじとはにかみながら、赤い顔で盗み見ていた。",
-		"TextENG": "Mion clapped me on the shoulder with a bash. Rena squirms looks at me with her red face."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 19390,
 		"TextJPN": "な……なんだよ？　俺……やりすぎた？　て、照れるじゃないか！？",
-		"TextENG": "What the hell? Did I go too far? I'm not sure what to say."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 19391,
 		"TextJPN": "俺はお茶のカップをおもむろにつかむと、ガッと一気に飲み干した。",
-		"TextENG": "I grabbed the cup of tea and drank it down in one gulp."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

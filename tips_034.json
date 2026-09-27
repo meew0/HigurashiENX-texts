@@ -27,7 +27,7 @@
 		"type": "MSGSET",
 		"MessageID": 13573,
 		"TextJPN": "＜@bキミヨシ.@<公由@>家＞@k@r公由家は御三家の筆頭家として大きな力を持っていたらしいが、今日にあっては御三家をリードするほどではない。@k現村長（公由喜一郎）はこの家の出身である。",
-		"TextENG": "＜The Kimiyoshi Family＞@k@rThe Kimiyoshi family appears to have held great power as the head of the Three Families, but it doesn't have that kind of leadership today.@k The current mayor of the village (Kiichirou Kimiyoshi) is from this family."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -39,7 +39,7 @@
 		"type": "MSGSET",
 		"MessageID": 13575,
 		"TextJPN": "＜@bフルデ.@<古手@>家＞@k@r古代から信仰の中心となり、オヤシロさまを祀る唯一の神社を守ってきた一族である。",
-		"TextENG": "＜The Furude Family＞@k@rThe center of the village's faith since ancient times, the Furude clan has guarded the sole shrine dedicated to Oyashiro-sama."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -57,7 +57,7 @@
 		"type": "MSGSET",
 		"MessageID": 13578,
 		"TextJPN": "＜@bソノザキ.@<園崎@>家＞@k@r鬼ヶ淵村の戒律を守るある種の警察官的な役割を担ったと伝えられている。@k御三家の中では比較的、弱い立場であったことが、御三家の末番に数えられることから見てとれる。",
-		"TextENG": "＜The Sonozaki Family＞@k@rIt's said that this family had a certain police-like role of protecting the religious precepts of Onigafuchi Village.@k Of the three families, their relatively weak position can be seen from me putting them here last."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

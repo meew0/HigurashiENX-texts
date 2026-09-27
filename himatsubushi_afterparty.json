@@ -18,7 +18,7 @@
 		"PreTextTags": "@vS20/11/440700421.",
 		"TextJPN": "「えー、この度は『@bひまつぶ.@<暇潰@>し』をプレイして下さり、誠にありがとうございます。@k@|@y@vS20/11/440700422.むっふっふっふ！」",
 		"NamesENG": "Ooishi",
-		"TextENG": "``Thank you very much for playing 'Himatsubushi' chapter.@k@|@y@vS20/11/440700422. Mfu fu fu!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -36,7 +36,7 @@
 		"PreTextTags": "@vS20/11/440700423.",
 		"TextJPN": "「いやいやぁ、何だかんだと言いましても、今回のシナリオは私の独壇場でしたからねぇ。@k@vS20/11/440700425.これで笑えなきゃどこで笑えってゆーんですかね、なっはっはっはっは！！」",
 		"NamesENG": "Ooishi",
-		"TextENG": "``My oh my, no matter what anybody else says, I was the star of the scenario this time. @k@vS20/11/440700425. If you can't laugh here, where can you laugh? Na ha ha ha ha!!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1062,7 +1062,7 @@
 		"PreTextTags": "@vS20/01/440100235.",
 		"TextJPN": "「――と、いうわけでだ。@k@vS20/01/440100236.レナ、感謝するぜぃ！！@k@vS20/01/440100237.　月にすら見放され真の闇が地上を覆いし時、@k@|@y@vS20/01/440100238.漆黒の魔王、前原圭一、降ッ臨ッ！！！！」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``So, with that.@k@vS20/01/440100236. Rena, you have my thanks!!@k@vS20/01/440100237. When even the moon abandons the land and shrouds it in true darkness,@k@|@y@vS20/01/440100238. The Demon Lord of the Darkest Black, Keiichi Maebara, shall appear!!!!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1449,7 +1449,7 @@
 		"PreTextTags": "@vS20/06/440600181.",
 		"TextJPN": "「…甘いですね圭ちゃん。@k@vS20/06/440600182.…安易に闇の世界を生み出して、『妄想全開スチャラカ万歳！』ってやってしまうと、とある誰かも真の姿を現すことが可能になるのです。@k@vS20/06/440600183.……というわけで、知恵先生っっ！！！」",
 		"NamesENG": "Shion",
-		"TextENG": "``...You're so naive, Kei-chan.@k@vS20/06/440600182. If you carelessly bring about the dark world and fully welcome silly fantasies, a certain somebody will be able to reveal their true form.@k@vS20/06/440600183. ...Chie-sensei!!!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1467,7 +1467,7 @@
 		"PreTextTags": "@vS20/04/440400269.",
 		"TextJPN": "「……真っ暗でよく見えませんけど、何だか知恵先生の服装が変わってますわね。@k@vS20/04/440400270.…なんですの？@k@|@y@vS20/04/440400272.　……ま、まさかそんな！！@k@vS20/04/440400273.　それはいくらなんでも反則…むが…！！！」",
 		"NamesENG": "Satoko",
-		"TextENG": "``...It's dark so I can't really tell, but it seems like Chie-sensei's outfit is different.@k@vS20/04/440400270. ...What are those?@k@|@y@vS20/04/440400272. ...Th-They couldn't be!!@k@vS20/04/440400273. That's simply unfa---hrmph!!!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1561,7 +1561,7 @@
 		"PreTextTags": "@vS20/02/440200337.",
 		"TextJPN": "「あははは…。@k@vS20/02/440200338.改めましてこんにちは。@k@vS20/02/440200339.この度は『@bひまつぶ.@<暇潰@>し』をお楽しみ下さり、誠にありがとうございました」",
 		"NamesENG": "Rena",
-		"TextENG": "``Ahahaha...@k@vS20/02/440200338. Hello again.@k@vS20/02/440200339. Thank you very much for playing 'Himatsubushi' chapter."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1570,7 +1570,7 @@
 		"PreTextTags": "@vS20/02/440200340.",
 		"TextJPN": "「もうすでにご存じと思いますが、選択肢に加えて四部構成としたことで、構成や展開がかなり変わったものとなっております」",
 		"NamesENG": "Rena",
-		"TextENG": "As you may already know, we've added a four choices structure to the game, which is quite different in structure and development of previous releases."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1579,7 +1579,7 @@
 		"PreTextTags": "@vS20/02/440200341.",
 		"TextJPN": "「ですので、選択肢によっては話の流れが前後したり、あるいは章の順番が入れ替わってプレイなされる方もいらっしゃるかもしれません」",
 		"NamesENG": "Rena",
-		"TextENG": "So, depending on the choices you make, you may find yourself playing the story back and forth, or even switching the order of the chapters."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1588,7 +1588,7 @@
 		"PreTextTags": "@vS20/02/440200342.",
 		"TextJPN": "「…その意味において、原作のイメージを大切になされる皆さんにとっては、違和感を抱かれることも重々承知しております」",
 		"NamesENG": "Rena",
-		"TextENG": "In that sense, we are well aware that those who cherish the image of the original work may feel uncomfortable."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1597,7 +1597,7 @@
 		"PreTextTags": "@vS20/02/440200343.",
 		"TextJPN": "「ただ、本作品が『ひぐらしのなく頃に』という珠玉の素材に潜む、多元的な作品世界を描き出すひとつのモデルとして楽しんでもらえましたら、本当に嬉しいです」",
 		"NamesENG": "Rena",
-		"TextENG": "However, I would be really happy if you enjoyed this work as a model that depicts a multidimensional work world hidden in the gem material 'Higurashi When They Cry'."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1606,7 +1606,7 @@
 		"PreTextTags": "@vS20/02/440200344.",
 		"TextJPN": "「アニメやコミック、ドラマＣＤ、そして小説など、@k@vS20/02/440200345.様々な分野で、それぞれの持ち味を生かした『ひぐらし』の世界に足を踏み入れるきっかけとなってくれることを、スタッフ一同心より願っております」",
 		"NamesENG": "Rena",
-		"TextENG": "Anime, comics, drama CDs, and novels...@k@vS20/02/440200345. The staff sincerely hopes that this will be an opportunity for you to step into the world of 'Higurashi', where you can make the most of your individual strengths in various fields."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1615,7 +1615,7 @@
 		"PreTextTags": "@vS20/02/440200346.",
 		"TextJPN": "「プレイヤーの皆さんには、この謎に満ちた物語を様々な角度から捉え、吟味する権利があります。@k@vS20/02/440200347.…たとえば、劇中に散りばめられた謎について、推理をし、それを発表して反響を得たりすることもまた、楽しいかと思います」",
 		"NamesENG": "Rena",
-		"TextENG": "Players have the right to view and examine this enigmatic story from various angles.@k@vS20/02/440200347. ...For example, I think it would be fun to speculate on the mysteries scattered throughout the play and publish them to get feedback."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1624,7 +1624,7 @@
 		"PreTextTags": "@vS20/02/440200348.",
 		"TextJPN": "「いよいよ中盤戦…。@k@vS20/02/440200349.詩ぃちゃんが主役の『目明し』、そして私視点の物語『罪滅し』があなたを待ち受けています」",
 		"NamesENG": "Rena",
-		"TextENG": "It's time for the middle game.@k@vS20/02/440200349. Shion-chan is the protagonist of 'Meakashi' and story from my point of view is called 'Tsumihoroboshi'."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1633,7 +1633,7 @@
 		"PreTextTags": "@vS20/02/440200350.",
 		"TextJPN": "「他にも、舞台とメンバーが異なる『影紡し』に『解々し』、時間が進んだ未来の話『宵越し』なども存在しています」",
 		"NamesENG": "Rena",
-		"TextENG": "In addition there is also 'Kageboushi' with different cast, 'Tokihogushi', and also 'Yoigoshi' which happens in future."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1642,7 +1642,7 @@
 		"PreTextTags": "@vS20/02/440200351.",
 		"TextJPN": "「これらの物語は、昭和５８年の雛見沢の枠から外れて新たな謎や真相を解き明かす構成のため、馴染みのない言葉も出てくるかと思いますが、@k@vS20/02/440200352.『ひぐらし』の世界観を常に意識しつつ、違う『ひぐらし』に挑戦したものとなっておりますので、一度、お立ち寄りいただけましたら幸いです」",
 		"NamesENG": "Rena",
-		"TextENG": "These stories are structured to unravel new mysteries and truths outside the framework of 1983 Hinamizawa, so you may encounter some unfamiliar words.@k@vS20/02/440200352. While always keeping in mind the world of 'Higurashi', we have tried to create a different kind of 'Higurashi', so we hope you will stop by and visit us."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

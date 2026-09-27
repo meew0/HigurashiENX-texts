@@ -2253,7 +2253,7 @@
 		"PreTextTags": "@vS13/00/VT4A_nomura1049.",
 		"TextJPN": "「…えぇ。@k@vS13/00/VT4A_nomura1050.そうです。@k@vS13/00/VT4A_nomura1051.今村先生の復権は時間の問題です」",
 		"NamesENG": "Nomura",
-		"TextENG": "......Yes.@k@vS13/00/VT4A_nomura1050. That's right.@k@vS13/00/VT4A_nomura1051. It's only a matter of time before Imamura-sensei is reinstated."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2262,7 +2262,7 @@
 		"PreTextTags": "@vS13/00/VT4A_nomura1052.",
 		"TextJPN": "「……ですわね。@k@vS13/00/VT4A_nomura1053.ローウェル事件ではとんだとばっちりを受けてしまいましたが、先生が潔白なのは我々一同、当然のことと信じておりましたから」",
 		"NamesENG": "Nomura",
-		"TextENG": "......That's true.@k@vS13/00/VT4A_nomura1053. The Lowell Incident was a huge embarrassment for us, but we all believed that he was innocent."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2271,7 +2271,7 @@
 		"PreTextTags": "@vS13/00/VT4A_nomura1054.",
 		"TextJPN": "「ええ…裁判になっても、検察側には何も手出しはできませんわ。@k@vS13/00/VT4A_nomura1055.だいたい、ローウェル社の機密漏えいも、某国機関が先生を外務省から追放するために仕組んだ罠でしたのに」",
 		"NamesENG": "Nomura",
-		"TextENG": "Yes... If this goes to trial, there's nothing the prosecutor can do about it.@k@vS13/00/VT4A_nomura1055. The leak of Lowell's secrets was a trap set up by a certain government agency to expel him from the Ministry of Foreign Affairs."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2280,7 +2280,7 @@
 		"PreTextTags": "@vS13/00/VT4A_nomura1056.",
 		"TextJPN": "「…えぇ、まったくですわ。@k@vS13/00/VT4A_nomura1057.当時は上手く出し抜いたつもりなんでしょうけど、今回は間違いなく我々の勝利ですわね。@k@vS13/00/VT4A_nomura1058.ふっふふふふふふふ」",
 		"NamesENG": "Nomura",
-		"TextENG": "......Yes, I know.@k@vS13/00/VT4A_nomura1057. I'm sure they thought they had successfully outsmarted us at the time, but we definitely won this time.@k@vS13/00/VT4A_nomura1058. Hee hee hee hee hee."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

@@ -684,13 +684,13 @@
 		"type": "MSGSET",
 		"MessageID": 106264,
 		"TextJPN": "その時、外からキュイ～ンというスピーカーのハウリングの音が聞こえてきた。",
-		"TextENG": "At that moment, they heard a squeaky speaker feedback sound from outside."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 106265,
 		"TextJPN": "……耳障りな高音に思わず窓から外を覗き込むと、なんとその音の主は公由喜一郎氏。村長自身が矢面に出てきているなんて……！",
-		"TextENG": "When they looked out the window at the deafening high-pitched sound, the owner of the sound was Kiichiro Kimiyoshi. The mayor himself was in the crosshairs!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -951,7 +951,7 @@
 		"PreTextTags": "@vS12/11/180700333.",
 		"TextJPN": "「この敷地内での無届集会がまずアウト。@k@vS12/11/OISHI082301.それから……まあ色々と決まりがあるんですよ、んふふふ」",
 		"NamesENG": "Ooishi",
-		"TextENG": "``You're protesting here without permission, for one.@k@vS12/11/OISHI082301. And... Well, there are various rules. Nfu fu fu fu.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1947,19 +1947,19 @@
 		"PreTextTags": "@vS12/00/sobe08001.",
 		"TextJPN": "「どうも。@k@vS12/00/sobe08002.園崎法律相談事務所より参りました、弁護士の園崎です。@k@vS12/00/sobe08003.鹿骨市の条例については拝見させていただきました。本件は……」",
 		"NamesENG": "Sonozaki's Lawyer",
-		"TextENG": "``Hello.@k@vS12/00/sobe08002. I'm the attorney, Sonozaki, from the Sonozaki Law Consultancy Office.@k@vS12/00/sobe08003. I have read about the ordinances of Okinomiya City. The case is...``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 106429,
 		"TextJPN": "弁護士さんの口からは、何やら聞きなれない法律やら単語がポンポン飛び出す。",
-		"TextENG": "The lawyer's mouth was full of unfamiliar laws and words."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 106430,
 		"TextJPN": "しかも理路整然、一分の隙もない……ように感じた。",
-		"TextENG": "I also felt that it was orderly and logical, and that there was not a single gap."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1968,7 +1968,7 @@
 		"PreTextTags": "@vS12/00/sobe08004.",
 		"TextJPN": "「……以上の理由から、これが認められない場合は、」",
 		"NamesENG": "Sonozaki's Lawyer",
-		"TextENG": "``For the foregoing reasons, if this is not acceptable...``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2436,7 +2436,7 @@
 		"PreTextTags": "@vS12/00/capi18001.",
 		"TextJPN": "「…………はい。@k@vS12/00/capi18002.そうですね。@k@vS12/00/capi18004.…えぇ、そうですね。@k@vS12/00/capi18005.ぜひ、話を聞いてあげてください」",
 		"NamesENG": "Mayor",
-		"TextENG": "``.........Yes.@k@vS12/00/capi18002. That's right.@k@vS12/00/capi18004. ...Yes. I understand...@k@vS12/00/capi18005. Please listen to what they have to say."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2877,7 +2877,7 @@
 		"type": "MSGSET",
 		"MessageID": 106547,
 		"TextJPN": "…………特に何も、問題はない。沙都子は無機質な声で、そう答えた。",
-		"TextENG": "``Nothing in particular, there is no problem.`` Satoko replied in an inorganic voice."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2913,7 +2913,7 @@
 		"PreTextTags": "@vS12/01/180101625.",
 		"TextJPN": "「いいか沙都子、もう全部決着がつくぞ！！@k@vS12/01/KEI082303.　お前がウンと頷けば鹿骨市の市長までもがお前を助けてくれる！！」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``Satoko, we're about to come save you!@k@vS12/01/KEI082303. If you admit that you need help, the mayor of Shishibone City will help you!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -3456,7 +3456,7 @@
 		"PreTextTags": "@vS12/05/180500971.",
 		"TextJPN": "「……足がすくむ？@k@vS12/05/180500972.　奥歯が震える？@k@vS12/05/180500974.　その感触全てが、あなたを庇おうとする度に悟史が感じていた全て」",
 		"NamesENG": "Rika",
-		"TextENG": "``......Are you scared?@k@vS12/05/180500972. Are your teeth chattering?@k@vS12/05/180500974. That's exactly how Satoshi felt when he tried to protect you."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -4032,7 +4032,7 @@
 		"PreTextTags": "@vS12/11/OISHI082303.",
 		"TextJPN": "「どうも皆さん。間一髪、でしたかねぇ」",
 		"NamesENG": "Ooishi",
-		"TextENG": "``Hello everyone. Wasn't it a close call?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -4041,7 +4041,7 @@
 		"PreTextTags": "@vS12/01/KEI082306.",
 		"TextJPN": "「はい！@k@vS12/01/KEI082307.　大石さんが気を利かせてくれなかったら、どうなっていたことか……。@k@vS12/01/KEI082308.ありがとうございました…」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``Yes!@k@vS12/01/KEI082307. If not for you, Ooishi-san, he would've done even more horrible things to her.@k@vS12/01/KEI082308. Thank you so very much...``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -4068,7 +4068,7 @@
 		"PreTextTags": "@vS12/01/KEI082309.",
 		"TextJPN": "「監督が診てくれています。@k@vS12/01/KEI082310.なんでもなければいいんですけど」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``The coach is looking after her.@k@vS12/01/KEI082310. Hopefully she wasn't injured pretty badly.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -4191,7 +4191,7 @@
 		"type": "MSGSET",
 		"MessageID": 106715,
 		"TextJPN": "梨花ちゃんが、安心したような笑顔で戻ってくる。監督の話では、思ったより大丈夫そうとのことだった。",
-		"TextENG": "Rika came back with a relieved smile on her face. According to the coach, she seemed to be doing better than expected."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

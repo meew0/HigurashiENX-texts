@@ -19,7 +19,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "１．事件内容@r昭和５８年６月◯日",
 		"AfterTextTags": "@|@y",
-		"TextENG": "1. Case contents@rJune X, 1983."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -27,7 +27,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "２．場所@r鹿骨市雛見沢地区（通称・雛見沢村）内園崎邸・地下",
 		"AfterTextTags": "@|@y",
-		"TextENG": "2. Location@rThe Hinamizawa district of Shishibone City (commonly known as Hinamizawa village), inside the basement of the Sonozaki estate."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -35,7 +35,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "３．概要@r鹿骨市雛見沢村で、連続失踪事件が発生した。",
 		"AfterTextTags": "@|@y",
-		"TextENG": "3. Overview@rConsecutive disappearance cases have been occurring in Hinamizawa village, Shishibone City."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -179,7 +179,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "４．動機@r以前より容疑者は、村と生家の因習について強い不満と疑念を抱いていた。",
 		"AfterTextTags": "@|@y",
-		"TextENG": "4. Motive@rThe suspect had a prior history of strong discontent and suspicion about the customs in the village where she was born."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

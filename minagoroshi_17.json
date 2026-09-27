@@ -216,7 +216,7 @@
 		"type": "MSGSET",
 		"MessageID": 105117,
 		"TextJPN": "そもそも、さっきから圭一や入江が向こうとやり合っている最大の争点は、沙都子がひどい仕打ちを受けたことを認めたかどうかだ。",
-		"TextENG": "In the first place, the biggest issue that Keiichi and Irie have been talking about over there is whether or not Satoko admitted that she had been badly treated."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -3651,7 +3651,7 @@
 		"PreTextTags": "@vS12/11/180700307.",
 		"TextJPN": "「『伸るか反るかの大勝負、どうせ切るならど真ん中！』ってのがおやっさんの口癖でしたよ」",
 		"NamesENG": "Ooishi",
-		"TextENG": "``When it's make or break the game, take the risk and discard for the middle wait!`` ...is something my old friend used to say."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

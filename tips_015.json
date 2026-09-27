@@ -27,7 +27,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "県警本部長",
 		"AfterTextTags": "@|@y",
-		"TextENG": "Chief of the Prefectural Police headquarters."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -91,7 +91,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "興宮署昭和５７年第１６８号",
 		"AfterTextTags": "@|@y",
-		"TextENG": "Okinomiya station 1982 case number 168:"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -99,7 +99,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "　雛見沢村主婦殺人事件（６月２３日発生）",
 		"AfterTextTags": "@|@y",
-		"TextENG": "Hinamizawa village housewife murder (Dated June 23th)"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -107,7 +107,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "興宮署昭和５７年第１７１号",
 		"AfterTextTags": "@|@y",
-		"TextENG": "Okinomiya station 1982 case number 171:"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -115,7 +115,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "　雛見沢村生徒失踪事件（６月２４日発生）",
 		"AfterTextTags": "@|@y",
-		"TextENG": "Hinamizawa village student disappearance (Dated June 24th)"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -131,7 +131,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "興宮署昭和５４年第９１号",
 		"AfterTextTags": "@|@y",
-		"TextENG": "Okinomiya station 1979 case number 91:"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -139,7 +139,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "　雛見沢村現場監督殺人事件（６月２２日発生）",
 		"AfterTextTags": "@|@y",
-		"TextENG": "Hinamizawa village site foreman murder (Dated June 22th)"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -147,7 +147,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "白川署昭和５５年第１０３号",
 		"AfterTextTags": "@|@y",
-		"TextENG": "Shira station 1980 case number 103:"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -155,7 +155,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "　白川自然公園転落事故（６月２３日発生）",
 		"AfterTextTags": "@|@y",
-		"TextENG": "Shirakawa natural park falling incident (Dated June 23th)"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -163,7 +163,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "興宮署昭和５６年第１１８号",
 		"AfterTextTags": "@|@y",
-		"TextENG": "Okinomiya station 1981 case number 118:"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -171,7 +171,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "　雛見沢村神主妻失踪事件（６月２３日発生）",
 		"AfterTextTags": "@|@y",
-		"TextENG": "Hinamizawa village Shinto priest's wife's disappearance (Dated June 23th)"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -195,7 +195,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "担当警察署は別紙参照",
 		"AfterTextTags": "@|@y",
-		"TextENG": "See the attached sheet for the police station in charge."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

@@ -27,7 +27,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "１．発生@r【第一の事件】昭和５７年１０月２日（土）午後４時頃@r【第二の事件】昭和５７年１０月２４日（日）午後１１時頃@r【第三の事件】昭和５７年１０月２９日（金）午後３時頃",
 		"AfterTextTags": "@|@y",
-		"TextENG": "1. Occurrence@r[First incident] Saturday, October 2nd 1982, around 4:00 PM.@r[Second incident] Sunday, October 24th 1982, around 11:00 PM.@r[Third incident] Friday, October 29th 1982, around 3:00 PM."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -35,7 +35,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "２．場所@r【第一の事件】茨城県内■■総合病院精神科病棟@r【第二の事件】愛知県大牧市内国道◯◯号線@r【第三の事件】成田空港内国際線ロビー",
 		"AfterTextTags": "@|@y",
-		"TextENG": "2. Location@r[First incident] Ibaraki prefecture ■■ hospital psychiatric ward.@r[Second incident] Aichi prefecture, Oumaki city XX national highway.@r[Third incident] Narita International Airport lobby."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -51,7 +51,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "４．今後について@rこれら３つの事件は場所も異なり、一見関連性が無いようにも感じられる。",
 		"AfterTextTags": "@|@y",
-		"TextENG": "4. Going forward@rAt first glance, these three cases occurred in different locations and seem unrelated."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

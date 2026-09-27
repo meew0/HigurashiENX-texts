@@ -705,7 +705,7 @@
 		"PreTextTags": "@vS12/10/181000040_1.",
 		"TextJPN": "「あぁ、リサさんですね。@k@vS12/10/181000040_2.電話は所長室で取りますから、そっちへ回してください」",
 		"NamesENG": "Irie",
-		"TextENG": "``Ahh, that must be Risa-san, then.@k@vS12/10/181000040_2. I'm going to pick it up at the office. Will you transfer it there?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2397,7 +2397,7 @@
 		"PreTextTags": "@vS12/02/180200011.",
 		"TextJPN": "「ランディくん人形とか売ってもらえないのかなぁ。@k@vS12/02/180200012.興宮のチェーン店に５万円持ってったら売ってくれないかなぁ！@k@vS12/02/180200013.　はぅ」",
 		"NamesENG": "Rena",
-		"TextENG": "I wonder if I can buy the Randy-kun doll.@k@vS12/02/180200012. Do you think they'll sell it to me if I pay 50,000 yen to one of the Okinomiya chain stores?@k@vS12/02/180200013. Hau.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

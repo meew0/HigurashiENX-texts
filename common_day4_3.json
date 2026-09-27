@@ -204,7 +204,7 @@
 		"type": "MSGSET",
 		"MessageID": 20362,
 		"TextJPN": "さて、この後どうしようかな……？",
-		"TextENG": "Well, what should I do after this...?"
+		"TextENG": ""
 	},
 	{
 		"type": "SELECT",
@@ -729,37 +729,37 @@
 		"type": "MSGSET",
 		"MessageID": 20434,
 		"TextJPN": "どうせ、親父の機嫌の直るまでの間じゃないか。ほんの少し暇潰しができさえすれば、それでいいんだ。",
-		"TextENG": "It's just until my dad is in a better mood, anyway. As long as I can kill a little time, that's all I need."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20435,
 		"TextJPN": "それでいいんだが……じゃ、どこへ行こうか？",
-		"TextENG": "That's fine, but......, where shall I go?"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20436,
 		"TextJPN": "結局、何の当てもないまま、俺は商店街へと自転車を漕ぎ出した。",
-		"TextENG": "Eventually, with no idea what to expect, I pedaled my bike to the shopping district."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20437,
 		"TextJPN": "……親父の職業にはほんと、苦労させられる。",
-		"TextENG": "......My dad's profession really gives me a hard time."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20438,
 		"TextJPN": "収入は安定しないし、家には一日中ずっといるし、ムズついたら腫れ物あつかい。子供にとっては迷惑な生き物だぜ…まったく。",
-		"TextENG": "His income is not stable, he's at home all day long, and when he's annoyed, he's like a boil. He's a nuisance to the kids..."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20439,
 		"TextJPN": "こういうときは、ふと思う。俺は、絶対に芸術家にはならないぞ…なんてな。",
-		"TextENG": "At times like this, I suddenly think: I'm never going to be an artist...."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -774,25 +774,25 @@
 		"type": "MSGSET",
 		"MessageID": 20441,
 		"TextJPN": "愚痴めいたことをぼんやりと考えながら自転車を漕いでいると、八百屋さんの店先で見知った人影を見つけた。",
-		"TextENG": "As I was pedaling my bicycle, thinking about my complaints, I saw a familiar figure at the grocery store."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20442,
 		"TextJPN": "あれは、沙都子……？　野菜の選別に頭を悩ませているようだ。",
-		"TextENG": "Is that Satoko......?　She seems to be having a hard time sorting through the vegetables."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20443,
 		"TextJPN": "チャ～ンス！　飛んで火に入る夏の虫！　格好の暇潰し、発見！",
-		"TextENG": "Cha~nce! The summer bug that flies into the fire! I found the perfect way to kill time!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20444,
 		"TextJPN": "俺は、そっと沙都子の背後に忍び寄った。",
-		"TextENG": "I quietly crept up behind Satoko."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -801,13 +801,13 @@
 		"PreTextTags": "@vS19/04/660400023.",
 		"TextJPN": "「え…っと、これが……ブロッコリー…@k@vS19/04/660400024.に、ちがいありませんわ」",
 		"NamesENG": "Satoko",
-		"TextENG": "``Uh... This is... broccoli...@k@vS19/04/660400024. It must be it.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20446,
 		"TextJPN": "カリフラワーを食い入るように見つめている。",
-		"TextENG": "She gazed at the cauliflower as if she were devouring it."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -822,13 +822,13 @@
 		"type": "MSGSET",
 		"MessageID": 20448,
 		"TextJPN": "隣にある青々としたブロッコリーをチラリと見る沙都子。",
-		"TextENG": "Satoko glances at the lush broccoli next to her."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20449,
 		"TextJPN": "まさに絶好のお約束的シチュエーション！　今からかわずして、いつからかうのだ？！",
-		"TextENG": "It's a perfect situation for a promise! If I don't start now, when will I?!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -843,7 +843,7 @@
 		"type": "MSGSET",
 		"MessageID": 20451,
 		"TextJPN": "気配に気づいたのか、ハッと沙都子が振り返った。",
-		"TextENG": "Satoko huffed and turned around, as if she had immediately noticed my presence."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -852,7 +852,7 @@
 		"PreTextTags": "@vS19/04/660400026.",
 		"TextJPN": "「け、圭一さんじゃありませんの？！@k@vS19/04/660400027.　どうしてこんな所に？！」",
 		"NamesENG": "Satoko",
-		"TextENG": "``Is that you, Keiichi-san?!@k@vS19/04/660400027. What are you doing here?!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -861,7 +861,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI04890.",
 		"TextJPN": "「よっ。@k@vS19/01/HR_KEI04900.俺だって雛見沢に住んでる住人だぜ？」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``Hey.@k@vS19/01/HR_KEI04900. I also live in Hinamizawa.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -876,7 +876,7 @@
 		"type": "MSGSET",
 		"MessageID": 20455,
 		"TextJPN": "そう言いながらさりげなく、沙都子は手にしかけていたカリフラワーを棚に戻す。",
-		"TextENG": "As she said this, Satoko casually put the cauliflower back on the shelf that she had almost grabbed."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -885,7 +885,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI04910.",
 		"TextJPN": "「……そのブロッコリー、買わないのかよ？」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``...Are you not buying this broccoli?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -894,7 +894,7 @@
 		"PreTextTags": "@vS19/04/660400029.",
 		"TextJPN": "「えッ……えぇ。@k@vS19/04/660400030.ブロッコリーは今日はいいんですの。@k@vS19/04/660400031.圭一さんこそ、何を買いに来たんですの？」",
 		"NamesENG": "Satoko",
-		"TextENG": "``Eh...? Yeah.@k@vS19/04/660400030. Broccoli is okay for today.@k@vS19/04/660400031. What did you come here to buy, Keiichi-san?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -909,7 +909,7 @@
 		"type": "MSGSET",
 		"MessageID": 20459,
 		"TextJPN": "そう言いながら、キャベツを手に取る俺。",
-		"TextENG": "As I say this, I pick up the cabbage."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -927,13 +927,13 @@
 		"PreTextTags": "@vS19/01/HR_KEI04930.",
 		"TextJPN": "「安いぜ？@k@vS19/01/HR_KEI04940.　沙都子もレタスどうだよ？@k@vS19/01/HR_KEI04950.　それと……カリフラワーも、ほら！」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``It's cheap.@k@vS19/01/HR_KEI04940. Maybe you will buy lettuce too, Satoko?@k@vS19/01/HR_KEI04950. And cauliflower, see?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20462,
 		"TextJPN": "俺は沙都子のかごにキャベツとブロッコリーを入れてやる。",
-		"TextENG": "I put some cabbage and broccoli in Satoko's basket."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -948,7 +948,7 @@
 		"type": "MSGSET",
 		"MessageID": 20464,
 		"TextJPN": "困惑の笑みを浮かべる沙都子を横目に、俺は笑いをかみ殺す。",
-		"TextENG": "I bite back a laugh as Satoko smiles at me in confusion."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -966,19 +966,19 @@
 		"PreTextTags": "@vS19/01/HR_KEI04960.",
 		"TextJPN": "「なんでもない。@k@vS19/01/HR_KEI04970.ほら、アスパラガスはどうだ？」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``It's nothing.@k@vS19/01/HR_KEI04970. What about asparagus?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20467,
 		"TextJPN": "そう言って俺はオクラをかごにいれてやる。",
-		"TextENG": "So I put the okra in the basket."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20468,
 		"TextJPN": "怪訝な顔をしていた沙都子は、次の瞬間、ハッとなって顔を赤らめた。",
-		"TextENG": "Satoko, who had been looking at me suspiciously, huffed and blushed the next moment."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -987,7 +987,7 @@
 		"PreTextTags": "@vS19/04/660400035.",
 		"TextJPN": "「圭一さん！@k@vS19/04/660400036.　これはオクラですわよッ！」",
 		"NamesENG": "Satoko",
-		"TextENG": "``Keiichi-san!@k@vS19/04/660400036. This is okra!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -996,7 +996,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI04980.",
 		"TextJPN": "「ぶははは！　その通り！　じゃぁ、他はどうだ？！　もちろん、全てのジョークを理解しているんだよな？！」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``Ha-ha-ha! That's right! Then how about the rest of them?! Of course you got all the jokes, right?!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1005,19 +1005,19 @@
 		"PreTextTags": "@vS19/04/660400037.",
 		"TextJPN": "「ジョ、ジョーク……？！@k@vS19/04/660400038.　も、もちろんですわッ！」",
 		"NamesENG": "Satoko",
-		"TextENG": "``J-Jokes...?!@k@vS19/04/660400038. O-Of course!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20472,
 		"TextJPN": "沙都子はかごの中のものを、次々に棚に戻していく。",
-		"TextENG": "Satoko put the items in the basket back on the shelf one by one."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20473,
 		"TextJPN": "最後に一つ、ブロッコリーがかごに残った。",
-		"TextENG": "One last thing was left in the basket: broccoli."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1026,13 +1026,13 @@
 		"PreTextTags": "@vS19/01/HR_KEI04990.",
 		"TextJPN": "「それを買いに来たんだろ？」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``That's what you're here for, right?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20475,
 		"TextJPN": "じっとブロッコリーを見つめる沙都子。",
-		"TextENG": "Satsuko stares at the broccoli."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1041,7 +1041,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI05000.",
 		"TextJPN": "「カリフラワーなら買わない、ブロッコリーなら買う。さしづめそんなところだろう。さぁ、これはどっちだ？！」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``I don't buy cauliflower, I buy broccoli. That's about it, I guess. Now, which one is it?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1056,13 +1056,13 @@
 		"type": "MSGSET",
 		"MessageID": 20478,
 		"TextJPN": "深い沈黙が辺りを包み込む。…………って、おいおい、悩みすぎだぞ沙都子！",
-		"TextENG": "A deep silence enveloped the area............ Hey, hey, hey, you're worrying too much, Satoko!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20479,
 		"TextJPN": "まもなく、八百屋のおばさんがしびれを切らして店の奥から出てきた。",
-		"TextENG": "Soon, the grocery store lady came out from the back of the store, numbly."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1071,7 +1071,7 @@
 		"PreTextTags": "@vS19/00/yaoya66001.",
 		"TextJPN": "「そのブロッコリー、買うのかい買わないのかい？」",
 		"NamesENG": "Greengrocer",
-		"TextENG": "``Are you going to buy that broccoli or not?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1080,13 +1080,13 @@
 		"PreTextTags": "@vS19/04/660400040.",
 		"TextJPN": "「ブロッコリー！@k@vS19/04/660400041.　もちろん買いますわ！」",
 		"NamesENG": "Satoko",
-		"TextENG": "``Broccoli!@k@vS19/04/660400041. Of course I'm buying it!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20482,
 		"TextJPN": "その慌てぶりに、俺は笑いが止まらない。助かったな……沙都子！",
-		"TextENG": "I couldn't stop laughing at her panic. Thanks her for saving your life...... Satoko!"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1113,7 +1113,7 @@
 		"type": "MSGSET",
 		"MessageID": 20486,
 		"TextJPN": "沙都子が慌てて財布を取り出した拍子に、硬貨が路上に散らばる。音の数からそんなに多くではないが、何枚かは足元から遠く離れたところにまで転がっていた。",
-		"TextENG": "Coins scattered on the street as Satoko hurriedly pulled out her wallet. There weren't that many from the number of sounds, but some were even lying far away from her feet."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1122,7 +1122,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI05010.",
 		"TextJPN": "「おいおい沙都子……金払う時くらい、落ち着けよ！」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``Eh, Satoko... You need to calm down!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1131,13 +1131,13 @@
 		"PreTextTags": "@vS19/04/660400043.",
 		"TextJPN": "「わ、わかってるのでございますわっ！@k@vS19/04/660400044.　んしょ、えと……」",
 		"NamesENG": "Satoko",
-		"TextENG": "``I know that!@k@vS19/04/660400044. Uh, where...``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20489,
 		"TextJPN": "急いでしゃがみこむ沙都子。さすがに俺も一緒になって、硬貨を拾う。通りを行く人たちの足元にも、バラバラと数枚の硬貨が転がっていった。",
-		"TextENG": "Satoko hurriedly squats down. As I expected, I joined her in picking up the coins. A few coins rolled to pieces at the feet of people passing by."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1149,37 +1149,37 @@
 		"type": "MSGSET",
 		"MessageID": 20491,
 		"TextJPN": "通行人は足元に転がってきた硬貨を前に立ち止まり……拾おうとして、落とし主の顔を見る。",
-		"TextENG": "A passerby stops in front of a coin that has fallen at his feet, he tries to pick it up ......, and looks at the face of the person who dropped it."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20492,
 		"TextJPN": "そこで初めて、俺は違和感を抱いた。通りすがる人々は、沙都子の顔を確かめると、硬貨を拾うことをやめ、素通りしてしまうのだ。",
-		"TextENG": "For the first time, I felt uncomfortable. As soon as they saw Satoko's face, they stopped picking up coins and walked on by."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20493,
 		"TextJPN": "なぜ、拾ってやらない……？",
-		"TextENG": "Why don't you pick up the ......?"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20494,
 		"TextJPN": "ふと、八百屋の店員に振り返る。店員は、必死で硬貨を拾う沙都子を、全くの無関心で目を向けることもない。",
-		"TextENG": "Suddenly, I look back at the grocery store clerk. The clerk is completely indifferent and doesn't even look at Satoko, who is frantically picking up coins."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20495,
 		"TextJPN": "そういえば、沙都子には、村人は皆あまり挨拶してこないような……俺の気のせいだろうか……？",
-		"TextENG": "Come to think of it, it seems like all the villagers don't say much to Satoko. ...... Is it my imagination ......?"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20496,
 		"TextJPN": "懸命に硬貨を拾う沙都子が少し哀れに見えて、さんざんからかったことへの罪悪感が俺の胸をチクリと刺した。",
-		"TextENG": "I felt a little pity for Satoko as she struggled to pick up the coins, and the guilt I felt for teasing her so much pricked my heart."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1602,13 +1602,13 @@
 		"type": "MSGSET",
 		"MessageID": 20561,
 		"TextJPN": "ひぐらしの声がゆっくりと空気を冷やしていく。",
-		"TextENG": "The sound of the Higurashi's voice slowly cooled the air."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20562,
 		"TextJPN": "とりあえず、俺はレナのいない間にどこか、他に引き出し場所がないかと探して回ってみた。",
-		"TextENG": "At any rate, I looked around to see if there was somewhere else I could draw out while Rena was gone."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1620,7 +1620,7 @@
 		"type": "MSGSET",
 		"MessageID": 20564,
 		"TextJPN": "え？　レナ？　……人の気配に、俺は振り返る。と、",
-		"TextENG": "What? Rena? The presence of ...... people made me turn around. And..."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1635,13 +1635,13 @@
 		"type": "MSGSET",
 		"MessageID": 20566,
 		"TextJPN": "レナを想定していた視線の先には、日焼けした体格のいい男……富竹さんだった。",
-		"TextENG": "The gaze that I had assumed was Rena's was on a tanned, well-built man ...... named Tomitake."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20567,
 		"TextJPN": "ちょっとびっくりした。レナがクマ女かなんかになったのかと思った……って、おいおい。",
-		"TextENG": "I was a little surprised. I thought Rena had turned into a bear woman or something...... Hey, hey, hey."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1650,7 +1650,7 @@
 		"PreTextTags": "@vS19/08/660800040.",
 		"TextJPN": "「ごめんごめん。@k@vS19/08/660800041.また驚かしちゃったかな？」",
 		"NamesENG": "Tomitake",
-		"TextENG": "``Sorry, sorry.@k@vS19/08/660800041. Have I startled you?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1662,7 +1662,7 @@
 		"type": "MSGSET",
 		"MessageID": 20570,
 		"TextJPN": "俺は呼吸を整えながら、平静を装うつもりでぎこちなく笑いかけた。",
-		"TextENG": "As I adjusted my breathing, I laughed awkwardly with the intention of pretending to be calm."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1671,7 +1671,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI05080.",
 		"TextJPN": "「毎回登場が突然すぎですよ。@k@vS19/01/HR_KEI05090.まあ、今回はこっちの勘違いで余計驚いたんですけど……」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``You appeared too sudden.@k@vS19/01/HR_KEI05090. This time I had something on my mind and wrongly assumed something...``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1689,13 +1689,13 @@
 		"PreTextTags": "@vS19/01/HR_KEI05100.",
 		"TextJPN": "「いえ、こっちの話です」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``No, I'm talking about this.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20574,
 		"TextJPN": "いくら気の良さそうな富竹さんにだって、まさかクマ女にみえたとは言えない。",
-		"TextENG": "No matter how good-natured Tomitake-san was, he couldn't say that she looked like a bear."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1704,7 +1704,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI05110.",
 		"TextJPN": "「いい写真、撮れましたか？」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``Did you get nice pictures?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1713,7 +1713,7 @@
 		"PreTextTags": "@vS19/08/660800043.",
 		"TextJPN": "「ん？　ああ、まぁね。@k@vS19/08/660800044.何度来ても、やっぱりここはいいよ。@k@vS19/08/660800045.都会の喧騒を忘れて、なんだかくつろいだ気分になれるしね」",
 		"NamesENG": "Tomitake",
-		"TextENG": "``Hm? Aah, yeah.@k@vS19/08/660800044. No matter how many times I come back, this place is still great.@k@vS19/08/660800045. It's a good way to forget the hustle and bustle of the city and feel somewhat at home.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1731,7 +1731,7 @@
 		"PreTextTags": "@vS19/08/660800046.",
 		"TextJPN": "「…………ここも、例の事件がもう、嘘のことみたいだよ」",
 		"NamesENG": "Tomitake",
-		"TextENG": "``...Like the case never happened.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1740,7 +1740,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI05140.",
 		"TextJPN": "「あの……それ、なんですか？」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``Uh... What are you talking about?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1749,7 +1749,7 @@
 		"PreTextTags": "@vS19/08/660800047.",
 		"TextJPN": "「え？@k@vS19/08/660800048.　あれ、君は……知らないのかい？」",
 		"NamesENG": "Tomitake",
-		"TextENG": "``Huh?@k@vS19/08/660800048. You don't know about it?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1758,7 +1758,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI05150.",
 		"TextJPN": "「あ、俺実は、ここに越してきたばかりで……」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``I just moved in here...``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1773,7 +1773,7 @@
 		"type": "MSGSET",
 		"MessageID": 20583,
 		"TextJPN": "しまったと呟きながら、富竹さんは少し後悔したように吐息をつく。その様子から、俺は富竹さんが口にした『事件』というものが、この平和な空間には似つかわしくないものだとなんとなく、感じていた。",
-		"TextENG": "Tomitake-san exhaled with little regret, muttering that he had done something wrong. From the way he looked at me, I somehow sensed that the ``incident`` that Tomitake had mentioned was not something that would fit in this peaceful space."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1794,7 +1794,7 @@
 		"type": "MSGSET",
 		"MessageID": 20586,
 		"TextJPN": "魅音のきっぱりとした言葉が蘇る。あの時魅音は、ダム工事のときに何もなかったと言った。だが間違いなく、『それ』はあったのだ。",
-		"TextENG": "Mion's once and for all words came back to me. At that time, she said that nothing had happened during the dam construction. But without a doubt, it was there."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1806,19 +1806,19 @@
 		"type": "MSGSET",
 		"MessageID": 20588,
 		"TextJPN": "魅音も、『うん。あったね』と一言言ってくれれば、俺の好奇心も収まったのかもしれない。",
-		"TextENG": "If Mion had said, ``Yes, there was,`` my curiosity might have subsided."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20589,
 		"TextJPN": "魅音があえて、口に出さずに隠そうとしている、――『事件』。",
-		"TextENG": "This is the ``incident`` that Mion is trying to hide by saying nothing about it."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20590,
 		"TextJPN": "なんとなく、好意で隠してくれているようには思えるけど……俺はレナがいないこの隙に、その話を聞いておきたかった。",
-		"TextENG": "Somehow, it seems like they are hiding it from us as a favor, but... ...I wanted to hear about it while Rena was away."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1827,7 +1827,7 @@
 		"PreTextTags": "@vS19/08/660800050.",
 		"TextJPN": "「君は……知らなかったんだね？」",
 		"NamesENG": "Tomitake",
-		"TextENG": "``You don't know about it?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1845,7 +1845,7 @@
 		"PreTextTags": "@vS19/08/660800051.",
 		"TextJPN": "「そうか……いい話じゃないけど、いいかい？」",
 		"NamesENG": "Tomitake",
-		"TextENG": "``Ok. I can tell you about it... do you mind?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1860,7 +1860,7 @@
 		"type": "MSGSET",
 		"MessageID": 20595,
 		"TextJPN": "俺は自分でも驚くほどきっぱりと言った。自覚していたより、事件が気になっていたのかもしれない。",
-		"TextENG": "I said, surprisingly firm to myself. Maybe I was more concerned about the incident than I realized."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1869,7 +1869,7 @@
 		"PreTextTags": "@vS19/08/660800052.",
 		"TextJPN": "「雛見沢ダムで起きた悪夢だよ。@k@vS19/08/660800053.……バラバラ殺人だ」",
 		"NamesENG": "Tomitake",
-		"TextENG": "``It's a nightmare, what happened at the Hinamizawa Dam.@k@vS19/08/660800053. ...... A dismemberment incident.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1887,7 +1887,7 @@
 		"PreTextTags": "@vS19/08/660800054.",
 		"TextJPN": "「そうだ。@k@vS19/08/660800055.被害者は現場監督だった。@k@vS19/08/660800056.日頃から粗暴な振る舞いで加害者たちを扱っていたらしい……」",
 		"NamesENG": "Tomitake",
-		"TextENG": "``That's right.@k@vS19/08/660800055. The victim was a foreman.@k@vS19/08/660800056. Apparently, he treated his assailants roughly on a regular basis.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1896,7 +1896,7 @@
 		"PreTextTags": "@vS19/08/660800057.",
 		"TextJPN": "「犯人達は被害者を滅多打ちにして惨殺。@k@vS19/08/660800058.さらに斧で遺体を６つに分割したって話さ」",
 		"NamesENG": "Tomitake",
-		"TextENG": "``The perpetrators slaughtered their victim by beating them to a pulp.@k@vS19/08/660800058. They also said that they used an axe to split the body into six pieces.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1911,31 +1911,31 @@
 		"type": "MSGSET",
 		"MessageID": 20601,
 		"TextJPN": "なんて無惨な！　……事件なんだ。",
-		"TextENG": "How cruel!　It's a... ...case."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20602,
 		"TextJPN": "普通、恨みの仕返しとか報復ってのは殴ったり蹴ったりじゃないのか……？",
-		"TextENG": "Doesn't payback or retaliation for a grudge usually mean punching or kicking......?"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20603,
 		"TextJPN": "@bなた.@<鉈@>やつるはしや斧で？　こんなのはとてもそれと呼べない、常軌を逸したものだ。",
-		"TextENG": "With a machete or a pickaxe or an axe? It's is very hard to call it that, it's out of the ordinary."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20604,
 		"TextJPN": "激情に耐え切れず起きた報復というよりも、……もはや、理性を失ったどす黒い殺害行為だ。",
-		"TextENG": "Rather than a reprisal that occurred out of passion,... ...it is a dark act of murder that has lost its reason."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20605,
 		"TextJPN": "何人もで……@kよってたかって……@k@bなた.@<鉈@>で……つるはしで……斧、で……。",
-		"TextENG": "A number of people came together......@k with machetes...... @kwith pickaxes...... with axes...... with......"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1944,7 +1944,7 @@
 		"PreTextTags": "@vS19/08/660800059.",
 		"TextJPN": "「週刊誌には、巻頭のカラーページで、特集が組まれたくらい有名な話だよ」",
 		"NamesENG": "Tomitake",
-		"TextENG": "``It's so famous that a weekly magazine did a feature story on it in the front color pages.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1953,7 +1953,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI05200.",
 		"TextJPN": "「えっ！　でも……みんなそんな話、俺に一度も……」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``Eh! But no one said to me a word about it...``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1962,7 +1962,7 @@
 		"PreTextTags": "@vS19/08/660800060.",
 		"TextJPN": "「気を遣ってくれてるんだよ。@k@vS19/08/660800061.君はまだ来たばかりだし、こんな嫌な話を聞いてこの村を嫌いになってもらいたくないんじゃないかな」",
 		"NamesENG": "Tomitake",
-		"TextENG": "``They're looking out for you.@k@vS19/08/660800061. You've only just arrived, and I'm sure you don't want to make people hate this village by listening to these disgusting stories.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1977,7 +1977,7 @@
 		"type": "MSGSET",
 		"MessageID": 20610,
 		"TextJPN": "納得がいくわけはなかった。みんなが、まるで意図的に隠しているような、そんな態度じゃないか。",
-		"TextENG": "I was not convinced. It was as if everyone was deliberately trying to hide something from me."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1986,13 +1986,13 @@
 		"PreTextTags": "@vS19/08/660800062.",
 		"TextJPN": "「嫌な話をしちゃったね。@k@vS19/08/660800063.まあ、基本的には素敵な村だからさ！　また！」",
 		"NamesENG": "Tomitake",
-		"TextENG": "``This was a gruesome story.@k@vS19/08/660800063. Well, it's a lovely village, basically! See you!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20612,
 		"TextJPN": "富竹さんは陽気に話しを締めると、突然帰ってしまった。",
-		"TextENG": "Tomitake-san concluded his talk cheerfully and abruptly left."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2091,13 +2091,13 @@
 		"PreTextTags": "@vS19/02/660200076.",
 		"TextJPN": "「ん？@k@vS19/02/660200077.　なにかな？　かな？」",
 		"NamesENG": "Rena",
-		"TextENG": "``Hm?@k@vS19/02/660200077. Did y ou want something? Did you?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20626,
 		"TextJPN": "レナの顔を見ていたら、富竹さんの言葉が浮かぶ。……『気を遣ってくれている』、か。",
-		"TextENG": "As I looked at Rena's face, I thought of Tomitake's words. ...... 'They are caring for me', huh?"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2115,13 +2115,13 @@
 		"PreTextTags": "@vS19/02/660200078.",
 		"TextJPN": "「はぅ～、なんか気になるよー？@k@vS19/02/660200079.　なにかな？　……かな？」",
 		"NamesENG": "Rena",
-		"TextENG": "``Huh~, now I'm curious.@k@vS19/02/660200079. What happened? What happened?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20629,
 		"TextJPN": "事件のことを問いただすのは、止めておこう。いつかレナ自身が話してくれるまで。",
-		"TextENG": "I'm not going to ask her about the incident. Until the day she decides to tell me herself."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2130,7 +2130,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI05260.",
 		"TextJPN": "「いや。@k@vS19/01/HR_KEI05270.ただ、今日もレナが可愛いなと思ってさ」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``Nothing.@k@vS19/01/HR_KEI05270. I was just thinking that Rena looks really cute.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2145,25 +2145,25 @@
 		"type": "MSGSET",
 		"MessageID": 20632,
 		"TextJPN": "少し罪悪感はあったけど、レナの顔を赤く染めることは一日に何回あってもいいものだ。",
-		"TextENG": "I felt a little guilty, but making Rena's face turn red was something I could do more times than not in a day."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20633,
 		"TextJPN": "俺たちはレナの持ってきてくれた麦茶で喉を潤すと、すっかり冷えてしまった汗を拭き、帰路につく。",
-		"TextENG": "We quenched our thirst with the barley tea Rena had brought us, wiped off our sweat, which had cooled completely, and headed home."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20634,
 		"TextJPN": "自分がいない間の出来事を、何も知らないレナの隣で、俺は少し後ろめたかった。",
-		"TextENG": "I felt a little guilty, standing next to Rena, who knew nothing about what had happened while I was gone."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20635,
 		"TextJPN": "買い物を済ませると、沙都子は自転車のかごに買ったばかりの野菜を積みこむ。",
-		"TextENG": "After finishing her shopping, Satoko loaded the vegetables she had just bought into the basket of her bicycle."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2172,13 +2172,13 @@
 		"PreTextTags": "@vS19/04/660400045.",
 		"TextJPN": "「さぁ、圭一さんも早くお帰りあそばせ！」",
 		"NamesENG": "Satoko",
-		"TextENG": "``Come on, Keiichi-san, hurry up and go home!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20637,
 		"TextJPN": "さっきのことを気にしているのだろうか、いつも以上に元気にしてみせる沙都子が健気で、少し痛ましく思えた。",
-		"TextENG": "I wondered if she was worried about what had happened earlier, but Satoko was trying to be more cheerful than usual, which was healthy and a little painful."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2193,7 +2193,7 @@
 		"type": "MSGSET",
 		"MessageID": 20639,
 		"TextJPN": "こういう時、沙都子にどんな言葉をかけてやるべきなのだろうか……？　言葉が見つからないまま、俺も自転車にまたがる。",
-		"TextENG": "At a time like this, what words should I say to Satoko? ......?　Without being able to find the right words, I got on my bike."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2202,7 +2202,7 @@
 		"PreTextTags": "@vS19/04/660400046.",
 		"TextJPN": "「じゃ、圭一さん。@k@vS19/04/660400047.また…………」",
 		"NamesENG": "Satoko",
-		"TextENG": "``So, Keiichi-san.@k@vS19/04/660400047. Good bye...``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2217,7 +2217,7 @@
 		"type": "MSGSET",
 		"MessageID": 20642,
 		"TextJPN": "行きかける俺。だが、沙都子はなかなか出発しない。",
-		"TextENG": "I'm about to go. But Satoko doesn't leave."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2226,19 +2226,19 @@
 		"PreTextTags": "@vS19/04/660400048.",
 		"TextJPN": "「もうっ！@k@vS19/04/660400049.　……こ、このかご、なんなんですのー？！」",
 		"NamesENG": "Satoko",
-		"TextENG": "``Eh!@k@vS19/04/660400049. ...What is with this basket?!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20644,
 		"TextJPN": "ガコン！　ガコン！　沙都子の自転車のかごが、グラグラと揺れている。",
-		"TextENG": "Gakon! Gakon! The basket of Satoko's bicycle was shaking unsteadily."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20645,
 		"TextJPN": "どうやら、自転車のかごの止め具が緩んでいるらしい。沙都子の荷物をしっかりと運ぶべきかごは、今やダラーンと傾いてしまっていた。",
-		"TextENG": "Apparently, a fixture in the basket of the bicycle had come loose. The basket, which was supposed to carry Satoko's belongings, was now tilted upside down."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2253,19 +2253,19 @@
 		"type": "MSGSET",
 		"MessageID": 20647,
 		"TextJPN": "今にも泣きそうな顔で、かごを揺らす沙都子。",
-		"TextENG": "Satoko rocks the basket, looking as if she is about to cry."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20648,
 		"TextJPN": "なんだか、見ていられなかった。……泣きっ面に蜂というかなんというか。",
-		"TextENG": "It was kind of hard to watch. ...I'm not sure if it's a cry of shame or something else."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20649,
 		"TextJPN": "だから俺は、いつものからかいを止めて沙都子に声をかけた。",
-		"TextENG": "So I stopped my usual teasing and approached Satoko."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2274,7 +2274,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI05300_01.",
 		"TextJPN": "「……沙都子。俺が家まで持ってってやるよ」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``Satoko. I can bring it to your house.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2292,13 +2292,13 @@
 		"PreTextTags": "@vS19/01/HR_KEI05310.",
 		"TextJPN": "「いいから、貸せって」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``Just give it to me.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20653,
 		"TextJPN": "俺は沙都子の買った野菜の袋をひょいっと持ち上げると、俺の自転車のハンドルにぶらさげた。",
-		"TextENG": "I snatched up the bag of vegetables Satoko had bought and hung it from the handlebars of my bike."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2307,7 +2307,7 @@
 		"PreTextTags": "@vS19/04/660400052.",
 		"TextJPN": "「た、助かりますわ……。@k@vS19/04/660400053.でも、くれぐれも、このまま野菜をドロボーしてやろうなんてバカな考えは、およし遊ばせ！」",
 		"NamesENG": "Satoko",
-		"TextENG": "``Thank you...@k@vS19/04/660400053. But please, don't be foolish enough to think that you can just go on slinging vegetables.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2316,7 +2316,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI05320.",
 		"TextJPN": "「な～に言ってやがる。むしろ俺からにんじんカボチャでもプレゼントしてやろうか？　んん？」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``What the hell are you talking about? I'd rather give you a carrot pumpkin as a present, wouldn't you? Hmm?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2325,13 +2325,13 @@
 		"PreTextTags": "@vS19/04/660400054.",
 		"TextJPN": "「べー！　それならお肉を希望させていただきますわ！@k@vS19/04/660400055.　松坂の最高級霜降りなんていかがでございますかぁ？」",
 		"NamesENG": "Satoko",
-		"TextENG": "``Bleee! Well, then I'll have to settle for meat!@k@vS19/04/660400055. How about the highest quality marbling from Matsuzaka?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20657,
 		"TextJPN": "ニヤリと笑いながら、沙都子は俺の挑発に乗ってくる。それだけ減らず口が叩ければ、少しは元気を取り戻したのかな……？　俺は沙都子を見ながら、ふと嬉しさがこみ上げてきた。",
-		"TextENG": "With a grin, Satoko takes me up on my challenge. If you can talk that much, you've regained some of your energy......? It's a great way to make sure you're getting the most out of your time with us."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2346,7 +2346,7 @@
 		"type": "MSGSET",
 		"MessageID": 20659,
 		"TextJPN": "並んで自転車を漕ぎながら、沙都子は俺の表情をうかがっていた。",
-		"TextENG": "As we rode our bikes side by side, Satoko watched my expression."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2355,7 +2355,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI05330.",
 		"TextJPN": "「なんでもないよ。@k@vS19/01/HR_KEI05340.……ほらほら、余所見してると事故るぜ？」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``It's nothing.@k@vS19/01/HR_KEI05340. Hey, don't look too far ahead, or you'll crash.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2364,13 +2364,13 @@
 		"PreTextTags": "@vS19/04/660400057.",
 		"TextJPN": "「圭一さんこそ、お気をつけあそばせ！@k@vS19/04/660400058.　――あ」",
 		"NamesENG": "Satoko",
-		"TextENG": "``Keiichi-san, you also look out!@k@vS19/04/660400058. Hah!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20662,
 		"TextJPN": "そう言った矢先に、沙都子の自転車がキュッとブレーキをきしませて急停止した。一瞬、自転車の故障かと思って俺も慌てて止まるが、……どうも違うようだ。",
-		"TextENG": "Just as I was saying that, Satoko's bicycle came to a screeching halt with its brakes. For a moment, I thought the bike was malfunctioning, and I rushed to stop it, but ...... it seemed to be different."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2385,7 +2385,7 @@
 		"type": "MSGSET",
 		"MessageID": 20664,
 		"TextJPN": "沙都子の視線の先を追うと、そこはおもちゃ屋のショーウインドウだった。",
-		"TextENG": "I followed Satoko's gaze and found myself in the show window of a toy store."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2394,13 +2394,13 @@
 		"PreTextTags": "@vS19/01/HR_KEI05360.",
 		"TextJPN": "「何か、欲しいものでもあるのか？」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``Is there something you want?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20666,
 		"TextJPN": "店先に並んでいるのは、ボードゲームや人形、ぬいぐるみなど、どこのおもちゃ屋にもありそうなものばかりだ。沙都子は、何を見ているんだろう……？",
-		"TextENG": "Lined up at the front of the store were board games, dolls, stuffed animals, and other items that could be found in any toy store. I wonder what Satoko is looking at ......?"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2415,31 +2415,31 @@
 		"type": "MSGSET",
 		"MessageID": 20668,
 		"TextJPN": "沙都子は再び、こわれたかごをガタピシいわせながら自転車を漕ぎ出す。俺も慌ててペダルを踏み出した。",
-		"TextENG": "Satoko started pedaling her bicycle again, rattling the broken basket. I hurriedly started pedaling too."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20669,
 		"TextJPN": "夕焼けを背に、二台の自転車が並走してゆっくりと進む。",
-		"TextENG": "With the sunset in the background, two bicycles rode side by side, slowly moving forward."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20670,
 		"TextJPN": "沙都子と梨花ちゃんの住む家が見えてくるまで、さして時間はかからなかった。",
-		"TextENG": "It didn't take long before I could see the house where Satoko and Rika lived."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20671,
 		"TextJPN": "並んで自転車を漕ぎながら、色んな話をしたりふざけあったりしているうちに、沙都子の横顔が少しづつ明るく、そして朗らかになっていく……。",
-		"TextENG": "As they rode their bicycles side by side, talking and joking around, Satoko's profile gradually became brighter and more cheerful. ......"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20672,
 		"TextJPN": "自然な笑顔を取り戻した沙都子に、俺は少し救われた思いがした。",
-		"TextENG": "I felt a little relieved when Satoko regained her usual smile."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2448,13 +2448,13 @@
 		"PreTextTags": "@vS19/04/660400060.",
 		"TextJPN": "「……それじゃ圭一さん、また明日ですわ～」",
 		"NamesENG": "Satoko",
-		"TextENG": "``...So, good bye, Keiichi-san.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20674,
 		"TextJPN": "買い物を済ませると、沙都子はぎこちない笑顔を一つ作り、さっさと自転車にまたがった。",
-		"TextENG": "After finishing her shopping, Satoko gave one of her awkward smiles and quickly got on her bike."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2469,13 +2469,13 @@
 		"type": "MSGSET",
 		"MessageID": 20676,
 		"TextJPN": "自転車を漕ぎながら去ってゆく沙都子を、俺はぼんやりと見送った。その線の細い背中が遠ざかって、頼りのない輪郭になっていく。",
-		"TextENG": "I watched Satoko as she pedaled away on her bicycle. The thin line of her back became a distant, indistinguishable outline."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20677,
 		"TextJPN": "ギクシャクとした雰囲気を払拭できないまま、沙都子と別れてしまった……。残された気まずい空気だけが、辺りにどんよりと漂っていた。",
-		"TextENG": "I left Satoko without being able to get rid of the awkward atmosphere... The only thing that remained was the awkward air that hung in the air."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2490,31 +2490,31 @@
 		"type": "MSGSET",
 		"MessageID": 20679,
 		"TextJPN": "まだ、家に帰るには早い。俺は自転車をひきながら、ぶらぶらと商店街を歩き出した。",
-		"TextENG": "It was still too early to go home. I pulled my bike and wandered down the shopping street."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20680,
 		"TextJPN": "村の人たちの沙都子への冷たい視線が頭の隅にこびりついていて、何を見ても気分が晴れない。",
-		"TextENG": "The cold stares of the villagers at Satoko were stuck in the corner of my mind, and no matter what I saw, I couldn't feel better."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20681,
 		"TextJPN": "そんな、空ろな気持ちで商店を物色していると、ふと、見覚えのあるシルエットを見つけた。",
-		"TextENG": "As I was rummaging through the stores with such an empty feeling, I suddenly saw a familiar silhouette."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20682,
 		"TextJPN": "あれ……？　あの人はたしか……。",
-		"TextENG": "Is that...? I think that guy was..."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20683,
 		"TextJPN": "俺は一直線に向かっていくと、目の前でさっと自転車を止めて顔を確かめる。",
-		"TextENG": "As I headed in a straight direction, I quickly stopped my bike in front of him to check his face."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2523,7 +2523,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI05390.",
 		"TextJPN": "「やっぱり富竹さんですね」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``So that was you, Tomitake-san.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2538,7 +2538,7 @@
 		"type": "MSGSET",
 		"MessageID": 20686,
 		"TextJPN": "富竹さんは、小さく驚いて見せた。",
-		"TextENG": "Tomitake-san showed his small surprise."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2553,7 +2553,7 @@
 		"type": "MSGSET",
 		"MessageID": 20688,
 		"TextJPN": "奇遇なタイミングでしか会ったことがないような……まぁ、いいか。",
-		"TextENG": "It's like we've only met at odd times... Oh well."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2568,37 +2568,37 @@
 		"type": "MSGSET",
 		"MessageID": 20690,
 		"TextJPN": "俺はふと、梨花ちゃんのことを思い出した。",
-		"TextENG": "I suddenly thought of Rika."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20691,
 		"TextJPN": "そういえば、前に富竹さんと会った時、俺は梨花ちゃんと一緒だった。村の老人たちがこぞって梨花ちゃんに群がってきて、あっという間に黒山の人だかりができたんだっけ……。",
-		"TextENG": "By the way, the last time I met Tomitake-san, I was with Rika-chan. I remember that all the old people in the village flocked to Rika-chan, and in no time, there was a crowd of people."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20692,
 		"TextJPN": "さっきの八百屋の店先での出来事を思うと、沙都子が少しあわれに思える。沙都子と梨花ちゃん。……どうしてこうも、人々の反応が違うのだろう？　梨花ちゃんには、何か特別な理由でもあるのだろうか……？",
-		"TextENG": "When I think about what happened earlier at the grocery store, I feel a little sorry for Satoko. ...I'm not sure what to make of this. Why do people react so differently to them? Is there some special reason for Rika to be treated so differently...?"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20693,
 		"TextJPN": "……そういえば、あの時富竹さんは確か、梨花ちゃんのことを『オヤシロさま』がどうか、って言っていたような……。",
-		"TextENG": "...By the way, I think Tomitake-san said something about Rika-chan at that time about how she was ``Oyashiro-sama``..."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20694,
 		"TextJPN": "そうだ。確かに富竹さんは言っていた。詳しく聞こうとしたけれど、あの時は梨花ちゃんにさえぎられてしまったのだった。",
-		"TextENG": "That's right. That's what Tomitake-san had said. I tried to ask him for details, but Rika interrupted me back then."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20695,
 		"TextJPN": "今がそれを訊くチャンスかもしれない……。",
-		"TextENG": "Now might be a good time to ask..."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2613,7 +2613,7 @@
 		"type": "MSGSET",
 		"MessageID": 20697,
 		"TextJPN": "俺はおずおずと切り出した。",
-		"TextENG": "I cut him off cautiously."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2622,7 +2622,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI05410_01.",
 		"TextJPN": "「……オヤシロさまについて知りたいんです」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``...I want to know about Oyashiro-sama.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2637,7 +2637,7 @@
 		"type": "MSGSET",
 		"MessageID": 20700,
 		"TextJPN": "富竹さんは、少し考えるような目つきをする。俺はじっと、次の言葉を待った。",
-		"TextENG": "Tomitake-san looked at me as if he was thinking a little. I waited patiently for his next words."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2646,7 +2646,7 @@
 		"PreTextTags": "@vS19/08/660800068.",
 		"TextJPN": "「オヤシロさまのことは正直、僕はこの村の人間ほどには語れないよ。@k@vS19/08/660800069.村の人たちには、オヤシロさまに対して独特の思いがあるようだからね」",
 		"NamesENG": "Tomitake",
-		"TextENG": "``To be honest, I don't know as much as the people of the village.@k@vS19/08/660800069. The people of the village seem to have their own special way of thinking about Oyashiro-sama.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2664,13 +2664,13 @@
 		"PreTextTags": "@vS19/08/660800070.",
 		"TextJPN": "「ああ、あまり詳しくは知らないんだけど……」",
 		"NamesENG": "Tomitake",
-		"TextENG": "``Ah, I don't know much about it...``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20704,
 		"TextJPN": "前置きをすると、富竹さんは一つ一つ言葉を選ぶように話はじめた。",
-		"TextENG": "After preliminaries, Tomitake-san began to speak, choosing his words carefully."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2679,7 +2679,7 @@
 		"PreTextTags": "@vS19/08/660800071.",
 		"TextJPN": "「オヤシロさまっていうのは、簡単に言えば雛見沢の守り神なんだよ」",
 		"NamesENG": "Tomitake",
-		"TextENG": "``Oyashiro-sama is, to simply put, the guardian deity of Hinamizawa.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2688,7 +2688,7 @@
 		"PreTextTags": "@vS19/08/660800072.",
 		"TextJPN": "「村の人々の信仰は厚く、人々はオヤシロさまを中心に団結していると言っても過言ではない」",
 		"NamesENG": "Tomitake",
-		"TextENG": "``It is no exaggeration to say that the people of the village have a strong faith and are united around Oyashiro-sama.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2697,7 +2697,7 @@
 		"PreTextTags": "@vS19/08/660800073.",
 		"TextJPN": "「雛見沢にダムが建設されようとした時には、村人は皆、一丸となって戦った。@k@vS19/08/660800074.オヤシロさまへの信仰を柱に、心を一つにしたんだよ」",
 		"NamesENG": "Tomitake",
-		"TextENG": "``When a dam was about to be built in Hinamizawa, all the villagers fought together as one.@k@vS19/08/660800074. With faith in Oyashiro-sama as their pillar, they've united their hearts.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2712,7 +2712,7 @@
 		"type": "MSGSET",
 		"MessageID": 20709,
 		"TextJPN": "そういえば、魅音からそんな話を聞いたことがあるような……。たしか雛見沢の住人が団結して、村をダムの湖底に沈めようとする役人たちと戦ったとか言っていたっけ。",
-		"TextENG": "Come to think of it, I think I've heard such a story from Mion. I think she said that the residents of Hinamizawa banded together and fought against the officials who were trying to sink the village into the bottom of the lake of the dam."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2721,13 +2721,13 @@
 		"PreTextTags": "@vS19/08/660800075.",
 		"TextJPN": "「あぁ……。@k@vS19/08/660800076.そうは言っても……あんな事件が起こるとは、誰も予想していなかったけどねぇ……」",
 		"NamesENG": "Tomitake",
-		"TextENG": "``Yeah...@k@vS19/08/660800076. Even so, no one expected such an incident to happen, though.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20711,
 		"TextJPN": "そこまで言うと、富竹さんの表情が曇る。",
-		"TextENG": "When he said that much, Tomitake-san's expression became cloudy."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2742,7 +2742,7 @@
 		"type": "MSGSET",
 		"MessageID": 20713,
 		"TextJPN": "俺が眉をひそめたのを見て富竹さんは少しためらったが、やがて口を開いた。",
-		"TextENG": "Seeing me raise my eyebrows, Tomitake-san hesitated for a moment, but then opened his mouth."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2751,7 +2751,7 @@
 		"PreTextTags": "@vS19/08/660800077.",
 		"TextJPN": "「あまり、いい話じゃないが……」",
 		"NamesENG": "Tomitake",
-		"TextENG": "``This is not a nice story...``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2766,7 +2766,7 @@
 		"PreTextTags": "@vS19/08/660800078.",
 		"TextJPN": "「雛見沢ダムで起きた悪夢だよ。@k@vS19/08/660800079.……バラバラ殺人だよ」",
 		"NamesENG": "Tomitake",
-		"TextENG": "``It's a nightmare that happened at the Hinamizawa Dam.@k@vS19/08/660800079. ......Dismemberment incident.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2784,7 +2784,7 @@
 		"PreTextTags": "@vS19/08/660800080.",
 		"TextJPN": "「……被害者はダム建設の現場監督だった。@k@vS19/08/660800081.僕も人づてにしか知らないが、何でもその監督は、日頃から作業員たちに粗暴な振る舞いをしていたらしい」",
 		"NamesENG": "Tomitake",
-		"TextENG": "``The victim was a foreman.@k@vS19/08/660800056. Apparently, he treated his assailants roughly on a regular basis.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2793,7 +2793,7 @@
 		"PreTextTags": "@vS19/08/660800082.",
 		"TextJPN": "「鬱憤のたまった作業員たちは、ある日、粗暴な現場監督を滅多打ちにして惨殺。@k@vS19/08/660800083.さらに斧で遺体を６つに分割したらしいんだ……」",
 		"NamesENG": "Tomitake",
-		"TextENG": "``One day, the exasperated workers slaughtered the rough foreman, beating him to death.@k@vS19/08/660800083. They also said they used an axe to split the body into six pieces.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2820,13 +2820,13 @@
 		"type": "MSGSET",
 		"MessageID": 20723,
 		"TextJPN": "普通、恨みの仕返しとか報復ってのは殴ったり蹴ったりじゃないのか……？",
-		"TextENG": "Doesn't payback or retaliation for a grudge usually mean punching or kicking......?"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20724,
 		"TextJPN": "@bなた.@<鉈@>やつるはしや斧で？　こんなのは、とてもそれと呼べない。常軌をはるかに逸している……！",
-		"TextENG": "With a machete or a pickaxe or an axe? It's is very hard to call it that, it's out of the ordinary."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2835,7 +2835,7 @@
 		"PreTextTags": "@vS19/01/HR_KEI05480.",
 		"TextJPN": "「でも……みんなそんな話、俺に一度も……」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``Eh! But noone said to me a word about it...``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2844,7 +2844,7 @@
 		"PreTextTags": "@vS19/08/660800084.",
 		"TextJPN": "「気を遣ってくれてるんだよ。@k@vS19/08/660800085.君はまだ来たばかりだし、こんな嫌な話を聞いてこの村を嫌いになってもらいたくないんじゃないかな」",
 		"NamesENG": "Tomitake",
-		"TextENG": "``They're looking out for you.@k@vS19/08/660800085. You've only just arrived, and I'm sure you don't want to make people hate this village by listening to these disgusting stories.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2862,36 +2862,36 @@
 		"PreTextTags": "@vS19/08/660800086.",
 		"TextJPN": "「嫌な話をしちゃったね。@k@vS19/08/660800087.じゃ、僕は用事があるので。また！」",
 		"NamesENG": "Tomitake",
-		"TextENG": "``This was a gruesome story.@k@vS19/08/660800087. Well, I've got things to do. See you later.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20729,
 		"TextJPN": "富竹さんは俺の疑問を打ち消すように明るく挨拶をすると、あっという間に人混みの中に消えていってしまった。",
-		"TextENG": "Mr. Tomitake bid farewell cheerfully, dismissing my doubts, and disappeared into the crowd in a flash."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20730,
 		"TextJPN": "そんな事件があったことを、どうしてみんな、俺に秘密にするのだろうか。隠すことに、何か意味があるのだろうか……？　俺は……この村の事を、何も知らないのかもしれない……。",
-		"TextENG": "Why does everyone keep such incidents a secret from me? What's the point in hiding it...? ...Maybe I don't know anything about this village..."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20731,
 		"TextJPN": "商店街にひとり取り残された俺は、不安な気持ちに包まれた。",
-		"TextENG": "As I was left alone in the shopping district, I was filled with anxiety."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20732,
 		"TextJPN": "森からこだますひぐらしの声が、耳に届く。",
-		"TextENG": "The voices of higurashi echoing from the forest were reaching my ears."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 20733,
 		"TextJPN": "俺が知っては不都合なことが、この村にはあるというのか……？",
-		"TextENG": "Is there something in this village that I'm not supposed to know about......?"
+		"TextENG": ""
 	}
 ]

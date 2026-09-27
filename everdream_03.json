@@ -261,7 +261,7 @@
 		"type": "MSGSET",
 		"MessageID": 1852,
 		"TextJPN": "鷹野と老人は、しばしの間、祖父のいた頃の時代の情勢について、思い思いの持論を述べ合うのだった。",
-		"TextENG": "Takano and the old man spent some time discussing the situation of the time when her grandfather was alive."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -624,7 +624,7 @@
 		"PreTextTags": "@vS13/00/550300048.",
 		"TextJPN": "「当時、高野くんは軍医少佐として海外に派兵されていて、現地の防疫研究所で各種伝染病の予防対策について研究していた」",
 		"NamesENG": "Koizumi",
-		"TextENG": "``At the time, Takano-kun was working as a military physician. He was researching the prevention of different infectious diseases."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -651,7 +651,7 @@
 		"PreTextTags": "@vS13/00/550300052.",
 		"TextJPN": "「そして雛見沢独特のオヤシロさま信仰の存在を知り、特異な性質を持つ未知の疾病の存在を確信したのだ」",
 		"NamesENG": "Koizumi",
-		"TextENG": "...Then he learned of the unique Hinamizawa faith in Oyashiro-sama, and he was convinced that he found an unknown disease with unique properties.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -900,19 +900,19 @@
 		"type": "MSGSET",
 		"MessageID": 1937,
 		"TextJPN": "それは、昔祖父から聞いたとおりの都合だった。",
-		"TextENG": "That was exactly what I heard from my grandfather a long time ago."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 1938,
 		"TextJPN": "人間の体内に浸透し、その言動や意思を支配する生命体の存在を認めるということは、",
-		"TextENG": "To acknowledge the existence of a life form that permeates the human body and controls its words, actions, and will..."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 1939,
 		"TextJPN": "たとえ治療の必要性を理解していたとしても、社会的な影響がきわめて深刻である、…という判断を上層部は下したのだ。",
-		"TextENG": "Even if they understood the need for treatment, the social implications were extremely serious... and so the higher-ups decided."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -921,7 +921,7 @@
 		"PreTextTags": "@vS13/00/550300069.",
 		"TextJPN": "「そんな中で人道的グレーゾーンに踏み込む危険性を配慮し、高野くんの研究は却下されたのだよ…」",
 		"NamesENG": "Koizumi",
-		"TextENG": "``In such a situation, Takano's research was rejected out of consideration for the risk of stepping into a humanitarian gray zone...``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -930,7 +930,7 @@
 		"PreTextTags": "@vS13/09/550500051.",
 		"TextJPN": "「………そのため、…この時代になってもなお、祖父の研究が顧みられることがなかったと…？」",
 		"NamesENG": "Takano",
-		"TextENG": "``......So, because of that... they refused to consider my grandfather's research even in current era?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -939,7 +939,7 @@
 		"PreTextTags": "@vS13/00/550300070.",
 		"TextJPN": "「そうだ。@k@vS13/00/550300071.高野くんにその気はなくとも、雛見沢症候群の研究が公になれば、社会的な影響が強すぎて一般大衆に不要の混乱と疑念を与えることにもなりかねない」",
 		"NamesENG": "Koizumi",
-		"TextENG": "``Yes, that's exactly it.@k@vS13/00/550300071. Even if Takano-kun didn't mean for it to happen, if his research into Hinamizawa Syndrome became public, it might cause a resurgence of quarrels over the long-ended war."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

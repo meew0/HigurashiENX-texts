@@ -162,7 +162,7 @@
 		"PreTextTags": "@vS12/01/180100484.",
 		"TextJPN": "「しかし、園崎家もさすがだな。@k@vS12/01/KEI081501.夕方の話をその晩にはもうキャッチしてるってんだからさ」",
 		"NamesENG": "Keiichi",
-		"TextENG": "``I'm impressed with the power of the Sonozaki family, though.@k@vS12/01/KEI081501. They'd already caught the story that night.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -504,7 +504,7 @@
 		"type": "MSGSET",
 		"MessageID": 103649,
 		"TextJPN": "レナは、今しがた俺と魅音が話していた内容をスラスラと言い当てる。",
-		"TextENG": "Rena slurred her words about what Mion and I had just been talking about."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1686,7 +1686,7 @@
 		"PreTextTags": "@vS12/06/180600161.",
 		"TextJPN": "「……どうでしょうね。@k@vS12/06/180600163.意味ないんじゃないですか？」",
 		"NamesENG": "Shion",
-		"TextENG": "``......I don't know about that...@k@vS12/06/180600163. It might be just a waste of time...``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1836,7 +1836,7 @@
 		"PreTextTags": "@vS12/03/180300292.",
 		"TextJPN": "「くっくっく。@k@vS12/03/180300293.とにかく、そうと決まったら@bちゅうちょ.@<躊躇@>せずに実行しよう。@k@vS12/03/MIO081501.行くべき場所はわかってる」",
 		"NamesENG": "Mion",
-		"TextENG": "``Heh heh heh.@k@vS12/03/180300293. Anyway, let's go and make it happen.@k@vS12/03/MIO081501. I know where we need to go.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1866,7 +1866,7 @@
 		"PreTextTags": "@vS12/03/MIO081503.",
 		"TextJPN": "「交渉する時は決して音を上げないこと」",
 		"NamesENG": "Mion",
-		"TextENG": "Never raise your voice when negotiating."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1935,7 +1935,7 @@
 		"type": "MSGSET",
 		"MessageID": 103836,
 		"TextJPN": "……それって、沙都子の死んだ両親が村に敵対して、ダム誘致に賛成してたって話だよな。@k……あっちこっちから聞かされて、もう耳にタコができたぜ。",
-		"TextENG": "...That's the story of how Satoko's dead parents turned against the village and were in favor of building the dam.@k ...I've heard so much about it from so many people, I've got calluses on my ears."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2505,7 +2505,7 @@
 		"PreTextTags": "@vS12/05/180500610.",
 		"TextJPN": "「その圭一が、運命なんか金魚すくいの網だって言うのよ？@k@vS12/05/180500611_1.　………………この世界をもう諦めてるからこそ、何だか面白そうに感じてきたわ」",
 		"NamesENG": "Rika",
-		"TextENG": "He's saying that fate is as fragile as a thin sheet of paper!@k@vS12/05/180500611_1. ...I've already given up on this world, which is why it's starting to sound kind of interesting to me.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2535,7 +2535,7 @@
 		"type": "MSGSET",
 		"MessageID": 103912,
 		"TextJPN": "それにこんな展開は初めてだから、この先どうなるのかちょっと興味がある。",
-		"TextENG": "Besides, I've never seen this kind of development before, so I'm a little curious to see what happens next."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2724,7 +2724,7 @@
 		"PreTextTags": "@vS12/22/CHIE081502.",
 		"TextJPN": "「私は、先生の知りうる各方面へ訴えます。@k@vS12/22/CHIE081503.少しでも理解者を得られればと思います」",
 		"NamesENG": "Chie",
-		"TextENG": "``I'll appeal to everyone I know.@k@vS12/22/CHIE081503. I hope I can get an understanding even a little.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

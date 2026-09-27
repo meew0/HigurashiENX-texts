@@ -1431,13 +1431,13 @@
 		"type": "MSGSET",
 		"MessageID": 102136,
 		"TextJPN": "とりあえず、黙っていると恐ろしさが増すと思ったのか、さっきから富竹がさかんに変わった形の道具を見つけては、隣の鷹野に尋ねている。",
-		"TextENG": "At any rate, as if he thought that keeping quiet would make him more frightening, Tomitake had been asking Takano next to him about the unusual shaped tools he had found earlier."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 102137,
 		"TextJPN": "……そのたびに、ご機嫌状態で興奮している彼女からその残酷な用途、そして血と闇に彩られた裏話を聞かされて、余計に震えあがる様子がおかしくて、見ていて飽きなかった。",
-		"TextENG": "......Each time she was in a good mood and excited, she told him about its cruel uses and the backstory colored by blood and darkness, which made him shiver even more, which was funny and I never got tired of watching it."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1449,19 +1449,19 @@
 		"type": "MSGSET",
 		"MessageID": 102139,
 		"TextJPN": "そして鷹野もそれをわかっているのか、時折からかうように妖しげな笑みを浮かべて流し目を送りながら、その反応を楽しんでいるようだった。",
-		"TextENG": "And Takano knew it, too, and seemed to be enjoying his reaction, occasionally teasing him with a bewitching smile and sending him streaming eyes."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 102140,
 		"TextJPN": "元々、ここにしまわれている道具は村の指導者たちがその支配力を強めて、その枠から逃れようとする人を従え、屈服させるために作り出されたもの。",
-		"TextENG": "Originally, the tools stored here were created by the village leaders to strengthen their control and to subdue and humiliate those who tried to escape from their confines."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 102141,
 		"TextJPN": "……だから見る人が怯えるのは当然で、その役割通りの効能を果たしているだけのことなのです。@k……なんて、鷹野の言葉を聞きながらそう補足する自分は、むしろ冷めすぎているのだろうか。",
-		"TextENG": "So it is natural for the viewer to be frightened, and it is just fulfilling its efficacy as per its role.@k ...As I listened to Takano's words, I wondered if I was being too cold."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1533,7 +1533,7 @@
 		"type": "MSGSET",
 		"MessageID": 102150,
 		"TextJPN": "鷹野は期待に目を輝かせながら、私に問いかける。……おそらく、本当の意味での『綿流し』をある程度知っている彼女にとって、一番聞きたいのはその部分なんだろう。",
-		"TextENG": "Perhaps, for her, who knows some of the true meaning of ``cotton-drifting,`` that is the part she wants to hear the most."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1575,7 +1575,7 @@
 		"PreTextTags": "@vS12/08/180800029.",
 		"TextJPN": "「鷹野さんによく僕も聞かされるよ。@k@vS12/08/180800030.大昔の鬼ヶ淵村の人たちは、どうしてそんなことをしたんだろう。@k@vS12/08/180800032.@bふもと.@<麓@>の人々に対する何かの見せしめなのかい？」",
 		"NamesENG": "Tomitake",
-		"TextENG": "``She always talks to me about it too.@k@vS12/08/180800030. I wonder why the people of Onigafuchi Village did such a thing a long time ago.@k@vS12/08/180800032. Was it a display of force or something?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1584,7 +1584,7 @@
 		"PreTextTags": "@vS12/09/180900094.",
 		"TextJPN": "「私はそこは、一種の儀式だと思っているわ」",
 		"NamesENG": "Takano",
-		"TextENG": "``I think of it as a sort of ritual."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1593,7 +1593,7 @@
 		"PreTextTags": "@vS12/09/180900095.",
 		"TextJPN": "「鬼ヶ淵村が外部との交流を禁ずる最大の建前が、自分たちは仙人で、村は聖地。@k@vS12/09/180900096.人間と交流するとケガレを持ち込む……、そういう風に言われてた」",
 		"NamesENG": "Takano",
-		"TextENG": "The greatest outspoken reasons Onigafuchi forbade intermingling with outsiders were that the village was a holy land, and they were 'transcendents', greater beings than humans.@k@vS12/09/180900096. It was said that when they interact with humans, they are sulled."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1620,7 +1620,7 @@
 		"PreTextTags": "@vS12/09/180900098.",
 		"TextJPN": "「見せしめの犠牲者が、酷い方法で拷問されて……絶命する。@k@vS12/09/180900099.そんなのを見せ付けられたら、………くすくす」",
 		"NamesENG": "Takano",
-		"TextENG": "``The victim was brutally tortured in public, and die.@k@vS12/09/180900099. See something like that... Hee hee."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1674,7 +1674,7 @@
 		"PreTextTags": "@vS12/09/180900115.",
 		"TextJPN": "「神父のお祈りも最期に言い残す言葉も何もなしよ？@k@vS12/09/180900121.　くすくすくすくす」",
 		"NamesENG": "Takano",
-		"TextENG": "There's no last words or prayers or anything!@k@vS12/09/180900121. Hee hee hee hee."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

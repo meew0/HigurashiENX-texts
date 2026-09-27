@@ -957,7 +957,7 @@
 		"PreTextTags": "@vS13/00/550300120.",
 		"TextJPN": "「ふむ。ならばいいんだがね。@k@vS13/00/550300121.研究対象が元で死に至っている医学者は、過去にもたくさんいる。@k@vS13/00/550300122.君も気をつけての」",
 		"NamesENG": "Koizumi",
-		"TextENG": "``Hmm. I'm glad to hear that.@k@vS13/00/550300121. There have been many medical researchers who have died from their research subjects in the past..@k@vS13/00/550300122. So please be careful, okay?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -966,13 +966,13 @@
 		"PreTextTags": "@vS13/00/550200132.",
 		"TextJPN": "「だが、研究に殉じた彼らの偉業は死後も揺るがない。@k@vS13/00/550200133.研究者としては本懐でしたでしょうな」",
 		"NamesENG": "Hifumi",
-		"TextENG": "``But the greatness of their sacrifice for research will remain unshaken even after their deaths.@k@vS13/00/550200133. As a researcher, I'm sure that was their long term goal.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 2956,
 		"TextJPN": "医学の解明に命をかけた研究者たちの話は、祖父からよく聞かされていた。",
-		"TextENG": "My grandfather had often told me stories of researchers who devoted their lives to the study of medicine."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1719,7 +1719,7 @@
 		"PreTextTags": "@vS13/00/550200166.",
 		"TextJPN": "「ただし、これらのウィルスが引き起こす症状は多岐に渡ります」",
 		"NamesENG": "Hifumi",
-		"TextENG": "``However, there is a wide range of symptoms these viruses can cause."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1728,7 +1728,7 @@
 		"PreTextTags": "@vS13/00/550200167.",
 		"TextJPN": "「そのため初期の診断ではウィルスに起因するものと判断できない場合が多いのですが、雛見沢症候群はそれとは違い、極めて特有の症状を有しています」",
 		"NamesENG": "Hifumi",
-		"TextENG": "Therefore, in many cases, the initial diagnosis cannot be determined to be caused by a virus. On the other hand, symptoms of Hinamizawa Syndrome are very specific to that disease.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1764,7 +1764,7 @@
 		"PreTextTags": "@vS13/00/550200172.",
 		"TextJPN": "「また、末期患者にしか見られない行為であることから、これは一部の感染症に見られるのと同じ、エクソダスであると考えられます」",
 		"NamesENG": "Hifumi",
-		"TextENG": "Also, since that symptom was only seen with terminal stage patients, I believe that's a means of exodus, something we've seen before in several infectious diseases."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1773,7 +1773,7 @@
 		"PreTextTags": "@vS13/00/550200173.",
 		"TextJPN": "「感染者の体内で十分に成長し幼虫を繁殖させた後、ウィルスは体外へ脱出し次なる感染者を探すのです」",
 		"NamesENG": "Hifumi",
-		"TextENG": "Viruses mature inside of an organism, reproduce, then leave the host and look for the next one.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1782,7 +1782,7 @@
 		"PreTextTags": "@vS13/00/552100002.",
 		"TextJPN": "「…では、その血液にはウィルスもしくは幼生が満たされているわけであり、@k@vS13/00/552100003.防疫の知識のない現地の兵士がそれに触れていたならば、彼らも感染していた可能性があるわけです」",
 		"NamesENG": "Kanryou",
-		"TextENG": "``So what do you think about the fact that the cases were only seen in the soldiers from Hinamizawa?@k@vS13/00/552100003. If the local soldiers, who had no knowledge of quarantine, had been exposed to it, they could have been infected as well."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1818,7 +1818,7 @@
 		"PreTextTags": "@vS13/00/552200002.",
 		"TextJPN": "「…ありえないですよ高野先生。@k@vS13/00/552200003.ウィルスに社会性があるなど聞いたこともない」",
 		"NamesENG": "Kanryou",
-		"TextENG": "``That can't be possible, Dr. Takano.@k@vS13/00/552200003. I've never heard of a virus being social.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1848,7 +1848,7 @@
 		"PreTextTags": "@vS13/00/552300002.",
 		"TextJPN": "「高野先生のご高説を賜りながら、先の資料を拝見させていただきました。@k@vS13/00/552300003.まず申し上げて、脳内に潜伏したウィルスが人間の思想をコントロールするなど、まったくもってありえないことです」",
 		"NamesENG": "Kanryou",
-		"TextENG": "``Dr. Takano, I've been reviewing your data while listening to your gracious presentation.@k@vS13/00/552300003. First of all, it is simply impossible for viruses to control human minds."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1866,7 +1866,7 @@
 		"PreTextTags": "@vS13/00/552300006.",
 		"TextJPN": "「それに介在するウィルスがいるなど、@k@vS13/00/552300007.は！　考えられませんよ」",
 		"NamesENG": "Kanryou",
-		"TextENG": "Yet you would say viruses intervene in that?!@k@vS13/00/552300007. Please, that's absurd.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1884,7 +1884,7 @@
 		"PreTextTags": "@vS13/00/552100006.",
 		"TextJPN": "「つまり、社会性を維持する最前提条件なわけですな。@k@vS13/00/552100007.それが、遺伝子を残すこと以上の欲求を持たないウィルス如きに宿るわけがない」",
 		"NamesENG": "Kanryou",
-		"TextENG": "In other words, that's the most important prerequisite condition for a society.@k@vS13/00/552100007. There's no way viruses would be gifted with that, when their only demand is to pass on their genes."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1893,7 +1893,7 @@
 		"PreTextTags": "@vS13/00/552100008.",
 		"TextJPN": "「生物学的にもいって、ウィルス性の微細な生命体に社会性、真社会性が発見されたことは一度たりともありません」",
 		"NamesENG": "Kanryou",
-		"TextENG": "In the field of biology, there has never once been a discovery of sociality or eusociality within viruses.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1902,7 +1902,7 @@
 		"PreTextTags": "@vS13/00/550200178.",
 		"TextJPN": "「し、しかし、脳内の生命体が宿主の行動に干渉するケースは非常に多く報告されており…、」",
 		"NamesENG": "Hifumi",
-		"TextENG": "``B-But, there are cases of different life forms interfering with the host's behavior...``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1911,7 +1911,7 @@
 		"PreTextTags": "@vS13/00/552200004.",
 		"TextJPN": "「高野先生はひとつ、誤解をされていますな。@k@vS13/00/552200005.ウィルスが宿主の行動を支配する原理は常に生殖・繁殖のためという極めて原始的理念に基づくものだけです」",
 		"NamesENG": "Kanryou",
-		"TextENG": "``You're misunderstanding one thing, Dr. Takano.@k@vS13/00/552200005. The principle that drives viruses capable of controlling their host is always reproduction and propagation. It's only that primitive concept."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1938,7 +1938,7 @@
 		"PreTextTags": "@vS13/00/552300008.",
 		"TextJPN": "「そうです。全てのウィルスの目的は繁殖のため。@k@vS13/00/552300009.そんな存在が、神の芸術とも言える脳に潜伏し、@k@vS13/00/552300010.…いやいや、潜伏すること自体は別におかしいことではない」",
 		"NamesENG": "Kanryou",
-		"TextENG": "``Indeed. The purpose of all these viruses is reproduction.@k@vS13/00/552300009. For them to infest the brain, God's masterpiece,@k@vS13/00/552300010. ...No, no, infecting the brain itself isn't that strange."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1965,7 +1965,7 @@
 		"PreTextTags": "@vS13/00/552000014.",
 		"TextJPN": "「だとしたら、日本中のそれらの文化は全てウィルスによるものなのですか？@k@vS13/00/552000015.　それらは文化的なものであって、雛見沢の件に限ってはウィルスによるもの。@k@vS13/00/552000016.その区別をどう立証されたのですか」",
 		"NamesENG": "Kanryou",
-		"TextENG": "So are you saying all of them were due to viruses?@k@vS13/00/552000015. Or that they were all due to cultural reasons, except the one in Hinamizawa, which was caused by viruses?@k@vS13/00/552000016. How do you establish the distinction?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2046,7 +2046,7 @@
 		"PreTextTags": "@vS13/00/552000018.",
 		"TextJPN": "「それに対し、ウィルスによる意識支配を重ねられることは、」",
 		"NamesENG": "Kanryou",
-		"TextENG": "In contrast, the virus can take over your consciousness..."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2091,7 +2091,7 @@
 		"type": "MSGSET",
 		"MessageID": 3108,
 		"TextJPN": "そんなウィルスは聞いたことがない、ありえない。",
-		"TextENG": "We've never heard of viruses like that. That's impossible."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2172,7 +2172,7 @@
 		"PreTextTags": "@vS13/00/552200013.",
 		"TextJPN": "「何しろ、人間の文化や思想は全てナノ単位の脳内生命体の意思によるもので、前頭葉は彼らを住まわせるだけの場所に過ぎないという、@k@vS13/00/552200014.ははは、大胆な説なのですから」",
 		"NamesENG": "Kanryou",
-		"TextENG": "After all, you're suggesting that human culture and ideology is all the will of microorganisms, and our frontal lobe is a place for them to live.@k@vS13/00/552200014. Hahaha, what an audacious theory.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2355,7 +2355,7 @@
 		"PreTextTags": "@vS13/00/552300016.",
 		"TextJPN": "「高野氏の研究は、単なる感染症の域を超えるだけのポテンシャルを秘めていると言えるでしょうな」",
 		"NamesENG": "Kanryou",
-		"TextENG": "``Dr. Takano's research has the potential of encompassing more than just mere disease.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2622,7 +2622,7 @@
 		"PreTextTags": "@vS13/00/fixer55014.",
 		"TextJPN": "「…小泉くん、わかっているかね。……この研究は『パンドラの箱』だということを」",
 		"NamesENG": "Elder",
-		"TextENG": "``...Koizumi-kun, do you understand... that this research is literally ``Pandora's box``?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -3576,7 +3576,7 @@
 		"PreTextTags": "@vS13/00/zemicho55001.",
 		"TextJPN": "「まさか、才女のあなたが伝染病研に来られるとは思いませんでした。@k@vS13/00/zemicho55002.貴女ほどの方なら、引っ張り凧だったでしょうに…。@k@vS13/00/zemicho55003.てっきり、もっと見栄えのいい研究に関心を寄せられると思っていました」",
 		"NamesENG": "Seminar's head",
-		"TextENG": "``I didn't expect a talented woman like you to end up at this Institute of Infectious Diseases.@k@vS13/00/zemicho55002. I'm sure everyone wanted you, huh?@k@vS13/00/zemicho55003. I assumed you were interested in something bigger.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -3585,7 +3585,7 @@
 		"PreTextTags": "@vS13/09/550500137.",
 		"TextJPN": "「私が学びたいこと、研究したいことが、伝染病だからです。@k@vS13/09/550500138.私は、今日、ここで学べる資格を得るために勉学に勤しんできました。@k@vS13/09/550500139.…私如きでは学ぶ資格はありませんか？」",
 		"NamesENG": "Miyo",
-		"TextENG": "``I want to study and research epidemics.@k@vS13/09/550500138. I've worked hard to earn the right to study here.@k@vS13/09/550500139. Aren't I qualified to learn?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -3603,7 +3603,7 @@
 		"PreTextTags": "@vS13/00/zemicho55006.",
 		"TextJPN": "「ようこそ、伝染病研へ。@k@vS13/00/zemicho55007.嫌われがちな学問でね。@k@vS13/00/zemicho55008.研究者はまだまだ少ない。@k@vS13/00/zemicho55009.だから他の学問に比べて未知の分野が多いのです」",
 		"NamesENG": "Seminar's head",
-		"TextENG": "Welcome to the Institute of Infectious Diseases.@k@vS13/00/zemicho55007. People usually aren't that interested in our field.@k@vS13/00/zemicho55008. There aren't too many researchers who study it.@k@vS13/00/zemicho55009. That's why there's still a lot of unknown elements, compared to other fields.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -3615,7 +3615,7 @@
 		"type": "MSGSET",
 		"MessageID": 3328,
 		"TextJPN": "伝染病の世界は未知の世界。",
-		"TextENG": "The world of infectious diseases is an unknown world."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -3642,7 +3642,7 @@
 		"PreTextTags": "@vS13/09/550500140.",
 		"TextJPN": "「伝染病の世界には、まだまだ解き明かされていない未知があります。@k@vS13/09/550500141.私は、それを解くために。@k@vS13/09/550500142.…それを解こうとする人の力になるために、ここまでやって来たのです」",
 		"NamesENG": "Miyo",
-		"TextENG": "``There are still many unsolved mysteries in the world of infectious diseases.@k@vS13/09/550500141. I'm here to solve them.@k@vS13/09/550500142. I came here to help the people who want to solve them.``"
+		"TextENG": ""
 	},
 	{
 		"type": "LOGSET",

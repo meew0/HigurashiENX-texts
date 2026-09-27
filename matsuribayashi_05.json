@@ -561,7 +561,7 @@
 		"PreTextTags": "@vS13/10/DS41100040.",
 		"TextJPN": "「村人が錯乱する前に、…全員に緊急措置を速やかに執行する、というものです。@k@vS13/10/DS41100041.具体的には、自衛隊の緊急時専門の部隊が雛見沢を封鎖して、すべてを『なかった』ことにしてしまう…」",
 		"NamesENG": "Irie",
-		"TextENG": "``The idea is to quickly execute emergency measures on everyone before the villagers become delirious.@k@vS13/10/DS41100041. To be exact, a special unit from the Self Defense Force will seal off Hinamizawa and pretend the whole thing never happened.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1458,7 +1458,7 @@
 		"PreTextTags": "@vS13/03/DS41030096.",
 		"TextJPN": "「いい？@k　@vS13/03/DS41030097.女王が死ねば村が大混乱に陥る。@k@vS13/03/DS41030098.それを隠蔽するために大掛かりな緊急措置が決行されて、すべてが『なかった』ことにされてしまう」",
 		"NamesENG": "Mion",
-		"TextENG": "``Listen.@k@vS13/03/DS41030097. If the queen dies, the village is plunged into chaos.@k@vS13/03/DS41030098. To cover it up, an emergency operation is carried out."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2236,7 +2236,7 @@
 		"PreTextTags": "@vS13/03/DS41030158.",
 		"TextJPN": "「さもなきゃ某国の軍事顧問団に特訓を受けたサバイバル技術のプロとかね。@k@vS13/03/DS41030159.ジャングルに潜り込めば、わずかの武器とトラップだけで敵部隊をまるまる混乱させられるくらいのヤツとか！」",
 		"NamesENG": "Mion",
-		"TextENG": "Either that or a professional survivalist who underwent special forces training in certain country.@k@vS13/03/DS41030159. That or someone capable of causing confusion in their ranks with just a truck and a few weapons once they're in the jungle!``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2299,7 +2299,7 @@
 		"PreTextTags": "@vS13/03/DS41030169.",
 		"TextJPN": "「うん。@k@vS13/03/DS41030170.沙都子と裏山に篭城すれば、攻め手側は、裏山をまるごとえぐるくらいの艦砲射撃に加えて、空からの重爆撃が最低限必要だね」",
 		"NamesENG": "Mion",
-		"TextENG": "``Yeah.@k@vS13/03/DS41030170. If she holes up with Satoko in the hills behind us, then her assailants will need either a bombardment capable of crossing the whole thing, or a heavy bomber at least."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2317,7 +2317,7 @@
 		"PreTextTags": "@vS13/03/DS41030172.",
 		"TextJPN": "「しかも作戦指示は私！@k　@|@y@vS13/03/DS41030173.…まぁ、攻め手側には過半数以上の損害を覚悟してもらうことになるだろうねぇ！@k　@vS13/03/DS41030174.くっくっく、ねぇ沙都子ぉ？」",
 		"NamesENG": "Mion",
-		"TextENG": "Furthermore, I'd be commanding the operations!@k@|@y@vS13/03/DS41030173. ...Well, her assailants better be prepared for heavy casualties!@k@vS13/03/DS41030174. Heh heh heh, right, Satoko?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2344,7 +2344,7 @@
 		"PreTextTags": "@vS13/03/DS41030175.",
 		"TextJPN": "「奇襲とトラップってのはね、相手が誰であっても非常に効果があるんだよ。@k@vS13/03/DS41030176.歴史上でも、それを証明した例は数多くある」",
 		"NamesENG": "Mion",
-		"TextENG": "``Surprise attacks and traps are effective against anyone.@k@vS13/03/DS41030176. There are many examples in history that prove this."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -2353,7 +2353,7 @@
 		"PreTextTags": "@vS13/03/DS41030177.",
 		"TextJPN": "「最高の装備で挑んだ最新鋭の軍隊が、密林や山岳部ではその能力を全く発揮できずに敗れ去った、とかね」",
 		"NamesENG": "Mion",
-		"TextENG": "A state-of-the-art army, equipped with the best equipment, is defeated in the jungle or mountainous areas without being able to show its full potential."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

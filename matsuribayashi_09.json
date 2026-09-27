@@ -87,7 +87,7 @@
 		"PreTextTags": "@vS13/00/VT4A_elderA1006.",
 		"TextJPN": "「あー、ちょうどいいところに！@k　@vS13/00/VT4A_elderA1007.入江の先生がね、梨花ちゃまたち峠は越したって言うてんねぇ」",
 		"NamesENG": "Old person",
-		"TextENG": "``Ah, look who is here!@k@vS13/00/VT4A_elderA1007. Dr. Irie just told us that Rika-chama and her friend are starting to get better.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -582,13 +582,13 @@
 		"PreTextTags": "@vS14/00/223000015.",
 		"TextJPN": "「…そうと決まればわしの方も少々準備がいる。@k@vS14/00/223000018.…大石、全部終わった後は、ちょいとデカくおごってもらうぞい！」",
 		"NamesENG": "Forensic Investigator",
-		"TextENG": "``...I'll have to make some preparations first.@k@vS14/00/223000018. Ooishi, when all this is over, you have to treat me to something big, okay?``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 117054,
 		"TextJPN": "何しろ、早ければ明日の朝から勝負になる世紀の大芝居だ。鑑識の爺さまも、仲間や検死医の連中への挨拶で大わらわになるだろう。",
-		"TextENG": "After all, it was the big play of the century, and the game would begin as early as tomorrow morning. The old forensic scientist will be busy greeting his colleagues and the coroner."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1485,7 +1485,7 @@
 		"PreTextTags": "@vS14/16/222200059.",
 		"TextJPN": "「ダム戦争から何年経ってると思ってんだい。@k@vS14/16/222200060.いつまでも戦争状態じゃ、心も体も持たないよ。@k@vS14/16/222200061.それだけの時間が経ってるんだ」",
 		"NamesENG": "Akane",
-		"TextENG": "``How long do you think it's been since then?@k@vS14/16/222200060. If we stay at war forever, our minds and bodies won't survive.@k@vS14/16/222200061. That's how long it's been.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

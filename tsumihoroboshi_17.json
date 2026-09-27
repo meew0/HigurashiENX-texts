@@ -855,7 +855,7 @@
 		"type": "MSGSET",
 		"MessageID": 86442,
 		"TextJPN": "レナの話だと、太古の綿流しは『ハラワタ流し』と書く物騒なもので、寄生された生贄の臓腑を饗するものだったらしい。",
-		"TextENG": "In olden times, Watanagashi was called Harawata-nagashi, harawata meaning ``guts``. It's said the people back then used to eat the guts of infected people who went crazy."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1930,7 +1930,7 @@
 		"MessageID": 86574,
 		"PreNameTags": "@c955.",
 		"TextJPN": "そう……まるで、犯人が悟史くんではないと主張するように別の被疑者が現れ、……そして、真偽を確かめる前に死亡した――。",
-		"TextENG": "So... another suspect appeared as if to claim that the killer was not Satoshi-kun... and died before they could verify the truth."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

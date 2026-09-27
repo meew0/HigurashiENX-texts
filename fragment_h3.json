@@ -9,19 +9,19 @@
 		"type": "MSGSET",
 		"MessageID": 7933,
 		"TextJPN": "居間でのんびり涼んでいたところへ、玄関先から私を呼ぶ声が聞こえてくる。",
-		"TextENG": "I was relaxing and cooling off in the living room when I heard a voice calling me from the doorway."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 7934,
 		"TextJPN": "声はうちのお手伝いの、沁子さんか。誰か来たらしい。",
-		"TextENG": "The voice was that of our nanny, Kyouko. I heard someone was here."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 7935,
 		"TextJPN": "名前はよく聞き取れなかったが、どうやら私あてのお客さんのようだ。",
-		"TextENG": "I couldn't quite catch her name, but she seemed to be a customer of mine."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -42,13 +42,13 @@
 		"type": "MSGSET",
 		"MessageID": 7938,
 		"TextJPN": "そう言いながらひょこっ、と廊下へ顔だけ出すと、玄関の引戸から一歩入った土間に、沁子さんと並んで梨花ちゃんの姿が見えた。",
-		"TextENG": "As I said this, I walked into the hallway and saw Rika alongside Kyoko in the dirt floor of the sliding front door."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 7939,
 		"TextJPN": "通常のお客さんは門の前で出迎えるのが基本だが、炎天下で待たせては、と気を遣ってくれたのだろう。",
-		"TextENG": "Usually visitors are greeted at the gate, but I guess they didn't want us to wait in the hot sun."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

@@ -1000,7 +1000,7 @@
 		"type": "MSGSET",
 		"MessageID": 109716,
 		"TextJPN": "それを聞いて、彼は無言のまま再び窓の外に目を向ける。……結局、首謀者と見られる人物が無き今となっては、そこにある陰謀の真相は永遠に闇の中、ということになるだろう……。",
-		"TextENG": "When he heared this, he silently turned his eyes out the window again... In the end, now that there was no one who could be considered the ringleader, the truth of the conspiracy would be in the dark forever..."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1284,7 +1284,7 @@
 		"type": "MSGSET",
 		"MessageID": 109753,
 		"TextJPN": "そして、中隊長は感情を押し殺した低い声で、作戦の開始を命令する。",
-		"TextENG": "In a low voice that stifled his emotions, the commander ordered the operation to begin."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1359,7 +1359,7 @@
 		"PreTextTags": "@vS12/00/forceO28001.",
 		"TextJPN": "「脱走者全員の逃亡を阻止。@k@vS12/00/forceO28002.銃声は駐在警官が反撃したものです」",
 		"NamesENG": "Self-Defense Force Member",
-		"TextENG": "``Prevented the escape of all escapees.@k@vS12/00/forceO28002. One of the residential policemen shot back.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1368,7 +1368,7 @@
 		"PreTextTags": "@vS12/00/forceP28001.",
 		"TextJPN": "「マニュアルに従い対処を行え。@k@vS12/00/forceP28002.一般犠牲者と一緒にしないよう注意せよ」",
 		"NamesENG": "Self-Defense Force Member",
-		"TextENG": "``Take action according to manual.@k@vS12/00/forceP28002. Do not put them with the other corpses.``"
+		"TextENG": ""
 	},
 	{
 		"type": "LOGSET",
@@ -1401,7 +1401,7 @@
 		"PreTextTags": "@vS12/00/forceR28001.",
 		"TextJPN": "「第２小隊より本部。@k@vS12/00/forceR28002.作戦終了」",
 		"NamesENG": "Self-Defense Force Member",
-		"TextENG": "``This is the Second Platoon.@k@vS12/00/forceR28002. Operation completed.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -1410,7 +1410,7 @@
 		"PreTextTags": "@vS12/00/forceV28001.",
 		"TextJPN": "「了解。@k@vS12/00/forceV28002.機密保持部隊の全小隊は確認を厳重に行なわれたし」",
 		"NamesENG": "Self-Defense Force Member",
-		"TextENG": "``Roger that.@k@vS12/00/forceV28002. All platoons of the security forces have been rigorously checked.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

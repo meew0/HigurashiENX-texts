@@ -54,7 +54,7 @@
 		"type": "MSGSET",
 		"MessageID": 103953,
 		"TextJPN": "……確かに、家庭問題の相談が繁盛しているようでは世も末だ。",
-		"TextENG": "Certainly, it is the end of the world when counseling on family issues seems to be thriving."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -207,7 +207,7 @@
 		"PreTextTags": "@vS12/03/MIO081601.",
 		"TextJPN": "「生活上の問題を見たり聞いたりしたらご通報くださいなんてのがいっぱいあるよ。@k@vS12/03/180300332.だから私たちみたいなのが来ても、決してお門違いってわけじゃなさそうだね」",
 		"NamesENG": "Mion",
-		"TextENG": "``'If you see or hear about any problems in someones life, please let us know.'@k@vS12/03/180300332. I guess we came to the right place.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -330,55 +330,55 @@
 		"type": "MSGSET",
 		"MessageID": 103991,
 		"TextJPN": "相談員の人は慣れた様子で@bそうごう.@<相好@>を崩すと、手帳を広げながら言葉を切り出す。",
-		"TextENG": "The counselor broke his phase in a familiar manner and began to speak, unfolding his notebook."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 103992,
 		"TextJPN": "それを受けて俺は皆を代表するかたちで、沙都子の現状と予測される事について説明した。",
-		"TextENG": "In response, I spoke on behalf of everyone and explained Satoko's current situation and what to expect."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 103993,
 		"TextJPN": "慎重に言葉を選び、レナと魅音のフォローを受けながら詳しく話してゆく。",
-		"TextENG": "I chose my words carefully and spoke in detail with Rena and Mion."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 103994,
 		"TextJPN": "……途中、詩音がもどかしさに何度もいきり立つ場面があったが、その都度二人がとりなしてくれたおかげで、とりあえず用意してきた必要最低限のことを伝えることができた。",
-		"TextENG": "During the course of the meeting, there were many times when Shion became frustrated and lost her temper, but thanks to the other two interceding each time, she was able to convey the bare minimum of what she had prepared."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 103995,
 		"TextJPN": "それでも、……状況は決して甘いものではなかった。",
-		"TextENG": "Still... the situation was not as sweet as it could have been."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 103996,
 		"TextJPN": "当然だろう。俺たちは明らかに部外者なのだ。そして、俺たちは全員、『子供』。……どれだけ背伸びしても、正当性を訴えたところで、それは厳然たる事実だった。",
-		"TextENG": "Of course. We're obviously outsiders. And we're all children. No matter how grown up we tried to be, no matter how much we tried to justify it, it was a hard fact."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 103997,
 		"TextJPN": "そして悲しいことに、気持ちを込めて言葉を重ねれば重ねるほど、沙都子の身を案じれば案じるほど、……『大人の論理』に立ち向かうには自分たちがいかに稚拙であるかを痛感させられる。",
-		"TextENG": "And sadly, the more we put our heart and soul into our words, the more we fear for Satoko's safety, the more we realize how poorly we can stand up to the ``logic of adults``."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 103998,
 		"TextJPN": "……そして、結構な時間を費やして俺たち全員が得たものは、徒労ですらなかった。",
-		"TextENG": "And what all of us got out of it, after spending quite a bit of time, was not even a grain of understanding."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 103999,
 		"TextJPN": "そう。それは、…………現実という高い壁に阻まれた、無力感だった。",
-		"TextENG": "Yes. It was a feeling of helplessness... blocked by the high wall of reality."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -387,7 +387,7 @@
 		"PreTextTags": "@vS12/00/181200032.",
 		"TextJPN": "「…お話はわかりました。@k@vS12/00/181200036.本日は貴重なお話をお聞かせくださり、誠にありがとうございました」",
 		"NamesENG": "Counselor",
-		"TextENG": "``I understand your concerns.@k@vS12/00/181200036. Thank you very much for sharing your valuable time with us today.``"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

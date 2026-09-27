@@ -132,7 +132,7 @@
 		"type": "MSGSET",
 		"MessageID": 101685,
 		"TextJPN": "羽入はワインの匂いが苦手だ。ちょっと嗅いだだけで、目が回るような気分になるらしい。",
-		"TextENG": "Hanyuu is not fond of the smell of wine. Just a whiff of it makes her feel giddy."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -144,13 +144,13 @@
 		"type": "MSGSET",
 		"MessageID": 101687,
 		"TextJPN": "といっても、ブドウの匂いがすれば全てワイン、なんて勝手に決め付けて、勘違いしてるだけなんだけど。",
-		"TextENG": "However, She's just making the mistake of assuming that if it smells like grapes, it's all wine."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 101688,
 		"TextJPN": "…………いつになったら私の飲んでいるのがワインじゃなく、ただのブドウジュースだと気づくのかな。@kそれが長い時間で見つけた、私のひそやかな楽しみ。",
-		"TextENG": "............I wonder when she will realize that what I am drinking is not wine, but just grape juice.@k My secret pleasure I found a long time ago."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -321,7 +321,7 @@
 		"type": "MSGSET",
 		"MessageID": 101710,
 		"TextJPN": "…当然だが、私がブドウジュースを隠れて買ってることも、それをワインと呼んでいることも沙都子には内緒だ。@k見つかったら、嘘が羽入にばれてしまう。",
-		"TextENG": "...Of course, I didn't tell Satoko that I'm buying grape juice in secret, or that I call it wine.@k If she will find out, Hanyuu will find out about the lie."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

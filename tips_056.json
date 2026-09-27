@@ -11,7 +11,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "福児庶エ２－３第４４号",
 		"AfterTextTags": "@|@y",
-		"TextENG": "Children with special needs, general, E2-3 Number 44"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -91,7 +91,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "　※養父と実母は昭和５１年に入籍。",
 		"AfterTextTags": "@|@y",
-		"TextENG": "Note: Adoptive father and real mother entered family registry in 1976."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -107,7 +107,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "（４）興宮生活相談所の対応",
 		"AfterTextTags": "@|@y",
-		"TextENG": "(4) Child consultation center's response"
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

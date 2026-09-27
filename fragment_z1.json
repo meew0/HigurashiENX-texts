@@ -21,13 +21,13 @@
 		"type": "MSGSET",
 		"MessageID": 11347,
 		"TextJPN": "＜F.それぞれの世界＞の『F6 南井まどか』@r＜W.昭和４０年代の世界＞の『W6 捜査打ち切り』@r…以上のカケラを見た後、選択できるようになるわよ。",
-		"TextENG": "``F6 Madoka Minai`` in the World of Each Respectively@r``W6 Investigation Closed`` in the World of 1965-1974@r...After viewing the above pieces, you will be able to select this one."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 11348,
 		"TextJPN": "そして、@r＜V.南井巴の世界＞の『V6 サイコロの６』@r…以上のカケラの出現に関わってくるわよ。",
-		"TextENG": "Also, ``V6 A 6 on the Dice`` in the World of Tomoe Minai@r...This additional fragment will be involved in their unlocking."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

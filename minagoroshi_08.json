@@ -378,7 +378,7 @@
 		"type": "MSGSET",
 		"MessageID": 102287,
 		"TextJPN": "……それを聞いて、入江の顔から笑みが消え、沈痛な思いをため息に換えて唇をかむ。@k一度末期状態にまで陥った沙都子を全快させることの難しさは、言葉として聞かなくても瞭然だった。",
-		"TextENG": "...Hearing this, the smile disappeared from Irie's face and he bit his lips, replacing the sinking feeling with a sigh.@k The difficulty of making Satoko fully recover once she had fallen into a terminal state was obvious even without hearing it in words."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -393,13 +393,13 @@
 		"type": "MSGSET",
 		"MessageID": 102289,
 		"TextJPN": "それでも、日常生活に支障をきたすものであることに違いはない。@kそして、記憶と経験が密接に関わっている以上、一般的な治療よりもずっと繊細なカウンセリングと、長期の投薬が必要だ。",
-		"TextENG": "Still, it's no different than anything else that interferes with your daily life.@k And since memory and experience are so closely related, it requires much more sensitive counseling and long-term medication than most treatments."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 102290,
 		"TextJPN": "……しかも、全快したといってもそれは他者からみた客観的な判断でしかなく、@k……あるいは一生、潜在的に残り続けて再発する可能性もゼロではないのだ。",
-		"TextENG": "Moreover, even though she was fully recovered, that was only an objective judgment from the point of view of others.@k Or there is no chance that it will potentially remain and recur for the rest of my life."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",
@@ -414,7 +414,7 @@
 		"type": "MSGSET",
 		"MessageID": 102292,
 		"TextJPN": "鷹野がそう言ってフォローするが、……それは誰に向けての言葉なのか。@k言動の違いこそあれ、二人が見せるそれぞれの苦悩のさまが、富竹には痛いほどわかった。",
-		"TextENG": "Takano follows up by saying that... but to whom are those words directed?@k Despite the differences in their words and actions, Tomitake was able to painfully understand the anguish each of them was going through."
+		"TextENG": ""
 	},
 	{
 		"type": "MSGSET",

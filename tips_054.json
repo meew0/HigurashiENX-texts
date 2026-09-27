@@ -43,7 +43,7 @@
 		"PreTextTags": "@s0.@a0.",
 		"TextJPN": "――単調な生活に退屈していた羊飼いの少年がある日、『狼が来た』といって大騒ぎする。それを聞いた大人たちは武器を手に駆けつけ騒然とするが、実は、それは少年の嘘だった。",
 		"AfterTextTags": "@|@y",
-		"TextENG": "――One day, a shepherd boy, bored of his monotone life, cries out that ``a wolf has come!``. Upon hearing this, the adults all come running out with weapons in their hands and make a big commotion, but in reality, it was just the boy's lie."
+		"TextENG": "―One day, a shepherd boy, bored of his monotone life, cries out that ``a wolf has come!``. Upon hearing this, the adults all come running out with weapons in their hands and make a big commotion, but in reality, it was just the boy's lie."
 	},
 	{
 		"type": "MSGSET",

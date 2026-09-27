@@ -21,13 +21,13 @@
 		"type": "MSGSET",
 		"MessageID": 16114,
 		"TextJPN": "レナのときは、気安く話しかけるだけでよかった。だけど、この年頃の男の子はあまり女の子に近づきたがらないと聞いている。",
-		"TextENG": "When Rena came here, all I had to do was talk to her casually. But I heard that boys our age don't really like to be friends with girls."
+		"TextENG": "When Rena came, all I had to do was talk to her casually. But I heard that boys our age don't really like to be friends with girls."
 	},
 	{
 		"type": "MSGSET",
 		"MessageID": 16115,
 		"TextJPN": "だから、いざ転校して教室に入ってきたときは、正直どう接したらいいか、どうやったらクラスの輪にうまく溶け込むことができるだろうか、……なんて色々と考えて、ちょっとだけ気が重かったのも、確かだ。",
-		"TextENG": "So I was a bit unsure about how to talk to him when he first comes into the classroom, and how to best integrate him into the class. ...It's definitely true that I was feeling a bit down while thinking about all that."
+		"TextENG": "So I was a bit unsure about how to talk to him when he first came into the classroom, and how to best integrate him into the class. ...It's definitely true that I was feeling a bit down while thinking about all that."
 	},
 	{
 		"type": "MSGSET",
@@ -69,7 +69,7 @@
 		"type": "MSGSET",
 		"MessageID": 16122,
 		"TextJPN": "……ああ、早く明日にならないかな。",
-		"TextENG": "...Ah, I want tomorrow to come quickly."
+		"TextENG": "...Ah, I want tomorrow to come soon."
 	},
 	{
 		"type": "MSGSET",
@@ -81,6 +81,6 @@
 		"type": "MSGSET",
 		"MessageID": 16124,
 		"TextJPN": "悔しがったり、喜んだり、文字通り一喜一憂する今日の彼の顔を思い浮かべながら、私はまどろむ意識の中、眠りの海へと漕ぎ出していった……。",
-		"TextENG": "I was thinking about his face today that was almost literally swinging between joy and sorrow, while I slowly started rowing out onto the sea of sleep within my fading consciousness."
+		"TextENG": "I was thinking about the faces he made today, almost literally swinging between joy and sorrow, while I slowly started rowing out onto the sea of sleep within my fading consciousness."
 	}
 ]

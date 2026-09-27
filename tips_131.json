@@ -135,7 +135,7 @@
 		"PreTextTags": "@vS20/04/440400115.",
 		"TextJPN": "「そ、そんなカメレオンみたいに長い舌伸ばして巻きつけてくるような人のお言葉の、どこを信用しろとおっしゃるのでございますかぁぁあぁッ？！」",
 		"NamesENG": "Satoko",
-		"TextENG": "``How- how am I supposed to believe any of your words when you say them like a chameleon would stretch out its long tongue and wrap someone up in iiiiiitttt?!``"
+		"TextENG": "``How- how am I supposed to believe any of your words when you say them like a chameleon would stretch out its long tongue and wrap someone up in it?!``"
 	},
 	{
 		"type": "MSGSET",
@@ -180,6 +180,6 @@
 		"type": "MSGSET",
 		"MessageID": 16182,
 		"TextJPN": "……かぁいいも、行き過ぎればまさにホラーである。",
-		"TextENG": "...By overdoing it, ``kyute`` can easily become ``horror``."
+		"TextENG": "...If you overdo it, ``kyute`` can easily turn into ``horror``."
 	}
 ]
